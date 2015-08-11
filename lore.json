@@ -1,5 +1,4 @@
 {
-  /* Six Heroes */
   "Vargas": {
     "name": "Vargas",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Vargas",
@@ -167,7 +166,6 @@
       "<span class='pseudolink' onclick=searchName('Leomurg')>Leomurg</span>"
     ]
   },
-  /* Champions of Old */
   "Zegar": {
     "name": "Zegar",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zegar",
@@ -312,7 +310,6 @@
       "<span class='pseudolink' onclick=searchName('Vargas')>Vargas</span>"
     ]
   },
-  /* Mages of Old */
   "Liza": {
     "name": "Liza",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Liza",
@@ -439,7 +436,6 @@
       "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>"
     ]
   },
-  /* Scums of Old */
   "Leon": {
     "name": "Leon",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Leon",
@@ -526,7 +522,6 @@
       "<span class='pseudolink' onclick=searchName('Falma')>Falma</span>"
     ]
   },
-  /* Legendary Disposables */
   "Granados": {
     "name": "Granados",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Firedrake",
