@@ -141,18 +141,26 @@
   }
 
   $(document).on('click', '#clearFilters', function(e) {
-    unitList = [];
-    $.getJSON(jsonURL, function(data) {
-      buildList(data);
+    $.ajax({
+      dataType: 'json',
+      url: jsonURL,
+      success: function(data) {
+        unitList = [];
+        buildList(data);
+      }
     })
     $(unitTable).html('<h3>Search for the batch, unit, or location you want to view.</h3>');
   })
 
   $(document).ready( function(e) {
-    unitList = [];
-    $.getJSON(jsonURL, function(data) {
-      buildList(data);
-    })
+    $.ajax({
+      dataType: 'json',
+      url: jsonURL,
+      success: function(data) {
+        unitList = [];
+        buildList(data);
+      }
+    });
   })
   </script>
   <body>
