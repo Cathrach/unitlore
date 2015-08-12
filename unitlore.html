@@ -27,6 +27,8 @@
 
   <script src='unitlore.js'></script>
 
+  <script src='lore.js'></script>
+
   <style type="text/css">
   .pseudolink {
     color:blue;
@@ -81,8 +83,6 @@
   <script type='text/javascript'>
 
   var imgPrePath = "http://v2.cdn.android.brave.a-lim.jp/";
-
-  var jsonURL = '//cathrach.github.io/unitlore/lore.json';
 
   function locSelect(item) {
     var outputUnit = [];
@@ -141,26 +141,14 @@
   }
 
   $(document).on('click', '#clearFilters', function(e) {
-    $.ajax({
-      dataType: 'json',
-      url: jsonURL,
-      success: function(data) {
-        unitList = [];
-        buildList(data.responseJSON);
-      }
-    })
+    unitList = [];
+    buildList(raw);
     $(unitTable).html('<h3>Search for the batch, unit, or location you want to view.</h3>');
   })
 
   $(document).ready( function(e) {
-    $.ajax({
-      dataType: 'json',
-      url: jsonURL,
-      success: function(data) {
-        unitList = [];
-        buildList(data.responseJSON);
-      }
-    });
+    unitList = [];
+    buildList(raw);
   })
   </script>
   <body>
