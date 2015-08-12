@@ -59,6 +59,15 @@
           <li><a href='#' class='location'>Elgaia</a></li>
           <li><a href='#' class='location'>Other (Unspecified)</a></li>
         </ul>
+        <button type='button' class='btn btn-default dropdown-toggle' data-toggle='dropdown'>By Location <span class='caret'></span></button>
+        <ul class='dropdown-menu' role='menu'>
+          <li><a href='#' class='element'>Fire</a></li>
+          <li><a href='#' class='element'>Water</a></li>
+          <li><a href='#' class='element'>Earth</a></li>
+          <li><a href='#' class='element'>Thunder</a></li>
+          <li><a href='#' class='element'>Light</a></li>
+          <li><a href='#' class='element'>Dark</a></li>
+        </ul>
       </div>
     </div>
 
@@ -84,6 +93,20 @@
   <script type='text/javascript'>
 
   var imgPrePath = "http://v2.cdn.android.brave.a-lim.jp/";
+
+  function eleSelect(ele) {
+    var outputUnit = [];
+    var outputHTML = [];
+    for (i = 0; i < unitList.length; i++) {
+      if (unitList[i]['home'] == ele) {
+        outputUnit.push(unitList[i]);
+      }
+    }
+    for (i = 0; i < outputUnit.length; i++) {
+      outputHTML.push(outputUnit[i].collapsedInfo);
+    }
+    $(unitTable).html('<h3>' + outputHTML.length + ' units are of element ' + ele + '.</h3>' + outputHTML.join(' '));
+  }
 
   function locSelect(item) {
     var outputUnit = [];

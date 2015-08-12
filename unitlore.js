@@ -29,7 +29,7 @@ function buildList(unit) {
         for (var item = 0; item < value['lore']['story'].length; item++) {
           loreTOP += '<div class="row row-eq-height"><div class="col-md-2" style="vertical-align:center;"><b>' + value['lore']['rare'][item] + '<i class="fa fa-star"></i> Lore: ' + value['lore']['names'][item] + '</b></div>';
           loreTOP += '<div class="col-md-2"><img src="' + imgPrePath + 'unit/img/unit_ills_full_' + value['ids'][item] + '.png" style="width: 95%; display: block; margin-left: auto; margin-right: auto;"></div>';
-          loreTOP += '<div class="col-md-10">' + value['lore']['story'][item] + '</div></div>';          
+          loreTOP += '<div class="col-md-10">' + value['lore']['story'][item] + '</div></div>';
         }
       } else {
         loreTOP += '<div class="row"><div class="col-md-12">' + value['lore']['story'] + '</div>';
@@ -44,7 +44,7 @@ function buildList(unit) {
     }
     var split = '<div class="row">&nbsp;</div>';
     var infoStr = nameSTR + loreTOP + split + rel + '</div></div></div></div>';
-    unitList.push({"name": value.name, "collapsedInfo": infoStr, "home": value.home, "batch": value.batch, "names": value['lore']['names']});
+    unitList.push({"name": value.name, "collapsedInfo": infoStr, "home": value.home, "batch": value.batch, "names": value['lore']['names'], "element": value.element});
     collapseID += 1;
   });
 }

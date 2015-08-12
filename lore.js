@@ -4,6 +4,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Vargas",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=1",
     "batch": "Six_Heroes",
+    "element": "Fire",
     "home":"Agni",
     "ids": [10011, 10012, 10013, 10014, 10015, 10016],
     "lore": {
@@ -31,6 +32,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Selena",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=5",
     "batch": "Six Heroes",
+    "element": "Water",
     "home": "Sama",
     "ids": [20011, 20012, 20013, 20014, 20015, 20016],
     "lore": {
@@ -60,6 +62,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lance",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=9",
     "batch": "Six Heroes",
+    "element": "Earth",
     "home": "Vriksha",
     "ids": [30011, 30012, 30013, 30014, 30015, 30016],
     "lore": {
@@ -87,6 +90,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Eze",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=13",
     "batch": "Six Heroes",
+    "element": "Thunder",
     "home": "Atharva",
     "ids": [40011, 40012, 40013, 40014, 40015, 40016],
     "lore": {
@@ -115,6 +119,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Atro",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=17",
     "batch": "Six Heroes",
+    "element": "Light",
     "home": "La Veda",
     "ids": [50011, 50012, 50013, 50014, 50015, 50016],
     "lore": {
@@ -142,6 +147,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Magress",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=21",
     "batch": "Six Heroes",
+    "element": "Dark",
     "home": "Bariura",
     "ids": [60011, 60012, 60013, 60014, 60015, 60016],
     "lore": {
@@ -171,6 +177,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zegar",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=25",
     "batch": "Champions of Old",
+    "element": "Fire",
     "home": "Agni",
     "ids": [10021, 10022, 10023, 10024, 10025],
     "lore": {
@@ -196,6 +203,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zephu",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=28",
     "batch": "Champions of Old",
+    "element": "Water",
     "home": "Sama",
     "ids": [20021, 20022, 20023, 20024, 20025],
     "lore": {
@@ -219,6 +227,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lario",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=31",
     "batch": "Champions of Old",
+    "element": "Earth",
     "home": "Vriksha",
     "ids": [30021, 30022, 30023, 30024, 30025],
     "lore": {
@@ -243,6 +252,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Weiss",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=34",
     "batch": "Champions of Old",
+    "element": "Thunder",
     "home": "Atharva",
     "ids": [40021, 40022, 40023, 40024, 40025],
     "lore": {
@@ -267,6 +277,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Luna",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=37",
     "batch": "Champions of Old",
+    "element": "Light",
     "home": "La Veda",
     "ids": [50021, 50022, 50023, 50024, 50025],
     "lore": {
@@ -290,6 +301,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Mifune",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=40",
     "batch": "Champions_of_Old",
+    "element": "Dark",
     "home": "Bariura",
     "ids": [60021, 60022, 60023, 60024, 60025],
     "lore": {
@@ -315,6 +327,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Liza",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=55",
     "batch": "Mages of Old",
+    "element": "Fire",
     "home": "Agni",
     "ids": [10040, 10041, 10042],
     "lore": {
@@ -336,6 +349,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Merith",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=57",
     "batch": "Mages of Old",
+    "element": "Water",
     "home": "Sama",
     "ids": [20040, 20041, 20042],
     "lore": {
@@ -357,6 +371,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Claris",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=59",
     "batch": "Mages of Old",
+    "element": "Earth",
     "home": "Vriksha",
     "ids": [30040, 30041, 30042],
     "lore": {
@@ -378,6 +393,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/May",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=61",
     "batch": "Mages of Old",
+    "element": "Thunder",
     "home": "Atharva",
     "ids": [40040, 40041, 40042],
     "lore": {
@@ -399,6 +415,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Mimir",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=63",
     "batch": "Mages of Old",
+    "element": "Light",
     "home": "La Veda",
     "ids": [50040, 50041, 50042],
     "lore": {
@@ -420,6 +437,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lily",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=65",
     "batch": "Mages of Old",
+    "element": "Dark",
     "home": "Bariura",
     "ids": [60040, 60041, 60042],
     "lore": {
@@ -441,6 +459,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Leon",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=79",
     "batch": "Scums of Old",
+    "element": "Fire",
     "home": "Agni",
     "ids": [10061, 10062, 10063],
     "lore": {
@@ -462,6 +481,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Verica",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=81",
     "batch": "Scums of Old",
+    "element": "Water",
     "home": "Sama",
     "ids": [20061, 20062, 20063],
     "lore": {
@@ -484,6 +504,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zaza",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=83",
     "batch": "Scums of Old",
+    "element": "Earth",
     "home": "Vriksha",
     "ids": [30061, 30062, 30063],
     "lore": {
@@ -505,6 +526,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Grafl",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=85",
     "batch": "Scums of Old",
+    "element": "Thunder",
     "home": "Atharva",
     "ids": [40061, 40062, 40063],
     "lore": {
@@ -527,6 +549,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Firedrake",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=111",
     "batch": "Legendary Disposables",
+    "element": "Fire",
     "home": "Agni",
     "ids": [10092, 10093, 10094, 10095],
     "lore": {
@@ -549,6 +572,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Undine",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=113",
     "batch": "Legendary Disposables",
+    "element": "Water",
     "home": "Other (Unspecified)",
     "ids": [20092, 20093, 20094, 20095],
     "lore": {
@@ -570,6 +594,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Dryad",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=115",
     "batch": "Legendary Disposables",
+    "element": "Earth",
     "home": "Other (Unspecified)",
     "ids": [30092, 30093, 30094, 30095],
     "lore": {
@@ -591,6 +616,7 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Thunderbird",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=117",
     "batch": "Legendary Disposables",
+    "element": "Thunder",
     "home": "Other (Unspecified)",
     "ids": [40092, 40093, 40094, 40095],
     "lore": {
@@ -612,6 +638,7 @@ var raw = {
 		"wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Valkyrie",
 		"touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=119",
 		"batch": "Legendary Disposables",
+    "element": "Light",
 		"home": "Other (Unspecified)",
 		"ids": [50082, 50083, 50084, 50085],
 		"lore": {
@@ -633,6 +660,7 @@ var raw = {
 		"wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Vampire",
 		"touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=121",
 		"batch": "Legendary Disposables",
+    "element": "Dark",
 		"home": "Other (Unspecified)",
 		"ids": [60082, 60083, 60084, 60085],
 		"lore": {
@@ -654,19 +682,96 @@ var raw = {
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Knight_Agni",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=123",
     "batch": "Expendable Sidekicks",
+    "element": "Fire",
     "home": "Agni",
     "ids": [10102, 10103, 10104, 10105],
     "lore": {
       "rare": [3, 4, 5, 6],
       "names": ["Knight Agni", "Fire Knight Agni", "Magma Knight Agni", "Blazing Knight Agni"],
       "story": [
-        "The imperator of the Agni Imperial Army and brother of the emperor. His skill in the literary and military arts and impartial fairness earned him the trust of many soldiers. He was even more popular than his brother. However, he feared this and hid his face in public with an iron mask to show his loyalty. There are still countless more rumors about his face, however.",
-
+        "The imperator of the <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. His skill in the literary and military arts and impartial fairness earned him the trust of many soldiers. He was even more popular than his brother. However, he feared this and hid his face in public with an iron mask to show his loyalty. There are still countless more rumors about his face, however.",
+        "The <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army imperator and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. It's said that he stood at the front lines when the gods invaded. As one of the two most popular people in the Empire, there are many plays based on him. However, rumors surround his death, such as he was assassinated by the emperor, who feared him, or that he was killed during a failed coup d'état.",
+        "The <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army imperator and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. It's said that he stood at the front lines when the gods invaded. However, just as he was leading the battle, the emperor ordered for his return. Upon his return, he saw his brother preparing to flee before his eyes. Since then, no one has seen him again.",
+        "Younger brother of the <span class='pseudolink' onclick=searchName('Orwen')>Agni Emperor</span>. Once rumors that the emperor had turned his back on his country surfaced, Knight Agni realized that he had lost his path. Having lost their leader, the Imperial Army lost all morale, leading to one defeat after another. When the God Army reached the city, it was set on destroying all its inhabitants until a group of knights suddenly appeared and repelled their attacks. Due to the imperial crest the leader of the knights bore on his armor, many speculate that the group was led by Knight Agni. However, no one knows whether it's true or not."
       ]
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
+      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>"
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Orwen')>Orwen</span>"
+    ]
+  },
+  "Sergio": {
+    "name": "Sergio",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Sergio",
+		"touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=125",
+		"batch": "Expendable Sidekicks",
+    "element": "Water",
+		"home": "Sama",
+		"ids": [20102, 20103, 20104, 20105],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Knight Sergio", "Ice Ruler Sergio", "Ice Knight Sergio", "Ice Angel Sergio"],
+      "story": [
+        "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Sergio was isolated as a heretic for secretly training by himself in the Cavalry Corps, whose aim was group combat. However, his skills far surpassed the others, and he was reluctantly made the leader of a commando unit. His own unit feared him, and called him the Ice Knight after the cold way he cuts down his enemies.",
+        "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. He was the commander of a Sama Kingdom Cavalry commando unit, but left to face the gods alone when the war began. Some admired him and tried to join, but Sergio refused them. He was always aloof even while being admired by people for his battles with the gods. At some point, he earned the title Ice Ruler.",
+        "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Injured in the fight against the gods, he collapsed and was prepared to die. But as the final strike came, his troops rushed forward to protect him. Though he refused to befriend them, many of them admired his indifference. Watching them, Sergio found the strength to swing his sword of ice to protect the people.",
+        "A knight from the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Having attained his powers in order to protect others, Sergio's prowess was acknowledged by the <span class='pseudolink' onclick=searchName('Arius')>prince</span>, who entrusted him with crucial strategic plans. In turn, Sergio also acknowledged the prince's progress, which led them to develop a deep bond of friendship and trust on the battlefield. At the sight of imminent defeat at the hands of the God Army, Sergio was sent to the battlefield under the prince's command. Thanks to his actions, the Sama Army was able to avoid destruction, though after that small victory Sergio was never heard from again."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=searchName('Arius')>Arius</span>"
+    ]
+  },
+  "Lidith": {
+    "name": "Lidith",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lidith",
+		"touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=127",
+		"batch": "Expendable Sidekicks",
+    "element": "Earth",
+		"home": "Vriksha",
+    "ids": [30102, 30103, 30104, 30105],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Princess Lidith", "Queen Lidith", "Empress Lidith", "Goddess Lidith"],
+      "story": [
+        "A princess from the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>. Because of her status she was raised with great care by an overprotective bodyguard. This made her yearn for freedom and dream of adventure. Those around her mocked her dream, but she was serious. She secretly practiced the sword, and was soon able to surpass other swordsmen. However, she was still shy around men.",
+        "A princess of the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>, and one of the country's most prominent swordswomen. She took to the battlefield when the gods invaded her country. With the Earth Sword Vriklius in hand she engaged in battle. However, due to her inexperience, she became isolated on the battlefield. Many sacrificed themselves to save her, but their efforts came to a tragic end.",
+        "A princess from the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>, she was also a prominent warrior in her home country. Through her actions there was a moment of peace, but soon the duchy began to collapse under the enemy's overwhelming force. Then, just as she was about to sacrifice herself for her people, a miracle happened. An entity entered her body, granting her even more strength than before. However, what the people didn't know was that she exchanged her life for this power.",
+        "A princess from the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span> who exchanged her life to gain power. The Vriksha Duchy managed to hold on thanks to a few local victories, but the condition of the war only got worse. With her lifespan growing shorter as she used her powers, conversely she became even stronger than before. Once the vassals of her family realized what she had sacrificed for the people, Lidith shook her head with a smile, and continued fighting to help citizens evacuate. Watching such selflessness in action, many of her vassals decided to fight alongside her until the bitter end."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
+      "<span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>",
+      "<span class='pseudolink' onclick=searchName('Faris')>Faris</span>"
+    ]
+  },
+  "Falma": {
+    "name": "Falma",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Falma",
+		"touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=129",
+		"batch": "Expendable Sidekicks",
+    "element": "Thunder",
+		"home": "Atharva",
+    "ids": [40102, 40103, 40104, 40105],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Sky Knight Falma", "Sky King Falma", "Sky Legend Falma", "Sky God Falma"],
+      "story": [
+        "A knight from the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. His mid-air, dual wielding fighting style earned him the name Sky Knight. Extremely loyal, Falma will follow his lord's commands without question, and works hard to carry them out. He's close friends with <span class='pseudolink' onclick=searchName('Grafl')>Sky Boss Grafl</span>, and it's said their friendship came from them noticing how different they really were.",
+        "A mighty dual-wielding knight that belonged to the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic's</span> cavalry. During the battle with the gods, he battled along side his friend, <span class='pseudolink' onclick=searchName('Grafl')>Sky Boss Grafl</span>, on his airship. He had always been good at mid-air fighting, so his soldiers called him the Sky King. Legend has it that he defeated god after god by fearlessly leaping onto their backs and attacking.",
+        "A mighty dual-wielding knight of the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>, he journeyed the skies in his good friend <span class='pseudolink' onclick=searchName('Grafl')>Grafl's</span> ship, vanquishing countless gods along the way. In an attempt to defeat him, the leader of the gods began attacking his ship while he was away. Watching his good friend and his ship fall under heavy attack from the gods, Falma's anger reached its peak. Earth shattering lightning surged from his blades as he screamed, 'My friends are here with me, in my blades!'",
+        "A mighty dual-wielding knight of the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. After landing a single blow that slayed a powerful god who had attacked his <span class='pseudolink' onclick=searchName('Grafl')>friend's</span> ship, he started falling towards the ground alongside the god's corpse. It is said that he had a satisfied smile on his face as he dropped from the heavens. However, a voice reached out to him as he fell, subsequently opening his eyes and extending his arms. The voice was still resonating in his ears when he saw his friend grabbing firmly onto his arm."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
+      "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Grafl')>Grafl</span>"
     ]
   }
 };
