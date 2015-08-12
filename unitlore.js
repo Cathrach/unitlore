@@ -54,6 +54,11 @@ $(document).on('click', '.location', function(e) {
   locSelect($(this).text());
 })
 
+$(document).on('click', '.element', function(e) {
+  e.preventDefault();
+  eleSelect($(this).text());
+})
+
 $(document).on('click', '#searchBatchBtn', function(e) {
   e.preventDefault();
   searchBatch($('#searchBatchBox').val());
