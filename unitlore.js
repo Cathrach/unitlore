@@ -29,7 +29,19 @@ function buildList(unit) {
         for (var item = 0; item < value['lore']['story'].length; item++) {
           loreTOP += '<div class="row row-eq-height"><div class="col-md-2" style="vertical-align:center;"><b>' + value['lore']['rare'][item] + '<i class="fa fa-star"></i> Lore: ' + value['lore']['names'][item] + '</b></div>';
           loreTOP += '<div class="col-md-2"><img src="' + imgPrePath + 'unit/img/unit_ills_full_' + value['ids'][item] + '.png" style="width: 95%; display: block; margin-left: auto; margin-right: auto;"></div>';
-          loreTOP += '<div class="col-md-10">' + value['lore']['story'][item] + '</div></div>';
+          loreTOP += '<div class="col-md-10">' + value['lore']['story'][item];
+          if (value['lore']['LS'].length > 0) {
+            loreTOP += '<br><b>LS: </b>' + value['lore']['LS'][item];
+            loreTOP += '<br><b>BB: </b>' + value['lore']['BB'][item];
+            if (value['lore']['rare'][item] === 6) {
+              loreTOP += '<br><b>SBB: </b>' + value['lore']['SBB'][0];
+            } else if (value['lore']['rare'][item] === 7){
+              loreTOP += '<br><b>SBB: </b>' + value['lore']['SBB'][1];
+              loreTOP += '<br><b>UBB: </b>' + value['lore']['UBB'];
+              loreTOP += '<br><b>ES: </b>' + value['lore']['ES'];
+            }
+          }
+          loreTOP += '</div></div>';
         }
       } else {
         loreTOP += '<div class="row"><div class="col-md-12">' + value['lore']['story'] + '</div>';

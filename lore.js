@@ -10,6 +10,11 @@ var raw = {
     "lore": {
       "rare": [2, 3, 4, 5, 6, 7],
       "names": ["Fencer Vargas", "Burning Vargas", "Fire King Vargas", "Fire God Vargas", "Holy Flame Vargas", "Flame Legend Vargas"],
+      "LS": ["Fire Spirit's Power", "Fire Spirit's Power", "Fire God's Power", "Fire God's Power", "Fire Creator's Power", "Fire of Lore"],
+      "BB": ["Flare Ride", "Flare Ride Plus", "Infinity Burst", "Infinity Nova", "Final Burst", "Flare Ride Climax"],
+      "SBB": ["Sacred Sunshine", "Brave Savior"],
+      "UBB": "Ignis Weiser",
+      "ES": "Spark of Future Flames",
       "story": [
       "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Proud of his late father, a Knight in the Order of Agni, he trained in the long sword, becoming a formidable knight. Although he is well-known for his countless victories over other warriors, he still considers himself inexperienced and continues to train with great zeal.",
       "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Vargas achieved strength through countless battles, eventually joining the Order of Agni like his father before him. Soon after, however, he was defeated by a <span class='pseudolink' onclick=searchName('Lava')>swordswoman</span> of the Order of Lava. Ashamed, he then left to train again and intensify his technique.",
@@ -38,6 +43,11 @@ var raw = {
     "lore": {
       "rare": [2, 3, 4, 5, 6, 7],
       "names": ["Selena", "Ice Selena", "Ice Queen Selena", "Ice Goddess Selena", "Holy Ice Selena", "Ice Legend Selena"],
+      "LS": ["Water Spirit's Power", "Water Spirit's Power", "Water God's Power", "Water God's Power", "Water Creator's Power", "Water of Lore"],
+      "BB": ["Ethereal Blade", "Divine Hail", "Blizzard Pain", "Cocytus Zero", "Last Blizzard", "Frozen Orchid"],
+      "SBB": ["Ethereal Caliber", "Luther Entios"],
+      "UBB": "White World",
+      "ES": "Bearer of Honor",
       "story": [
       "A swordswoman from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>, she later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Born from a line of chiefs of the wandering sea people of Savat, she was raised in traditional long sword techniques. She stood out so much that she was offered the treasured sword <span class='pseudolink' onclick=searchName('Lexida')>Lexida</span> as proof of her chiefdom at age 14. She refused it at the time, claiming she was inexperienced.",
       "A swordswoman from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>, she later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. At 18, she folded to the pressure around her and took up the treasured sword <span class='pseudolink' onclick=searchName('Lexida')>Lexida</span> as proof of her chiefdom. She had always rejected the sword, but it was a good fit for her quick and ice cold style. Those who faced her are said to have felt a freezing cold before battle.",
@@ -68,6 +78,11 @@ var raw = {
     "lore": {
       "rare": [2, 3, 4, 5, 6, 7],
       "names": ["Pikeman Lance", "Vine Pike Lance", "Earth Pike Lance", "Nature God Lance", "Holy Earth Lance", "Earth Legend Lance"],
+      "LS": ["Earth Spirit's Power", "Earth Spirit's Power", "Earth God's Power", "Earth God's Power", "Earth Creator's Power", "Earth of Lore"],
+      "BB": ["Flash Gale", "Flash Tornado", "Mystral Rage", "Eternal Zephyr", "Eternal Symphony", "Gaia's Essence"],
+      "SBB": ["Mystral Barrage", "Great Tree of Ruin"],
+      "UBB": "Unleashed Seven",
+      "ES": "Return to the Great Tree",
       "story": [
       "A pikeman from the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>, he eventually became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. He was a quiet, noble boy, but one day he saw the Demon Pike <span class='pseudolink' onClick=searchName('Drevas')>Drevas</span>, lying in a storehouse on his estate. Suddenly, he informed his family he was leaving to train. His parents strongly opposed, but in the end he ran away, Drevas in hand. Rumors are that the spear spoke to him.",
       "A pikeman from the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Those who faced Lance during his training not only saw the power of <span class='pseudolink' onClick=searchName('Drevas')>Drevas</span>, but were also in awe of his superior technique. Seeing such beautiful technique from such an inexperienced pikeman made him seem almost genius, but he hated being referred to in this way.",
@@ -82,7 +97,7 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>",
       "<span class='pseudolink' onclick=searchName('Veltrion')>Veltrion</span>",
       "<span class='pseudolink' onClick=searchName('Rowgen')>Rowgen</span>",
-      "<span class='pseudolink' onClick=searchName('Drevas')>Drevas</span>",
+      "<span class='pseudolink' onClick=searchName('Drevas')>Drevas</span>"
     ]
   },
   "Eze": {
@@ -96,6 +111,11 @@ var raw = {
     "lore": {
       "rare": [2, 3, 4, 5, 6, 7],
       "names": ["Warrior Eze", "Thunder Eze", "Thunder King Eze", "Thunder God Eze", "Holy Thunder Eze", "Thunder Legend Eze"],
+      "LS": ["Thunder Spirit's Power", "Thunder Spirit's Power", "Thunder God's Power", "Thunder God's Power", "Thunder Creator's Power", "Thunder of Lore"],
+      "BB": ["Thunder Expulsion", "Thunder Execution", "Thunder Retribution", "Heavenly Thunder", "Thunder Crush", "Imperial Thunder Star"],
+      "SBB": ["Super Thunder Crush", "Thunder Comet Flash"],
+      "UBB": "I'll destroy everything!",
+      "ES": "Foolish Resolution",
       "story": [
       "A warrior from the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Raised in an old mine, he worked from the time he was a child. At one point he grew tired and left to become a demon bounty hunter. His swordsmanship was tempered through his mine work, and he could obliterate a normal demon in one blow. He spoke rough, but was polite to women.",
       "A warrior from the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. He trained hard until he developed the confidence to defeat large demons on his own. However, when he saw <span class='pseudolink' onclick=searchName('Emilia')>Princess Emilia</span> fighting a demon, he realized how inexperienced he really was. After that, Eze sought out fights with other masters, hoping to unlock his own hidden powers.",
@@ -125,6 +145,11 @@ var raw = {
     "lore": {
     	"rare": [2, 3, 4, 5, 6, 7],
       "names": ["Squire Atro", "Knight Atro", "Holy Knight Atro", "God Atro", "Holy Light Atro", "Light Legend Atro"],
+      "LS": ["Light Spirit's Power", "Light Spirit's Power", "Light God's Power", "Light God's Power", "Light Creator's Power", "Light of Lore"],
+      "BB": ["Divine Sword", "Cardinal Judgement", "Thousand Nemesis", "Messiah Hazard", "Heaven's Gate", "Innocent Griever"],
+      "SBB": ["Veritas Delta", "Infinite Aurora"],
+      "UBB": "Tir Na Nog",
+      "ES": "Prayer of the Holy Blade",
     	"story": [
     	"A swordsman from the ruined <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Raised as an orphan in a monastery, he originally wanted to become a monk. However one day, bandits attacked the monastery. After Atro repelled them with just a tree branch, the Friar recommended he seek a Vedan fencing expert. Atro followed the Friar's words and began his journey.",
     	"A swordsman from the ruined <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>, later he became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. As advised by the Friar that raised him, Atro trained with a <span class='pseudolink' onclick=searchName('Zelban')>fencing master</span>, quickly becoming a gifted swordsman. His technique was keen, and he had integrity thanks to his monastery childhood. He earned the title of 'Sword Saint.' Unaware of this, he continued to train daily.",
@@ -153,6 +178,11 @@ var raw = {
     "lore": {
     	"rare": [2, 3, 4, 5, 6, 7],
       "names": ["Iron Magress", "Heavy Magress", "Black Magress", "Death Magress", "Unholy Magress", "Dark Legend Magress"],
+      "LS": ["Dark Spirit's Power", "Dark Spirit's Power", "Dark God's Power", "Dark God's Power", "Dark Creator's Power", "Darkness of Lore"],
+      "BB": ["Guilty Ash", "Gravity Eclipse", "Void Pillar", "Vermillion Tower", "Bloody Chaos", "Gloom of the Abyss"],
+      "SBB": ["Dark Eraser", "Darkest Rise"],
+      "UBB": "Dark Ending",
+      "ES": "True Knight's Pride",
     	"story": [
     		"A knight from the utterly devastated <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. As a cavalry leader's son, from childhood he knew of the empire's wish of unifying the continent. He joined the cavalry at 16 intent on gaining the skills necessary to defeat anything that stood in his way. His talent grew quickly and he was soon considered for promotion.",
     		"A knight from the utterly devastated <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Rumor was he'd be the next cavalry leader, but when he lost to his father, he left his family and the empire. He trained hard, using his anger to hone his skills. He was even able to pierce heavy armor. Rumors of him reached the capital and angered the knights whom he abandoned.",
@@ -183,6 +213,9 @@ var raw = {
     "lore": {
     	"rare": [2, 3, 4, 5, 6],
       "names": ["Beast Zegar", "Rage Beast Zegar", "Fire Beast Zegar", "Beast King Zegar", "Inferno Beast Zegar"],
+      "LS": ["Intense Light", "Intense Flash", "Intense Strobe", "Intense Strobe", "Intense Edge"],
+      "BB": ["Fire Claw Attack", "Fire Spring Attack", "Hell Twins Attack", "Twin Dragon Slash", "Imperial Ardor Claws"],
+      "SBB": ["Duplex Infernal Blaze"],
     	"story": [
     		"A boy found in a huge jungle in the territory of the devastated <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. Completely feral, he could not even understand human language. However, his physical abilities were so strong that when attacked by a knight the boy held him off without injury. Mystery surrounds Zegar, as even growing up in the jungle cannot explain his claws.",
     		"A boy found in a huge jungle in the territory of the devastated <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. After being taken in by the Agni Empire, from within himself awoke the ability to control beasts. Also, his unique claws grew in power and became strong enough to rip through armor. There are many rumors as to why he followed the Agni Empire, but the truth is unknown.",
@@ -209,11 +242,15 @@ var raw = {
     "lore": {
     	"rare": [2, 3, 4, 5, 6],
       "names": ["Zephu", "Knight Zephu", "Dragoon Zephu", "Dragon Hero Zephu", "Tidal Dragoon Zephu"],
-    	"story": ["A dragon rider from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. He trained under his father and became a dragon rider at the young age of 14. His ability to ride marine and aerial dragons made him a promising candidate for commander. He was deeply loyal and accepted orders from his king unconditionally, but that inflexibility eventually led to his downfall.",
-    	"A dragon rider from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. His hopes of becoming the next dragon knight commander were lost when he mistakingly took orders which he thought were from the king. Even under house arrest, his loyalty didn't falter. Instead, he continued to hone his skills. He was known as the Ice Dragon Knight, wielding his spear made from his kingdom's unique ice.",
-    	"A dragon rider from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. He had been under house arrest, but returned to the dragon rider corps when the gods invaded. He had a lust for killing as a way of venting his anger. He earned respect and the title of the Ice Dragon King. He was still loyal to the royal family, and when the gods attacked, he offered himself to protect them.",
-    	"A dragon rider from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. When the gods invaded, he stood up to protect the royal family, suffering a fatal wound in the process. On the brink of blacking out, he felt his and his beloved dragon's souls fuse as one. When he woke up, he felt his dragon's powers stirring in his human body. His dragon, however, lay beside him, unmoving.",
-    	"A dragoon who protected the royal family of the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span> until the very end during the great war with the gods. Zephu, who continued to fight even after having rescued <span class='pseudolink' onclick=searchName('Arius')>Prince Arius</span>, fought so arduously that both his soul and his body began fusing with those of his dragon. His beloved lance went through the same transformation, and under the new name 'Ice Dragon', became an extension of Zephu's own body. However, Zephu knew that the more he strained both his mind and body, the closer it would bring him to his death."
+      "LS": ["Intense Light", "Intense Flash", "Intense Strobe", "Intense Strobe", "Blinding Light"],
+      "BB": ["Raging Needle", "Raging Ballad", "Raging Glory", "Rising Storm", "Raging Hail"],
+      "SBB": ["Dragon Blizzard"],
+    	"story": [
+        "A dragon rider from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. He trained under his father and became a dragon rider at the young age of 14. His ability to ride marine and aerial dragons made him a promising candidate for commander. He was deeply loyal and accepted orders from his king unconditionally, but that inflexibility eventually led to his downfall.",
+    	  "A dragon rider from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. His hopes of becoming the next dragon knight commander were lost when he mistakingly took orders which he thought were from the king. Even under house arrest, his loyalty didn't falter. Instead, he continued to hone his skills. He was known as the Ice Dragon Knight, wielding his spear made from his kingdom's unique ice.",
+    	  "A dragon rider from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. He had been under house arrest, but returned to the dragon rider corps when the gods invaded. He had a lust for killing as a way of venting his anger. He earned respect and the title of the Ice Dragon King. He was still loyal to the royal family, and when the gods attacked, he offered himself to protect them.",
+    	  "A dragon rider from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. When the gods invaded, he stood up to protect the royal family, suffering a fatal wound in the process. On the brink of blacking out, he felt his and his beloved dragon's souls fuse as one. When he woke up, he felt his dragon's powers stirring in his human body. His dragon, however, lay beside him, unmoving.",
+    	  "A dragoon who protected the royal family of the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span> until the very end during the great war with the gods. Zephu, who continued to fight even after having rescued <span class='pseudolink' onclick=searchName('Arius')>Prince Arius</span>, fought so arduously that both his soul and his body began fusing with those of his dragon. His beloved lance went through the same transformation, and under the new name 'Ice Dragon', became an extension of Zephu's own body. However, Zephu knew that the more he strained both his mind and body, the closer it would bring him to his death."
     	]
     },
     "related": [
@@ -233,6 +270,9 @@ var raw = {
     "lore": {
     	"rare": [2, 3, 4, 5, 6],
       "names": ["Archer Lario", "Marksman Lario", "Hawkeye Lario", "Bow God Lario", "Gaia Bow Lario"],
+      "LS": ["Fighting Light", "Fighting Flash", "Fighting Strobe", "Fighting Strobe", "Combat Magic"],
+      "BB": ["Carnage Sky", "Superior Needle", "Shooting Star", "Star Gale", "Meteoric Gust"],
+      "SBB": ["Rain of Arrows"],
     	"story": [
     		"A hunter living in the forest on the outskirts of the <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>. As he was locally famous as an expert bowman, many visited from afar to witness his skills. He also liked to show off, and was always happy to demonstrate his abilities. One day he was invited to the palace of the Principality. it is said this incident changed his fate.",
     		"A hunter living in the forest on the outskirts of the <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>. He was a famous archer whose fate changed when he was invited to the duke's palace, where a <span class='pseudolink' onclick=searchName('Faris')>princess</span> took interest in him. Lario liked the recognition, despite how poorly military life suited him. However, he proved his worth and found himself a leader among its ranks.",
@@ -258,6 +298,9 @@ var raw = {
     "lore": {
     	"rare": [2, 3, 4, 5, 6],
       "names": ["Advisor Weiss", "Strategist Weiss", "Commmander Weiss", "General Weiss", "Gilded General Weiss"],
+      "LS": ["Fighting Light", "Fighting Flash", "Fighting Strobe", "Fighting Strobe", "Combat Ambition"],
+      "BB": ["Thunder's Command", "Thunder's Rage", "Thunder's Reign", "Thunder's Order", "Thunder General's Command"],
+      "SBB": ["Varze Digora"],
     	"story": [
     		"A tactician from the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>, he led the republic in strategic ability and magic, but never took charge when it came to being a commander. That was not due to cowardice, but due to recognizing he had a different, more important role to play. He left many books organizing his theories which are still used as a foundation for modern tacticians.",
     		"A tactician from the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. He was criticized for never appearing at the front, but he paid no mind to such comments and continued his command. After the war with the gods began, he would annihilate his enemies with his magic. This earned him admiration, but he was ashamed that he had been attacked, and recorded it as his greatest mistake.",
@@ -283,6 +326,9 @@ var raw = {
     "lore": {
     	"rare": [2, 3, 4, 5, 6],
       "names": ["Luna", "Sunshine Luna", "Holy Queen Luna", "Holy Empress Luna", "Radiant Goddess Luna"],
+      "LS": ["Fighting Light", "Fighting Flash", "Fighting Strobe", "Fighting Strobe", "Combat Wave"],
+      "BB": ["Rude Thrust", "Crude Stab", "Vulgar Jab", "Savage Stab", "Live with no regrets!"],
+      "SBB": ["Phosphorus"],
     	"story": [
     		"A woman with glittering hair who suddenly appeared in the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span> when the battle with the gods began. She fought the gods with a giant lance and her heroism and mysterious origins led some to worship her as a messiah. This ended when she spoke. Luna was very foul-mouthed. What she said was so terrible that it was never recorded in the history books.",
     		"A woman with glittering hair who suddenly appeared in the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span> as the battle with the gods began. Her attacks and verbal abuse grew as she fought. The verbal abuse confused not only the enemy, but also her own army. She would suddenly appear, go berserk, and then disappear. She was sometimes said to be an avatar of a god, but upon hearing this she responded with little more than a wry smile.",
@@ -307,6 +353,9 @@ var raw = {
     "lore": {
       "rare": [2, 3, 4, 5, 6],
       "names": ["Mifune", "Samurai Mifune", "God Blade Mifune", "Ryujin Mifune", "Shadow Ronin Mifune"],
+      "LS": ["Intense Light", "Intense Flash", "Intense Strobe", "Intense Strobe", "Ruin God's Epidemic"],
+      "BB": ["Moonbeam", "Swordflash", "Aurora Flash", "Cosmic Flash", "Secret Art: Shining Darkness"],
+      "SBB": ["Ultimate Art: Avatamsa"],
       "story": [
       "An other-worldly samurai that appeared in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. Mifune's katana is different from other swords in Grand Gaia thanks to its superior slashing ability. It cuts amazingly well, and it's said that those cut by it die without feeling pain. There's a famous tale of him refusing an invitation from the emperor by saying, 'A fool will never be my master.'",
       "An other-worldly samurai that appeared in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. He fought in many famous duels with his special katana. Rumors spread around Grand Gaia and many swordsmen challenged him. His beloved katana awakened its true power during those fights. It was a demonic blade that lusted for human blood. Unable to restrain himself, he gave in to its power.",
@@ -333,6 +382,8 @@ var raw = {
     "lore": {
       "rare": [1, 2, 3],
       "names": ["Witch Liza", "Warlock Liza", "Pyromancer Liza"],
+      "LS": ["Fire's Protection", "Fire's Protection", "Fire's Protection"],
+      "BB": ["Eruption", "Explosion", "Meteor Storm"],
       "story": [
         "A magician from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, she went to a seminary to become a priestess as her family wished, but ran away in pursuit of magic. Then she studied fire magic on her own. She began to work as a magician in the imperial capital outskirts. At first, she was little more than a handywoman, but her reputation soon awarded her the rank of imperial scout.",
         "A magician from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, her primary task in the imperial army was suppressing demons. Her fire magic was extremely potent against opposing elements, but she was never able to go beyond what she learned in books. Her struggle is recorded in her diary which also holds all of her magical knowledge, making it valuable for research even today.",
@@ -355,6 +406,8 @@ var raw = {
     "lore": {
       "rare": [1, 2, 3],
       "names": ["Priest Merith", "Healer Merith", "Bishop Merith"],
+      "LS": ["Water's Protection", "Water's Protection", "Water's Protection"],
+      "BB": ["Curing", "Cure Light", "Cure Storm"],
       "story": [
         "A monk from the ruined Sama Kingdom. Much of the kingdom had contact with the sea, so many worshiped the sea god, Salam. From a young age, Merith was also deeply moved by those teachings. She endeavored to become a monk at an early age, formally becoming one at 16. The monks of the Sama Kingdom acquired healing powers to protect the people, and are most accustomed to water magic.",
         "A great monk from the church of the water god, Salam, in the ruined Sama Kingdom. Putting dogma first led to harsh criticism, but she stuck steadfast to her principles. Always treating people fair regardless of their position led to many supporting her. She was popular and her magic was strong. She saved countless, rich and poor, with her healing magic.",
@@ -377,6 +430,8 @@ var raw = {
     "lore": {
       "rare": [1, 2, 3],
       "names": ["Geomancer Claris", "Time Mage Claris", "Time Lord Claris"],
+      "LS": ["Earth's Protection", "Earth's Protection", "Earth's Protection"],
+      "BB": ["Earth's Water", "Arcanadia", "Space Ray"],
       "story": [
         "A geomancer active from the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>. As she was from a nomadic tribe, there are few records of her youth. A geomancer deciphers and manipulates nature. Claris was rarely in any one place for very long, but spent 10 years in Vriksha. Her purpose is unclear, but rumors are she was searching for buried treasure or that she had a lover.",
         "A geomancer active from the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>. During the war with the gods she awakened the ability to manipulate time, allowing her to become known as a time mage. There are few records of time mages, and how she acquired the power is still being researched. One theory is that chronomancy is a natural power with great desctructive force, but there is nothing to prove this theory.",
@@ -399,6 +454,8 @@ var raw = {
     "lore": {
       "rare": [1, 2, 3],
       "names": ["Dancer May", "High Dancer May", "Royal Dancer May"],
+      "LS": ["Thunder's Protection", "Thunder's Protection", "Thunder's Protection"],
+      "BB": ["Thunder Dance", "Cure Drill", "Healing Samba"],
       "story": [
         "A beautiful dancer, extremely popular in the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. Her dancing fascinates many people, sometimes violent, sometimes bewitching. There are many accounts of people gladly having their bodies, and their minds, healed by her dancing. Although it was later made public that her magic power was the result of her dance's demonic nature, her popularity never declined.",
         "A beautiful dancer, extremely popular in the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. She healed many with her magical demon dance. After the war with the gods began, she stood up to the gods as her dance could call forth thunder as well as heal. Her figure charmed many, and when she returned from battle injured, doctors from all over the country came to treat her.",
@@ -421,6 +478,8 @@ var raw = {
     "lore": {
       "rare": [1, 2, 3],
       "names": ["Sage Mimir", "Light Lord Mimir", "Great Sage Mimir"],
+      "LS": ["Light's Protection", "Light's Protection", "Light's Protection"],
+      "BB": ["Milky Way", "Saint Benediction", "Star Heal"],
       "story": [
         "A white mage that was active in the ruined <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span> during the ancient war. She was magically gifted as a child, and traveled around the world healing people with her white mage parents. The light released from her wand could heal multiple wounds simultaneously. She was known for liking sweets, and rumor has it that she kept lots of snacks up her sleeves.",
         "A white mage who was active in the ruined <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span> during the ancient war. She traveled around healing people since she was a child. At age 25, people began praising her as a sage. Her healing ability matured year after year to the point she became able to heal even the severely wounded in an instant. Her sweet tooth grew as well. She was a legendary snacker, eating up to 10 times a day.",
@@ -443,6 +502,8 @@ var raw = {
     "lore": {
       "rare": [1, 2, 3],
       "names": ["Sorceress Lily", "Magician Lily", "Dark Arts Lily"],
+      "LS": ["Dark Protection", "Dark Protection", "Dark Protection"],
+      "BB": ["Albatross' Glory", "Soul Intention", "Grand Despair"],
       "story": [
         "A sorceress from the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. Her sorcery was one of the various skills studied in Bariura. It was originally an art used to read fortunes using astronomy and calendars, but she set her own skills apart by emphasizing her magical abilities. History books say she was able to charm the natural forces, manipulating them and cause all sorts of phenomena.",
         "A sorceress from the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. Her sorcery was one of the various skills studied in Bariura. It was originally an art used to read fortunes using astronomy and calendars, but she set her own skills apart by emphasizing her magical abilities. Her technique effectively combined cosmic forces with magic. As her path differed from those who aiming to remain as sorcerers, she came to be called a Magician instead.",
@@ -465,6 +526,8 @@ var raw = {
     "lore": {
       "rare": [2, 3, 4],
       "names": ["Thief Leon", "Head Thief Leon", "Great Thief Leon"],
+      "LS": ["Abundant Light", "Abundant Flash", "Abundant Flash"],
+      "BB": ["Poison Gale", "Venom Gale", "Poisonado"],
       "story": [
         "A bandit ruling the territories around the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. Raised in an orphanage, he left in a rage knowing that Imperial subsidies were being embezzled by a vicious official. He then made his name as a bandit, targeting detestable government officials, soldiers and merchants. Wielding dual-knives, he's known to hurt, but never kill his targets.",
         "With a simple credo of 'help the weak, crush the strong', he came to lead a large band of thieves around the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. Trading his knives for swords as the war with the gods began, he fought for the masses. Alas, the officials he hurt before interfered, leaving him with enemies among the gods and the empire, but he was still able to meet a heroic end.",
@@ -487,10 +550,12 @@ var raw = {
     "lore": {
       "rare": [2, 3, 4],
       "names": ["Pirate Verica", "Plunderer Verica", "Sea Prince Verica"],
+      "LS": ["Pure Light", "Pure Shining", "Pure Shining"],
+      "BB": ["Crazy Slash", "Maximum Vice", "Poseidon Axe"],
       "story": [
         "A novice pirate active in the seas near the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. From his relaxed appearance and speech, he was often made light of by enemies who would soon regret it. With deceivingly quick movements and a hearty strike, he would cut down opponents in a flash. In his day, his captain would always say, 'As long as there be scum around, there be wine to drink.'",
         "A pirate captain active in the seas near the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. His huge body and handsome beard awed those who stood before him. He spoke much softer than he looked, and his navigation log states that he maintained a peaceful ship. However, he was a demon in battle. He was so strong that whole navies would flee when they saw his flag.",
-        "A pirate commander that led a group of pirates in the seas near the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Though he lived much of his life carefree and without aim, once he started caring for Mega, the boy who would come to be known as the Commander, he began gathering pirates from all around. Taking lead over most of the other pirates around him, Verica came to be known as the Sea Prince. However, he seemed much more focused on the development of the child <span class='pseudolink' onclick=searchName('Mega')>Mega</span>."
+        "A pirate commander that led a group of pirates in the seas near the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Though he lived much of his life carefree and without aim, once he started caring for <span class='pseudolink' onclick=searchName('Mega')>Mega</span>, the boy who would come to be known as the Commander, he began gathering pirates from all around. Taking lead over most of the other pirates around him, Verica came to be known as the Sea Prince. However, he seemed much more focused on the development of the child Mega."
       ]
     },
     "related": [
@@ -510,6 +575,8 @@ var raw = {
     "lore": {
       "rare": [2, 3, 4],
       "names": ["Bandit Zaza", "Head Bandit Zaza", "Wild Bandit Zaza"],
+      "LS": ["Intense Light", "Intense Flash", "Intense Flash"],
+      "BB": ["Great Beheading", "Warrior's Execution", "Demon's Punishment"],
       "story": [
         "A bandit from the forested mountain bordering the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>. A useless man that the people of Vriksha called rude, vulgar and mean. However, his power with an axe was explosive, and they said he could level a large tree in a single swing. When he came to town the many people who admired him would bring him food stolen from the rich.",
         "A bandit boss from the forested mountain bordering the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>. Zaza continued his banditry, and the followers that admired him made him head bandit. He tried to decline by saying it was too much trouble, but when some of his underlings were killed by the gods, he showed a rage like never before, taking on the gods with his axe.",
@@ -532,6 +599,8 @@ var raw = {
     "lore": {
       "rare": [2, 3, 4],
       "names": ["Sky Pirate Grafl", "Sky Boss Grafl", "Sky Emperor Grafl"],
+      "LS": ["Fighting Light", "Fighting Flash", "Fighting Flash"],
+      "BB": ["Lightning Magnum", "Chariot Magnum", "Plasma Magnum"],
       "story": [
         "An air pirate using an other-worldly pistol, widely known throughout the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. Grafl was from a family that safeguarded flying ships using unique spheres, but he broke a family taboo and fled on a stolen ship. Although those in power labeled him an air pirate for his theft and forbidden pistol wielding, he tried his best to lead an honest life.",
         "An air pirate using an other-worldly pistol, widely known in the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. He traveled with his crew on his airship, and once fought against the republic soldier, <span class='pseudolink' onclick=searchName('Falma')>Falma</span>. Impressed, Grafl asked him to join, but Falma refused, wanting an equal partnership. Still, they became close friends, standing shoulder-to-shoulder through many battles.",
@@ -555,6 +624,9 @@ var raw = {
     "lore": {
       "rare": [3, 4, 5, 6],
       "names": ["Firedrake", "Dragon Graven", "Dalimaone", "Dragon God Granados"],
+      "LS": ["Fire's Protection", "Fire's Protection", "Fire Barrier", "Fire God Barrrier"],
+      "BB": ["Fire Breath", "Mega Breath", "Gehenna Breath", "Ruin's Breath"],
+      "SBB": ["Ignition Breath"],
       "story": [
         "A fire dragon that lives in the <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> volcanoes. It is the only fire dragon that can fly. A Firedrake breathes fire and scorches the land with hellfire by flapping its wings. Although it understands human speech, its high intelligence makes it look down on humans, making it difficult to ally with. It only cooperates with those who pique its strong curiosity.",
         "A fire dragon that lives in the <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> volcanoes. When a Firedrake ages an astounding number of years, he becomes the Dragon Graven. With absolute confidence in his strength, he desires to increase it even more. He looks down on humans but will aid one that he deems worthy. However, many have been burnt to ashes after asking for his assistance.",
@@ -578,6 +650,9 @@ var raw = {
     "lore": {
       "rare": [3, 4, 5, 6],
       "names": ["Undine", "Siren", "Meltia", "Aqua Goddess Abel"],
+      "LS": ["Water's Protection", "Water's Protection", "Water Barrier", "Water God Barrier"],
+      "BB": ["Prism Shower", "Miracle Shower", "Planet Shower", "Elixir Shower"],
+      "SBB": ["Aqua Sprite"],
       "story": [
         "A beautiful, high-ranked water spirit that lives in lakes. A spirit born to defend her own lake, she won't move from the lake she's born in. However, if she falls in love, she may leave her lake and pledge to go with her lover. She has a fiery and loving personality, but since her appearance suddenly changes when betrayed, men fear meeting with her.",
         "A beautiful, high-ranked water spirit that lives in oceans. She has strong magical power, excelling in water magic. When the power of Undine increases, it grows wings and can freely fly to all waters. Love is her magic's source, and she showers unlimited affection on their lovers. However, she bares her fangs towards their lover's enemies.",
@@ -600,6 +675,9 @@ var raw = {
     "lore": {
       "rare": [3, 4, 5, 6],
       "names": ["Dryad", "High Elf", "Lemenara", "Elf Queen Arbonella"],
+      "LS": ["Earth's Protection", "Earth's Protection", "Earth Barrier", "Earth God Barrier"],
+      "BB": ["Manalight Circle", "Elemental Wall", "Grand Wall", "Aegis Wall"],
+      "SBB": ["Force Materia"],
       "story": [
         "A powerful spirit that lives in deep forests. Dryads live in large, ancient trees and are extremely timid. They dislike combat and excel at support magic. Sometimes, as a prank, they enslave people with magic and bend them to their will. For ages, youths who disappeared in the forest have been said to have become the slaves of Dryads.",
         "A powerful elf that lives in the deep forest. Known as the forest's guardian, it doesn't age and has beautiful looks and a nearly eternal lifespan. It dislikes fighting and its immensely powerful magic is usually used for defense rather than offense. Although very conservative, a curious one may leave the forest with a human it is interested in.",
@@ -622,6 +700,9 @@ var raw = {
     "lore": {
       "rare": [3, 4, 5, 6],
       "names": ["Thunderbird", "Great Falcon Ziz", "Zazabis", "Bolt Phoenix Ardas"],
+      "LS": ["Thunder's Protection", "Thunder's Protection", "Thunder Barrier", "Thunder God Barrier"],
+      "BB": ["Thunderstorm", "Valza Riser", "X Radia", "Lucetius"],
+      "SBB": ["Fulgrator"],
       "story": [
         "A strange bird that lives in valleys enveloped by thunder clouds. The reason other creatures can't approach it is that it can control all thunder in the valley. It emits lightning when it finds prey, stunning it before it brings it back to its nest. Recent studies show that it brings its prey back still alive so that its chicks can practice hunting safely.",
         "A mutant Thunderbird. With an even larger body than the Thunderbird, it's wing span is so big that its spread wings are said to block out the sun. Its lightning attacks are far stronger than the Thunderbird's, and those directly struck are electroshocked instantly. Summoners who confront the intimidating Ziz most focus on survival before all else.",
@@ -644,6 +725,9 @@ var raw = {
 		"lore": {
 			"rare": [3, 4, 5, 6],
 			"names": ["Valkyrie", "Sky Hero Athena", "Legendary Jona", "Sky Goddess Raquel"],
+      "LS": ["Light's Protection", "Light's Protection", "Light Barrier", "Light God Barrier"],
+      "BB": ["Star Air Raid", "Valkyrie Tempest", "Starlight Ray", "Star Crusade"],
+      "SBB": ["Ecthelion"],
 			"story": [
 				"A warrior of light who traverses battlefield after battlefield on a mission from the gods. They're a different species from humans despite their human-with-wings appearance. As there are only females, they are still being studied to see how they maintain their species. Legend has is that the gods left them to defend the world. They have a sword to protect the world from evil.",
 				"A war goddess who wielded her sword in the name of divine justice. The gods revealed that her mission was to destroy all evil. She was called the goddess of victory as she always won when fighting with the blessing of the gods. Many soldiers prayed to her before battle, though she was neutral during the war. Today, she still helps Summoners, but no one yet knows her true motive.",
@@ -666,6 +750,9 @@ var raw = {
 		"lore": {
 			"rare": [3, 4, 5, 6],
 			"names": ["Vampire", "Lich", "Legion", "Dark Lord Zaboeth"],
+      "LS": ["Dark Protection", "Dark Protection", "Dark Barrier", "Dark God Barrier"],
+      "BB": ["Blood Gluttony", "Abyss Gate", "Demented Hole", "Despair Hole"],
+      "SBB": ["Eternal Thirst"],
 			"story": [
 				"A demon that lives in the night. Sunlight is its weakness. It is only active when the sun is down. It's immortal and can only be killed through external causes. As it drinks human blood to live, it is their natural enemy. Young female blood is its favorite. It stalks women it likes, waiting for its chance to strike. Male blood works too, but it attacks them much more violently.",
 				"A being with more magical power than all the other demons of the night. It overcame death through diligent magic study, and became a creature that can be resurrected any time it dies. According to a priest who had tried to defeat it, 'It is not resurrected, but lives while at the same time being dead.' Due to this, he was unable to win and lost his life at the hands of the Lich.",
@@ -688,6 +775,9 @@ var raw = {
     "lore": {
       "rare": [3, 4, 5, 6],
       "names": ["Knight Agni", "Fire Knight Agni", "Magma Knight Agni", "Blazing Knight Agni"],
+      "LS": ["Valiant Power", "Royal Power", "Dynasty Power", "Authority of the Earth God"],
+      "BB": ["Dragon's Expulsion", "Dragon's Execution", "Dragon's Demise", "Ruin God's Burial"],
+      "SBB": ["Demon Massacre Burial"],
       "story": [
         "The imperator of the <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. His skill in the literary and military arts and impartial fairness earned him the trust of many soldiers. He was even more popular than his brother. However, he feared this and hid his face in public with an iron mask to show his loyalty. There are still countless more rumors about his face, however.",
         "The <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army imperator and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. It's said that he stood at the front lines when the gods invaded. As one of the two most popular people in the Empire, there are many plays based on him. However, rumors surround his death, such as he was assassinated by the emperor, who feared him, or that he was killed during a failed coup d'état.",
@@ -713,6 +803,9 @@ var raw = {
     "lore": {
       "rare": [3, 4, 5, 6],
       "names": ["Knight Sergio", "Ice Ruler Sergio", "Ice Knight Sergio", "Ice Angel Sergio"],
+      "LS": ["Valiant Power", "Royal Power", "Dynasty Power", "Authority of the Fire God"],
+      "BB": ["Frigid Combo", "Royal Ice Blade", "Glacier Crush", "Ice Angel's Shine"],
+      "SBB": ["Diamond Zero"],
       "story": [
         "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Sergio was isolated as a heretic for secretly training by himself in the Cavalry Corps, whose aim was group combat. However, his skills far surpassed the others, and he was reluctantly made the leader of a commando unit. His own unit feared him, and called him the Ice Knight after the cold way he cuts down his enemies.",
         "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. He was the commander of a Sama Kingdom Cavalry commando unit, but left to face the gods alone when the war began. Some admired him and tried to join, but Sergio refused them. He was always aloof even while being admired by people for his battles with the gods. At some point, he earned the title Ice Ruler.",
@@ -737,6 +830,9 @@ var raw = {
     "lore": {
       "rare": [3, 4, 5, 6],
       "names": ["Princess Lidith", "Queen Lidith", "Empress Lidith", "Goddess Lidith"],
+      "LS": ["Valiant Power", "Royal Power", "Dynasty Power", "Authority of the Thunder God"],
+      "BB": ["Royal Slice", "Royal Slash", "Royal Chop", "Full Powered Blade"],
+      "SBB": ["Holy Crown"],
       "story": [
         "A princess from the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>. Because of her status she was raised with great care by an overprotective bodyguard. This made her yearn for freedom and dream of adventure. Those around her mocked her dream, but she was serious. She secretly practiced the sword, and was soon able to surpass other swordsmen. However, she was still shy around men.",
         "A princess of the ruined <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>, and one of the country's most prominent swordswomen. She took to the battlefield when the gods invaded her country. With the Earth Sword Vriklius in hand she engaged in battle. However, due to her inexperience, she became isolated on the battlefield. Many sacrificed themselves to save her, but their efforts came to a tragic end.",
@@ -761,6 +857,9 @@ var raw = {
     "lore": {
       "rare": [3, 4, 5, 6],
       "names": ["Sky Knight Falma", "Sky King Falma", "Sky Legend Falma", "Sky God Falma"],
+      "LS": ["Valiant Power", "Royal Power", "Dynasty Power", "Authority of the Water God"],
+      "BB": ["Flash Stream", "Dual Arch", "Rising Arc", "Providence Arc"],
+      "SBB": ["Eternal Tempest"],
       "story": [
         "A knight from the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. His mid-air, dual wielding fighting style earned him the name Sky Knight. Extremely loyal, Falma will follow his lord's commands without question, and works hard to carry them out. He's close friends with <span class='pseudolink' onclick=searchName('Grafl')>Sky Boss Grafl</span>, and it's said their friendship came from them noticing how different they really were.",
         "A mighty dual-wielding knight that belonged to the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic's</span> cavalry. During the battle with the gods, he battled along side his friend, <span class='pseudolink' onclick=searchName('Grafl')>Sky Boss Grafl</span>, on his airship. He had always been good at mid-air fighting, so his soldiers called him the Sky King. Legend has it that he defeated god after god by fearlessly leaping onto their backs and attacking.",
