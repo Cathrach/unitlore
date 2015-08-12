@@ -81,13 +81,13 @@ $(document).on('click', '#searchNameBtn', function(e) {
   searchName($('#searchNameBox').val());
 })
 
-$( "#searchBatchBox" ).keypress( function(e) {
+$( "#searchBatchBox" ).keypress( function(event) {
   if ( event.which == 13 ) {
      searchBatch($('#searchBatchBox').val());
   }
 })
 
-$( "#searchNameBox" ).keypress( function(e) {
+$( "#searchNameBox" ).keypress( function(event) {
   if ( event.which == 13 ) {
      searchName($('#searchNameBox').val());
   }
