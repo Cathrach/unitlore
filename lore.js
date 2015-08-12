@@ -980,4 +980,57 @@ var raw = {
       "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>"
     ]
   },
+  "Altri": {
+    "name": "Altri",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Altri",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=141",
+    "batch": "Beasts",
+    "element": "Earth",
+    "home": "Other (Unspecified)",
+    "ids": [30112, 30113, 30114, 30115],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Great Tree Alneu", "World Tree Altro", "God Tree Eltri", "Alpha Tree Altri"],
+      "LS": ["Loving Spirit", "Loving Spirit", "Loving Devotion", "Sincere Affection"],
+      "BB": ["Lucent Purge", "Benevolent Purge", "God Purge", "Spectral Purge"],
+      "SBB": ["Cosmic Radius"],
+      "story": [
+        "A giant tree with a will of its own and the ability to move. It can also speak, but since it gets its nutrition from photosynthesis, it's still biologically classified as a plant. Alneu's fruit contains a stimulant that can heal fatigue, and it often gives it to humans it likes. Contrary to its large size it likes small and cute things, especially human children.",
+        "When Great Tree Alneu has lived for more than 10,000 years, it transforms into the World Tree, Altro. Basically immortal, Altro, who has been around since the beginning of time, is also known as the world's eldest being. Some search for Altro looking to solve the world's most difficult problems, but since it lives deep inside a secluded area, most get discouraged from looking for it.",
+        "Eltri is said to be the ancestor of all the trees in Grand Gaia. Immense and able to float in the air, it's so impressive that some people mistake it for a floating island. If it floats in the same place for many years, sometimes a forest will suddenly appear nearby, even in wastelands. It is worshipped as the God Tree as it has the ability to sprout life all around it.",
+        "The father of all trees, Eltri, after acquiring the knowledge of countless years came to hold a multitude of personalities. It's thought he separated his personalities so that he could debate between them, increasing the precision of his thinking. There is an unconfirmed theory that states that his multiple personalities reside within his fort-like exterior. It appears that the faces that can be seen on him now represent his main personalities, with all important conversations going through them."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>",
+      "<span class='pseudolink' onclick=searchName('Lance')>Lance</span>"
+    ]
+  },
+  "Behemoth": {
+    "name": "Behemoth",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Behemoth",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=144",
+    "batch": "Beasts",
+    "element": "Thunder",
+    "home": "Other (Unspecified)",
+    "ids": [40112, 40113, 40114, 40115],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Behemoth", "King Behemoth", "Alpha Behemoth", "Omega Behemoth"],
+      "LS": ["Intense Light", "Intense Flash", "Intense Strobe", "Blinding Light"],
+      "BB": ["Crash Bind", "Meteor Zapper", "Rodmagia Grudge", "Thunder Zorg"],
+      "SBB": ["Raviel Z"],
+      "story": [
+        "A beast characterized by its muscular body and two giant horns. In addition to being a powerful beast, Behemoth is also a violent thunder-wielder. Its massive horns can smash bone in one blow and its thunder can instantly paralyze an enemy. Using its entire body, its fierce charge can annihilate an entire battalion.",
+        "A beast characterized by its muscular body and giant horns. Behemoths can't coexist with other behemoths. They will fight to the death if they meet. Those that survive this struggle become a King Behemoth. Their roars symbolize death, and those who hear it can do little more than sit and pray that the storm doesn't come their way.",
+        "A beast known for its muscular body and giant horns. This evolved form is said to harness a power far greater than any Behemoth to be seen in Grand Gaia. Whatever stands in its way is leveled instantly. Legends tell of mountains being pulverized and turned to sand by this mythical beast.",
+        "Behemoth was born in an environment full of otherworldly power. Its internal drive to strengthen itself is the trait that separates this powerful magical beast apart from the others. Not only would it strengthen itself physically, but the otherworldly power held inside of it would evolve as well. Though in the process of evolving most of its body is destroyed, in its complete evolved form it is said to have the power to sink continents."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>",
+      "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
+      "<span class='pseudolink' onclick=searchName('Eze')>Eze</span>"
+    ]
+  }
 };

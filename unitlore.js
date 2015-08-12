@@ -80,3 +80,15 @@ $(document).on('click', '#searchNameBtn', function(e) {
   e.preventDefault();
   searchName($('#searchNameBox').val());
 })
+
+$( "#searchBatchBox" ).keypress( function(e) {
+  if ( event.which == 13 ) {
+     searchBatch($('#searchBatchBox').val());
+  }
+})
+
+$( "#searchNameBox" ).keypress( function(e) {
+  if ( event.which == 13 ) {
+     searchName($('#searchNameBox').val());
+  }
+})
