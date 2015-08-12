@@ -649,4 +649,24 @@ var raw = {
 			"<span class='pseudolink' onclick=searchBatch('Legendary_Disposables')>Legendary Disposables</span>"
 		]
 	},
+  "Agni": {
+    "name": "Agni",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Knight_Agni",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=123",
+    "batch": "Expendable Sidekicks",
+    "home": "Agni",
+    "ids": [10102, 10103, 10104, 10105],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Knight Agni", "Fire Knight Agni", "Magma Knight Agni", "Blazing Knight Agni"],
+      "story": [
+        "The imperator of the Agni Imperial Army and brother of the emperor. His skill in the literary and military arts and impartial fairness earned him the trust of many soldiers. He was even more popular than his brother. However, he feared this and hid his face in public with an iron mask to show his loyalty. There are still countless more rumors about his face, however.",
+
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
+      "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
+    ]
+  }
 };
