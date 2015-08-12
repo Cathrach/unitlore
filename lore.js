@@ -1032,5 +1032,21 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
       "<span class='pseudolink' onclick=searchName('Eze')>Eze</span>"
     ]
-  }
+  },
+  // "Duelmex": {
+  //   "name": "Duelmex",
+  //   "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Wyvern",
+  //   "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=147",
+  //   "batch": "Beasts",
+  //   "element": "Light",
+  //   "home": "Other (Unspecified)",
+  //   "ids": [50102, 50103, 50104, 50105],
+  //   "lore": {
+  //     "rare": [3, 4, 5, 6],
+  //     "names": ["Wyvern", "Bahamut", "Rameldria", "Duelmex"],
+  //     "LS": ["Ares' Light", "Ares' Light", "Ares' Authority", "Ares' Excelsior"],
+  //     "BB": ["Dragon Voice", "Genocide Blaster", "Sky Dragon Gun", "Holy Blaster"],
+  //     "SBB": ["Stardust Flare"]
+  //   }
+  // }
 };
