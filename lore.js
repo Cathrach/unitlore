@@ -697,7 +697,7 @@ var raw = {
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>"
+      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
       "<span class='pseudolink' onclick=searchName('Orwen')>Orwen</span>"
     ]
