@@ -1,4 +1,4 @@
-<!-- a very simple lore finder for BF: NO STATS. NO BBS. ONLY LORE. -->
+<!-- a very simple lore finder for BF: NO STATS. NO BBS. ONLY LORE (well, I'm including their names, because those relate.)-->
 <!-- Cathrach (JP), 03836655. Friend or refer me! -->
 <!-- Many many thanks to touchandswipe.github.io for inspiring me and for their code (as you can see, the site design is greatly influenced by them lol) -->
 <!DOCTYPE html>
@@ -6,6 +6,7 @@
 <head>
   <meta lang='en'>
   <meta charset=utf-8>
+  <title>Unit Lore Finder</title>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
   <!-- Latest compiled and minified CSS -->
@@ -60,6 +61,17 @@
           <li><a href='#' class='location'>Other (Unspecified)</a></li>
         </ul>
       </div>
+      <div class='btn-group'>
+        <button type='button' class='btn btn-default dropdown-toggle' data-toggle='dropdown'>By Element <span class='caret'></span></button>
+        <ul class='dropdown-menu' role='menu'>
+          <li><a href='#' class='element'>Fire</a></li>
+          <li><a href='#' class='element'>Water</a></li>
+          <li><a href='#' class='element'>Earth</a></li>
+          <li><a href='#' class='element'>Thunder</a></li>
+          <li><a href='#' class='element'>Light</a></li>
+          <li><a href='#' class='element'>Dark</a></li>
+        </ul>
+      </div>
     </div>
 
     <div class='input-group' style='margin-bottom:5px;'>
@@ -85,6 +97,20 @@
 
   var imgPrePath = "http://v2.cdn.android.brave.a-lim.jp/";
 
+  function eleSelect(ele) {
+    var outputUnit = [];
+    var outputHTML = [];
+    for (i = 0; i < unitList.length; i++) {
+      if (unitList[i]['element'].toLowerCase() == ele.toLowerCase()) {
+        outputUnit.push(unitList[i]);
+      }
+    }
+    for (i = 0; i < outputUnit.length; i++) {
+      outputHTML.push(outputUnit[i].collapsedInfo);
+    }
+    $(unitTable).html('<h3>' + outputHTML.length + ' units are of element ' + ele + '.</h3>' + outputHTML.join(' '));
+  }
+
   function locSelect(item) {
     var outputUnit = [];
     var outputHTML = [];
@@ -108,12 +134,10 @@
       for (i = 0; i < unitList.length; i++) {
         if (unitList[i]['batch'].toLowerCase().replace(/\W/g, '').replace(/_/g, '').search(batch_name.toLowerCase().replace(/\W/g, '').replace(/_/g, '')) != -1) {
           outputUnit.push(unitList[i]);
-          console.log(outputUnit);
         }
       }
       for (i = 0; i < outputUnit.length; i++) {
         outputHTML.push(outputUnit[i].collapsedInfo);
-        console.log(outputHTML);
       }
       $(unitTable).html('<h3>' + outputHTML.length + ' units in this batch.</h3>' + outputHTML.join(' '));
     }
@@ -152,4 +176,17 @@
     buildList(raw);
   })
   </script>
-  <body>
+
+  <script>
+  <!-- Google Analytics -->
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-66269710-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+</body>
+</html>

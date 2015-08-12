@@ -1,3 +1,4 @@
+@@ -1,339 +0,0 @@
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
