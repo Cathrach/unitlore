@@ -1,4 +1,4 @@
-{
+var raw = {
   "Vargas": {
     "name": "Vargas",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Vargas",
@@ -649,4 +649,4 @@
 			"<span class='pseudolink' onclick=searchBatch('Legendary_Disposables')>Legendary Disposables</span>"
 		]
 	},
-}
+};
