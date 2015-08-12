@@ -1033,20 +1033,114 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Eze')>Eze</span>"
     ]
   },
-  // "Duelmex": {
-  //   "name": "Duelmex",
-  //   "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Wyvern",
-  //   "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=147",
-  //   "batch": "Beasts",
-  //   "element": "Light",
-  //   "home": "Other (Unspecified)",
-  //   "ids": [50102, 50103, 50104, 50105],
-  //   "lore": {
-  //     "rare": [3, 4, 5, 6],
-  //     "names": ["Wyvern", "Bahamut", "Rameldria", "Duelmex"],
-  //     "LS": ["Ares' Light", "Ares' Light", "Ares' Authority", "Ares' Excelsior"],
-  //     "BB": ["Dragon Voice", "Genocide Blaster", "Sky Dragon Gun", "Holy Blaster"],
-  //     "SBB": ["Stardust Flare"]
-  //   }
-  // }
+  "Duelmex": {
+    "name": "Duelmex",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Wyvern",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=147",
+    "batch": "Beasts",
+    "element": "Light",
+    "home": "Other (Unspecified)",
+    "ids": [50102, 50103, 50104, 50105],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Wyvern", "Bahamut", "Rameldria", "Duelmex"],
+      "LS": ["Ares' Light", "Ares' Light", "Ares' Authority", "Ares' Excelsior"],
+      "BB": ["Dragon Voice", "Genocide Blaster", "Sky Dragon Gun", "Holy Blaster"],
+      "SBB": ["Stardust Flare"],
+      "story": [
+        "A fairly common dragon in Grand Gaia. They're often seen on clear days, leisurely weaving through the clouds. They don't have interest in humans and don't get involved unless necessary. With a strong sense of justice rarely seen among dragons, they bring terror to those they deem evil, regardless of species. The wyvern's roar makes those with evil souls hide in fear.",
+        "Among the many dragons, there are giant, extremely powerful dragons that go by the name Bahamut. They swoop down and suppress conflicts and disputes between other dragons. Their judgement is always fair, and no one ever objects. When someone has been judged to have harmed nature, Bahamut passes divine punishment as a representative of all dragons.",
+        "The strongest and highest ranked in the history of all dragons, Rameldria engaged in many battles with many beings, even gods. This can be traced back to myths from long ago. None who lost to Rameldria were recorded as having survived, and it's believed that when the world is on the verge of abyssal despair, its tremendous power will return once again.",
+        "Recorded in legend, Rameldria was said to be one of the strongest of all the dragons, though few know the legend didn't stop there. In a few remaining stories it is told that Rameldria, once thought to be invincible, was actually once defeated by a human. Instead of being embarrassed by this, Rameldria instead showed respect toward the human. Then, having been accepted by the humans, with a bright flash of light it evolved into Duelmex."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>"
+    ]
+  },
+  "Dilias": {
+    "name": "Dilias",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Dilias",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=150",
+    "batch": "Beasts",
+    "element": "Dark",
+    "home": "Other (Unspecified)",
+    "ids": [60102, 60103, 60104, 60105],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Memetes", "Hell King Hades", "Death God Lodaga", "Hellborn Dilias"],
+      "LS": ["Intense Light", "Intense Flash", "Intense Strobe", "Blinding Light"],
+      "BB": ["Climb Pain", "Chaos Fall", "World of Darkness", "Doorway to Hades"],
+      "SBB": ["Soul Eater"],
+      "story": [
+        "A devil said to be the enemy of all life. Originally from Hades, they appear in this world as commanded by Hell King Hades. As the balance keeper between this world and hell, their orders are to destroy those who disturb the balance. A swing of their scythe can only kill those who are already meant to die. No words of kindness or pity affect Memetes.",
+        "The king of all devils who live in hell. Usually he would send his subordinates when something in the living world concerned him and would rarely appear himself. His appearance in the world meant that the situation was beyond Memetes' capabilities. When Hades harvests a soul, it is severed from all regret and attachment to the world, depriving it of all spiritual resistance.",
+        "The god that rules over death. Lodaga does not grant death, rather he is death itself. Only seen by those on the brink of death, those who do see him know to prepare themselves for what's coming next. Meanwhile, some think he is gracious and that he appears before his targets in order to give them time to put their affairs in order. Those who believe this are thought to be odd, though.",
+        "The Death God Lodaga and the <span class='pseudolink' onclick=searchName('Lemia')>Soul Keeper Lemia</span> fought for a long time. Then one day before Lemia's very eyes Lodaga transformed. Taking attack after wicked attack from this sinister form, she felt somehow nostalgic. Realizing why she felt this way, she was filled with fear. Dilias had searched her out in order to consume her and complete his evolution."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>",
+      "<span class='pseudolink' onclick=searchName('Lemia')>Lemia</span>"
+    ]
+  },
+  "Lava": {
+    "name": "Lava",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lava",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=153",
+    "batch": "Old Dogs",
+    "element": "Fire",
+    "home": "Agni",
+    "ids": [10122, 10123, 10124, 10125, 10126],
+    "lore": {
+      "rare": [3, 4, 5, 6, 7],
+      "names": ["Lava", "Fire Knight Lava", "Fire God Lava", "Sacred Flame Lava", "Phoenix Wings Lava"],
+      "LS": ["Fire Spirit's Power", "Fire God's Power", "Fire God's Power", "Fire Lord's Power", "Black Flame's Power"],
+      "BB": ["Blazing Inferno", "Prometheus Burn", "Anguish Blade", "Crimson Lava", "Crimson Caldia"],
+      "SBB": ["Ragnarok", "Ragnarok Deffert"],
+      "UBB": "Gravis Flamma Ardens",
+      "ES": "Inherited Wings of Flame",
+      "story": [
+        "An elite swordswoman from a top-secret project in the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. She was given harsh training from birth to make her the ultimate warrior. She was ranked highest in her order by age 14. Alas, as she was raised this way, she developed personality issues. She communicated only through commands which further distanced her from others.",
+        "An elite swordswoman from a top-secret project in the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. As a result of her special training, she hates contact with other people. However, the joy she felt from defeating <span class='pseudolink' onclick=searchName('Vargas')>Vargas</span>, a promising new star in the order, spurred her to get closer to those she felt to be strong. Knights of the time were honored to be greeted by her.",
+        "An elite swordswoman from a top-secret project in the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. Through many duels her strength is said to have reached that of a fire god. She used her strength well during the war with the gods and received massive support from those who needed her to defend the empire. However, rumor has it that she wanted a rematch with <span class='pseudolink' onclick=searchName('Vargas')>Vargas</span> even more than a battle with the gods.",
+        "An elite swordswoman from a top-secret project in the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. Gravely injured in the battle with the gods, the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span> of the Agni Empire bestowed her with wings. As she tried to rest, having finished her duties, a new fire began to burn inside her. It was a feeling that was new to her. In an instant, the growing flames renewed her wings, inviting her back to the battlefield.",
+        "An elite swordswoman from the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. She sought to make her way to the <span class='pseudolink' onclick=searchName('Vargas')>Hero of Fire</span> after receiving her new wings, only to find him caught in a perilous battle against a <span class='pseudolink' onclick=searchName('Tia')>young girl</span>. Seeing that his heart was not in the fight, Lava tried to interfere out of anger until a disciple bent on destroying everything suddenly appeared, which then led her to release the full extent of her power in order to face this new foe. Following the results of the battle, Lava's soul is said to have stop burning whilst in the arms of the man that had recognized her true prowess as a swordswoman."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Old_Dogs')>Old Dogs</span>",
+      "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Vargas')>Vargas</span>",
+      "<span class='pseudolink' onclick=searchName('Orwen')>Orwen</span>",
+      "<span class='pseudolink' onclick=searchName('Tia')>Tia</span>"
+    ]
+  },
+  "Mega": {
+    "name": "Mega",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Mega",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=156",
+    "batch": "Old Dogs",
+    "element": "Water",
+    "home": "Sama",
+    "ids": [20122, 20123, 20124, 20125],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Captain Mega", "War Captain Mega", "Commander Mega", "Sea King Mega"],
+      "LS": ["Water Spirit's Power", "Water God's Power", "Water God's Power", "Water Lord's Power"],
+      "BB": ["Ocean Whirlpool", "Tempest Gallows", "Cyclone Disaster", "Delta Flood"],
+      "SBB": ["Poseidon's Nightmare"],
+      "story": [
+        "A pirate captain from the seas near the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. He was raised by <span class='pseudolink' onclick=searchName('Verica')>Verica</span> after being found in a shipwreck of which he was the only survivor. When Mega inherited the captain's chair from Verica he gained the trust of his crew as well as the local pirates due to his good humored nature and incredible skill with an axe. He became known as the Captain.",
+        "A pirate captain from the seas near the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Mega masterfully commanded his pirate crew until one day the Sama Kingdom Navy appeared. They requested he join them as their new admiral and help reorganize their forces. He had always hated the corrupt navy, but agreed to their terms and did his best to improve their reputation.",
+        "Master Commander of the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom's</span> navy. He first took his job as admiral as a joke, but after learning he was descended from the previous admiral began showing his true fortitude. He took on the gods, liberating the seas, all whilst rebuilding a corrupt navy. For his merits he received the treasured axe Poseidon.",
+        "Former pirate leader and admiral of the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span> Navy. Having lost his place as a pirate, some other pirates came to despise him. In order to persuade them to change their minds, Mega sacrificed himself to save them from the gods' surprise attack. This left him gravely wounded, but resulted in the pirates having a change of heart. Mega smiled at this as he began to succumb to his wounds, but just then he was brought back by spirits from the sea, along with his treasured axe and the great spirit that resided within it."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Old_Dogs')>Old Dogs</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=searchName('Verica')>Verica</span>"
+    ]
+  },
 };
