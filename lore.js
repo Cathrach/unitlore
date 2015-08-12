@@ -782,7 +782,7 @@ var raw = {
         "The imperator of the <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. His skill in the literary and military arts and impartial fairness earned him the trust of many soldiers. He was even more popular than his brother. However, he feared this and hid his face in public with an iron mask to show his loyalty. There are still countless more rumors about his face, however.",
         "The <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army imperator and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. It's said that he stood at the front lines when the gods invaded. As one of the two most popular people in the Empire, there are many plays based on him. However, rumors surround his death, such as he was assassinated by the emperor, who feared him, or that he was killed during a failed coup d'état.",
         "The <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army imperator and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. It's said that he stood at the front lines when the gods invaded. However, just as he was leading the battle, the emperor ordered for his return. Upon his return, he saw his brother preparing to flee before his eyes. Since then, no one has seen him again.",
-        "Younger brother of the <span class='pseudolink' onclick=searchName('Orwen')>Agni Emperor</span>. Once rumors that the emperor had turned his back on his country surfaced, Knight Agni realized that he had lost his path. Having lost their leader, the Imperial Army lost all morale, leading to one defeat after another. When the God Army reached the city, it was set on destroying all its inhabitants until a group of knights suddenly appeared and repelled their attacks. Due to the imperial crest the leader of the knights bore on his armor, many speculate that the group was led by Knight Agni. However, no one knows whether it's true or not."
+        "Younger brother of the <span class='pseudolink' onclick=searchName('Orwen')>Agni Emperor</span>. Once rumors that the emperor had turned his back on his country surfaced, Knight Agni realized that he had lost his path. Having lost their leader, the Imperial Army lost all morale, leading to one defeat after another. When the <span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span> reached the city, it was set on destroying all its inhabitants until a group of knights suddenly appeared and repelled their attacks. Due to the imperial crest the leader of the knights bore on his armor, many speculate that the group was led by Knight Agni. However, no one knows whether it's true or not."
       ]
     },
     "related": [
@@ -810,11 +810,12 @@ var raw = {
         "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Sergio was isolated as a heretic for secretly training by himself in the Cavalry Corps, whose aim was group combat. However, his skills far surpassed the others, and he was reluctantly made the leader of a commando unit. His own unit feared him, and called him the Ice Knight after the cold way he cuts down his enemies.",
         "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. He was the commander of a Sama Kingdom Cavalry commando unit, but left to face the gods alone when the war began. Some admired him and tried to join, but Sergio refused them. He was always aloof even while being admired by people for his battles with the gods. At some point, he earned the title Ice Ruler.",
         "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Injured in the fight against the gods, he collapsed and was prepared to die. But as the final strike came, his troops rushed forward to protect him. Though he refused to befriend them, many of them admired his indifference. Watching them, Sergio found the strength to swing his sword of ice to protect the people.",
-        "A knight from the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Having attained his powers in order to protect others, Sergio's prowess was acknowledged by the <span class='pseudolink' onclick=searchName('Arius')>prince</span>, who entrusted him with crucial strategic plans. In turn, Sergio also acknowledged the prince's progress, which led them to develop a deep bond of friendship and trust on the battlefield. At the sight of imminent defeat at the hands of the God Army, Sergio was sent to the battlefield under the prince's command. Thanks to his actions, the Sama Army was able to avoid destruction, though after that small victory Sergio was never heard from again."
+        "A knight from the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Having attained his powers in order to protect others, Sergio's prowess was acknowledged by the <span class='pseudolink' onclick=searchName('Arius')>prince</span>, who entrusted him with crucial strategic plans. In turn, Sergio also acknowledged the prince's progress, which led them to develop a deep bond of friendship and trust on the battlefield. At the sight of imminent defeat at the hands of the <span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>, Sergio was sent to the battlefield under the prince's command. Thanks to his actions, the Sama Army was able to avoid destruction, though after that small victory Sergio was never heard from again."
       ]
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
+      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
       "<span class='pseudolink' onclick=searchName('Arius')>Arius</span>"
     ]
@@ -872,5 +873,111 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>",
       "<span class='pseudolink' onclick=searchName('Grafl')>Grafl</span>"
     ]
-  }
+  },
+  "Heidt": {
+    "name": "Heidt",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Heidt",
+		"touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=131",
+		"batch": "Expendable Sidekicks",
+    "element": "Light",
+		"home": "La Veda",
+    "ids": [50092, 50093, 50094, 50095],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Cowboy Heidt", "Holy Shot Heidt", "Pistol God Heidt", "Sacred Gunner Heidt"],
+      "LS": ["Valiant Power", "Royal Power", "Dynasty Power", "Authority of the Dark God"],
+      "BB": ["Holy Ray", "Star Children", "Star Buster", "Star Gazer"],
+      "SBB": ["Meteor Stream"],
+      "story": [
+        "A pistoleer from another world that appeared on the outskirts of the ruined <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. It's said he was a town sheriff. In Grand Gaia he continued eliminating villains with his other-worldly pistol, defending the justice he believed in. Children imitated him aiming his gun, saying, 'I judge the evil the law can't reach.'",
+        "A pistoleer from another world active on the outskirts of the ruined <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>, Heidt defeated villains with his lone pistol, and came to be known as the Holy Marksman. Women loved him, but he refused them, so it was said he likely had a wife back in his home world. He fought hard in the war, yet his death was not recorded. Rumor is that he had returned to his world.",
+        "A pistoleer from another world active on the outskirts of the ruined <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. As the war grew in intensity, Heidt disappeared for a period of time. He eventually returned, brandishing a massive gun, and with a confident devil-may-care smile on his face he said, 'Ha ha ha. I was scolded for not having properly finished what I came here to do!' It's said that no one since has been able to match his superior shooting skills.",
+        "A gunner who made his living in the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. After a defeat from the <span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span> seemed imminent during the great war, he wandered the outskirts of town searching for anyone who hadn't been able to evacuate. Those who were rescued by Heidt often wished to fight by his side, helping him to rescue a great number of people. Even after finding out that the people he had saved were convicted criminals, Heidt did not hold it against them. The only thing he ever mentioned about them was written in a letter to his wife, which read that he 'had been pointing his gun towards the wrong enemy the whole time.'"
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
+      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
+      "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
+      "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>"
+    ]
+  },
+  "Shida": {
+    "name": "Shida",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Shida",
+		"touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=133",
+		"batch": "Expendable Sidekicks",
+    "element": "Dark",
+		"home": "Bariura",
+    "ids": [60092, 60093, 60094, 60095],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Shida", "Garroter Shida", "Executioner Shida", "Death God Shida"],
+      "LS": ["Valiant Power", "Royal Power", "Dynasty Power", "Authority of the Light God"],
+      "BB": ["Catastrophe", "Dark Matter", "Sacrifice", "Soul Prison"],
+      "SBB": ["Grand Chaos"],
+      "story": [
+        "A supervisor of all magicians in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. Deeply trusted by the emperor, he oversaw many experiments throughout the empire. He zealously researched a variety of sorcery, focusing on black magic. He called himself a dark magician. Rumor was he discovered new techniques through human experiments, but he would just smile and neither confirm nor deny this.",
+        "A supervisor of all magicians in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. He continued his research and gained the power to manipulate most living things. As his interest turned from the living to the dead, he came to befeared, making himself known as a necromancer. Although unproven, it's said he discovered an even more powerful magic before the war and this may even have been what triggered the gods' anger.",
+        "A supervisor of all magicians in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. As his empire faced collapse from the gods' attack, he decided to present the findings of his research. He was now able to sublimate living beings, and though their bodies were destroyed in the process, as his servants their spirits were ferociously powerful. It's rumored that his research produced more additional findings, though none are recorded in any known documents.",
+        "A sorcerer from the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> who could command all magical spells. During the end of the great war with the gods, he disappeared along with his extensive research facility. Records left behind state that afterwards, when the Imperial Army had been surrounded by the <span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>, a being that resembled Shida appeared on the battlefield and destroyed all the enemies present in an instant. However, testimony from a knight who witnessed it all says that Shida murmured 'I have found the materials I need for my new research. I shall be on my way.' and then disappeared into the darkness.",
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
+      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
+      "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Zellha')>Zellha</span>"
+    ]
+  },
+  "Phoenix": {
+    "name": "Phoenix",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Shida",
+		"touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=135",
+		"batch": "Beasts",
+    "element": "Fire",
+		"home": "Other (Unspecified)",
+    "ids": [10112, 10113, 10114, 10115],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Phoenix", "Lava Phoenix", "God Phoenix", "Phoenix Reborn"],
+      "LS": ["Loving Spirit", "Loving Spirit", "Loving Devotion", "Sincere Affection"],
+      "BB": ["Burning Feather", "Ignited Feather", "Phoenix Feather", "Luminous Feather"],
+      "SBB": ["Kaiser Phoenix"],
+      "story": [
+        "A holy bird born from a volcano once every few millennia. Usually half-human, half-bird in appearance, in battle it turns into a fireball to attack. In Grand Gaia this species has a rare fondness for humans, who otherwise have many enemies. They like human passion and self-confidence. Their tails can heal and it's said they appear near brave, injured soldiers.",
+        "A holy bird born from a volcano once every few millennia. It is a phoenix that has matured over the span of many years but still attacks by turning into a fireball. It allies with and defends those with ambition and a love of justice. History books speak of a Lava Phoenix appearing at the start of revolutions or coup d'états and aiding those who fight for justice",
+        "A holy bird born from a volcano once every few millennia. They are known as the Gods of the rare sacred birds. Their bodies reach several thousand degrees when angry, burning enemies to ash. Said to be incarnations of gods because of their intelligence and sense of justice, all those who are vanquished by them are thought to have received the judgement of the gods.",
+        "The highest class of all Phoenixes, they are so close to being immortal that few care about growing stronger. However, there are still some who do care. These Phoenixes, having evolved into a higher form than other Phoenixes, are almost never seen. They seek strength out of their deep attachment to life as well as in order to face more powerful foes, leading many to theorize about them even today."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>"
+    ]
+  },
+  "Felneus": {
+    "name": "Felneus",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Leviathan",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=138",
+    "batch": "Beasts",
+    "element": "Water",
+    "home": "Other (Unspecified)",
+    "ids": [20112, 20113, 20114, 20115],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Leviathan", "Loch Ness", "Malnaplis", "Felneus"],
+      "LS": ["Ares' Light", "Ares' Light", "Ares' Authority", "Ares' Excelsior"],
+      "BB": ["Tidal Wave", "Maelstrom", "Calamity Wave", "Riptide"],
+      "SBB": ["Flood Noir"],
+      "story": [
+        "The Devil of the Sea, feared by sailors since ancient times. Not only ferocious and violent, but also very intelligent and able to talk with humans. However, since Leviathan has judged humans as evil that pollutes the sea, it sends every ship it meets to a watery grave. Sailors fear seeing it and always offer prayers and sacrifices before setting sail.",
+        "A giant dragon strongest among the sea drakes and deathly feared by man. Extremely intelligent, it will not attack others as long as it is unharmed. Its abilities far surpass a normal sea drake, to the extent that storms rise when it appears. Loch Ness, leader of the proud sea drakes, is an impressive sight, and some sailors worship it.",
+        "The greatest of all of the sea drakes, said to be their creator. Legend has it that its birth traces back to the birth of the world, and that all of the world's seas were created by it. It is said to be comparatively gentle, but once provoked, its rage is unforgiving, causing storm after storm until the the seas part and everything sinks to the abyss.",
+        "For a long time the name Felneus was only spoken of in stories. One such story said, 'There was once a dragon that purified the water at the bottom of the sea.' Another said, 'All souls lost at sea return to Felneus.' As widely and broadly depicted as it was, every mention of the sea dragon spoke of how powerful and magnificent it was. Once discovered there was an outcry that 'The world has lost another of its secrets.'"
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>"
+    ]
+  },
 };

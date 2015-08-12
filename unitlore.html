@@ -6,6 +6,7 @@
 <head>
   <meta lang='en'>
   <meta charset=utf-8>
+  <title>Unit Lore Finder</title>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
   <!-- Latest compiled and minified CSS -->
@@ -100,7 +101,7 @@
     var outputUnit = [];
     var outputHTML = [];
     for (i = 0; i < unitList.length; i++) {
-      if (unitList[i]['home'] == ele) {
+      if (unitList[i]['element'].toLowerCase() == ele.toLowerCase()) {
         outputUnit.push(unitList[i]);
       }
     }
@@ -133,12 +134,10 @@
       for (i = 0; i < unitList.length; i++) {
         if (unitList[i]['batch'].toLowerCase().replace(/\W/g, '').replace(/_/g, '').search(batch_name.toLowerCase().replace(/\W/g, '').replace(/_/g, '')) != -1) {
           outputUnit.push(unitList[i]);
-          console.log(outputUnit);
         }
       }
       for (i = 0; i < outputUnit.length; i++) {
         outputHTML.push(outputUnit[i].collapsedInfo);
-        console.log(outputHTML);
       }
       $(unitTable).html('<h3>' + outputHTML.length + ' units in this batch.</h3>' + outputHTML.join(' '));
     }
