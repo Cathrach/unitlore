@@ -81,25 +81,14 @@ $(document).on('click', '#searchNameBtn', function(e) {
   searchName($('#searchNameBox').val());
 })
 
-<<<<<<< HEAD
-$( "#searchBatchBox" ).keypress( function( event ) {
-=======
 $( "#searchBatchBox" ).keypress( function(e) {
->>>>>>> origin/gh-pages
   if ( event.which == 13 ) {
      searchBatch($('#searchBatchBox').val());
   }
 })
 
-<<<<<<< HEAD
-$( "#searchNameBox" ).keypress( function( event ) {
-  if ( event.which == 13 ) {
-     searchName($('#searchNameBox').val());
-  }
-=======
 $( "#searchNameBox" ).keypress( function(e) {
   if ( event.which == 13 ) {
      searchName($('#searchNameBox').val());
   }
 })
->>>>>>> origin/gh-pages
