@@ -164,6 +164,7 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
       "<span class='pseudolink' onclick=searchName('Zelban')>Zelban</span>",
       "<span class='pseudolink' onclick=searchName('Kuda')>Kuda</span>",
+      "<span class='pseudolink' onclick=searchName('Will')>Will</span>",
       "<span class='pseudolink' onclick=searchName('Urias')>Urias</span>"
     ]
   },
@@ -1141,6 +1142,90 @@ var raw = {
       "<span class='pseudolink' onclick=searchBatch('Old_Dogs')>Old Dogs</span>",
       "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
       "<span class='pseudolink' onclick=searchName('Verica')>Verica</span>"
+    ]
+  },
+  "Douglas": {
+    "name": "Douglas",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Douglas",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=159",
+    "batch": "Old Dogs",
+    "element": "Earth",
+    "home": "Vriksha",
+    "ids": [30122, 30123, 30124, 30125],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Gunner Douglas", "Gun King Douglas", "Gun God Douglas", "Holy Arms Douglas"],
+      "LS": ["Earth Spirit's Power", "Earth God's Power", "Earth God's Power", "Earth Lord's Power"],
+      "BB": ["Zafonic Bullet", "Genocidal Grit", "Shining Zork", "Death Bringer"],
+      "SBB": ["Spark Cannon"],
+      "story": [
+        "A gatling gunner who forages in the <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>. He lost his memory and was known as a visitor from another world with an unknown origin. His gatling gun could take down heavily armored regiments, but as Vriksha was unable to make ammunition, he would only be used in the most important battles. Dissatisfied with this, it is said he spent his days researching.",
+        "A gatling gunner who forages in the <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>. Douglas was said to be a visitor from another world, and since his gun was nonexistent in Grand Gaia he faced difficulties procuring ammuniction. However, he succeeded in making a mechanism that used magic for ammunition. The gun would then unleash a fury of bullets as long as the user's magic held up.",
+        "A gatling gunner who forages in the <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>. He is said to be from another world. He took on the gods with his gatling gun, restlessly training his magic to increase the power of each shot. He followed no strategy, never fearing battle. He faced tens of thousands alone, drawing on his last bit of energy only after defeating the enemy general.",
+        "A magical machine gunner who forages in the <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>. Historical texts tell of how he challenged tens of thousands of gods on his own before suffering a fatal wound. However, there is a handful of documents chronicling his actions afterwards. It seems he had disappeared into a gate to the otherworld just before dying. As the war and mankind itself drew to an end, Douglas and his immensely powerful magic gatling gun once again stood in defiance before the army of gods."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Old_Dogs')>Old Dogs</span>",
+      "<span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha Duchy</span>"
+    ]
+  },
+  "Emilia": {
+    "name": "Emilia",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Emilia",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=162",
+    "batch": "Old Dogs",
+    "element": "Thunder",
+    "home": "Atharva",
+    "ids": [40122, 40123, 40124, 40125],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Emilia", "Princess Emilia", "Goddess Emilia", "Holy Shock Emilia"],
+      "LS": ["Thunder Spirit's Power", "Thunder God's Power", "Thunder God's Power", "Thunder Lord's Power"],
+      "BB": ["Cross Layer Blitz", "Elznet Saber", "Genocide Levin", "Empire of Thunder"],
+      "SBB": ["Perkunas Saber"],
+      "story": [
+        "A dual-wielding general mentioned in the records of the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. She distinguished herself in battle by using a technique she developed herself. Minstrels of her day sang of her climb to the rank of general. Popular with the people, songs said she was 'as furious as thunder, fighting as though she were dancing.' This earned her the title, 'Thunder Dancer'.",
+        "A dual-wielding general mentioned in the records of the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. She focused on training soldiers after becoming a general, but she was so severe that many were honorably discharged from service. Her battlefield initiative earned her the respectful title of Princess Emilia. It is said she tried her hardest to smile whenever her title changed.",
+        "A dual-wielding general mentioned in the records of the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. She fought on the front lines, even during the war with the gods. In Atharva, she reached the same level as the <span class='pseudolink' onclick=searchName('Weiss')>Commander Weiss</span>. Rumor was that they were lovers, but she vehemently denied this when asked. She lived her short life single, saying, 'I live for my sword, not love.'",
+        "A female general reportedly from the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. She was saved by <span class='pseudolink' onclick=searchName('Eze')>Eze</span> after finding herself in trouble fighting the gods. Afterwards, she became obsessed with power, and, inheriting equipment from a former ally procured from the otherworld, poured all she had into strengthening herself. In the end there would be rumors of her relationships with <span class='pseudolink' onclick=searchName('Weiss')>Weiss</span>, Eze, former allies and so forth, despite her being recorded as saying, 'It's pathetic only being able to see human relationships from an emotional standpoint.'",
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Old_Dogs')>Old Dogs</span>",
+      "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Weiss')>Weiss</span>",
+      "<span class='pseudolink' onclick=searchName('Eze')>Eze</span>"
+    ]
+  },
+  "Will": {
+    "name": "Will",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Will",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=165",
+    "batch": "Old Dogs",
+    "element": "Light",
+    "home": "La Veda",
+    "ids": [50112, 50113, 50114, 50115, 50116],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Knight Will", "Holy Knight Will", "God Knight Will", "Holy Guard Will"],
+      "LS": ["Light Spirit's Power", "Light God's Power", "Light God's Power", "Light Lord's Power"],
+      "BB": ["Galactic Volley", "Sacred Force", "Astral Nova", "Ishtar Burn"],
+      "SBB": ["Avalon"],
+      "story": [
+        "A knight from the ruined La Veda Republic, history books say he was the only one who fought against the world's destruction until the very end. He was known as the strongest warrior in the Veda cavalry. People wanted to know if he was stronger than Atro, but legend claims he didn't care, saying, 'What would it matter?'",
+        "A knight from the ruined La Veda Republic. He resisted the world's destruction until the very end. He is excellent at the sword, and great as a commander. His tactics steadily wore down his enemies. Deeply trusted by his soldiers, after a soldier proclaimed, 'I know not if he's stronger than Atro, but he is most definitely more overwhelming!' he harshly rebuked that soldier.",
+        "A knight from the ruined La Veda Republic who resisted the world's destruction until the very end. He anticipated the human loss at an early stage of the war, and in order to delay it he implemented a strange tactic, using a smaller forces to take on larger armies. The strategy was promising, but Will struggled until the end, knowing humanity would ultimately lose.",
+        "A knight of the La Veda Republic that fought against the world's destruction until the very end. Charged by Lucius with saving the world, he decided to give up command and return to being a lone knight. Informing his subordinates to follow Lucius' commands, he equipped himself with various sacred items before taking on the gods by himself. Free from the responsibility of command, Will, and the soldiers who decided to follow him anyway, cut down countless gods."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Old_Dogs')>Old Dogs</span>",
+      "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Atro')>Atro</span>",
+      "<span class='pseudolink' onclick=searchName('Aem')>Aem</span>",
+      "<span class='pseudolink' onclick=searchName('Mila')>Mila</span>",
+      "<span class='pseudolink' onclick=searchName('Themis')>Themis</span>"
     ]
   },
 };
