@@ -1228,4 +1228,35 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Themis')>Themis</span>"
     ]
   },
+  "Alice": {
+    "name": "Alice",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Alice",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=168",
+    "batch": "Old Dogs",
+    "element": "Dark",
+    "home": "Bariura",
+    "ids": [60112, 60113, 60114, 60115, 60116],
+    "lore": {
+      "rare": [3, 4, 5, 6, 7],
+      "names": ["Alice", "Scythe Alice", "Scythe God Alice", "Hell Keep Alice", "Inferno Princess Alice"],
+      "LS": ["Dark Spirit's Power", "Dark God's Power", "Dark God's Power", "Dark Lord's Power", "Dark Hellfire's Power"],
+      "BB": ["Shadow Insult", "Crimson Reaper", "Abaddon Eater", "Apollyon Climb", "Apollyon Deluge"],
+      "SBB": ["Blood Raiser", "Depriving Spell"],
+      "UBB": "Missing",
+      "ES": "Heart Piercing Light",
+      "story": [
+        "The scythe-wielding, eighth princess of the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. Despite being a princess, she was trained in combat since youth due to her magical talent. The harsh training took from her the concept of freedom, leaving military success as her only goal in life. Her scythe was infused with her magic, and she smiled ominously as she cleaved her enemies.",
+        "The scythe-wielding, eighth princess of the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. She was gradually consumed by madness as she fought with her weapon. She continued killing, but eventually guilt began to pool up inside her. The emperor noticed this and led her deeper into the darkness in hopes of making her into a weapon for the empire.",
+        "The insane, scythe-wielding, eighth princess of the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. During the war she was rebuked for letting her own squad perish in order to annihilate an army of the gods. However, after this happened she calmly headed back to the front lines saying, 'They were in my way.' From then on, none could stop her from fighting. Legend says she cut down god after god, smiling until the day she died.",
+        "Alice once lost her life in the battle with the gods. However, there are various widespread reports of her being sighted afterwards. What's more is that she was said to have been after the lives of humans, not gods. The truth is unknown but there are two strong theories. One is that her spirit was being controlled by the gods. Another explains that, though she was resurrected when her empire was rebuilt, her mind was still broken. Either case being true, there's no doubt her power was far greater than it'd ever been before.",
+        "Having lost her life in battle, Alice continued to dye her sickle with the blood of her enemies while unconscious. This was due to the fact that she had collected a countless amount of souls while cursing the world during her lifetime. However, Alice suddenly recovered her consciousness when amongst the numerous souls in her body, a light spoke softly to her. She had no recollection of what the light was, but she got a familiar feeling from it nevertheless. As tears streamed down her face, she muttered the word '<span class='pseudolink' onclick=searchName('Elza')>sister</span>' to herself, and began to fight for her survival with both darkness and light within her."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Old_Dogs')>Old Dogs</span>",
+      "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Elza')>Elza</span>"
+    ]
+  },
+
 };
