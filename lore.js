@@ -1258,5 +1258,34 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Elza')>Elza</span>"
     ]
   },
-
+  "Galant": {
+    "name": "Galant",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Galant",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=203",
+    "batch": "Elemental Heroes",
+    "element": "Fire",
+    "home": "Agni",
+    "ids": [10141, 10142, 10143, 10144, 10145],
+    "lore": {
+      "rare": [2, 3, 4, 5, 6],
+      "names": ["Blacksmith Galant", "Bruiser Galant", "God Arm Galant", "Smith Lord Galant", "Imperial Smith Galant"],
+      "LS": ["Intense Light", "Intense Flash", "Intense Strobe", "Intense Strobe", "Blinding Light"],
+      "BB": ["Focal Blast", "Grenade Buster", "Ignis Nebula", "Veldre Dish", "Wrath Volcano"],
+      "SBB": ["Asura Diamant"],
+      "story": [
+        "A former blacksmith from the ruined Agni Empire, Galant came from a long line of blacksmiths before him. He trained hard to be able to take over the family business becoming an outstanding blacksmith in the process, but he began acting out in rebelious ways in his teen years. Despite this behavior, he would still go into fits of anger when he saw others mistreating weapons and armaments, causing him to be ironically known as the Blacksmith.",
+        "A former blacksmith from the ruined Agni Empire, though once caught up in a life of mischief, upon the death of his beloved grandfather he decided he would continue his path towards becoming a professional blacksmith. As he honed his skills, he came to repeat his grandfather's words, 'A Blacksmith's only job isn't to strengthen weapons and armor, but also to enhance the will and motivation of those that wield them.'",
+        "A former blacksmith from the ruined Agni Empire, Galant, fueled by his grandfather's final words, continued his training towards becoming an outstanding blacksmith. Often travelling abroad to procure his own materials, he one day came across a fragment from the heavens. It's unknown what methods he used to obtain it, but the helm he made with it remains an article of legend.",
+        "A former blacksmith from the Agni Empire. Having completed his journey, Galant came back to his hometown to find it cowering in fear of the gods' invasion. Enraged by what he saw, he took to the volcano to forge a new weapon from the special ore he had acquired. It is said this massive weapon was covered in flames and able to break through the strongest of armor. Afterwards, it is said he handed his weapon off to his friend, a person who would later also come to be known as a hero.",
+        "A former blacksmith from the Agni Empire. After entrusting Dandelga to a hero, he once again headed towards the volcano in order to forge a large amount of weapons with which to supply those retaliating against the gods. Since the God Army's blacksmiths were supplying the deities with very strong arms as well, Galant saw them as the greatest threat. Therefore, he tried to siege the volcano, eventually getting into an intense skirmish with a single blacksmith. Making the firepower of the volcano his own, it is said that a demon-like shadow began manifesting behind him after he created countless weapons for battle."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Elemental_Heroes')>Elemental Heroes</span>",
+      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
+      "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Vargas')>Vargas</span>",
+      "<span class='pseudolink' onclick=searchName('Dandelga')>Dandelga</span>"
+    ]
+  }
 };
