@@ -71,6 +71,11 @@ $(document).on('click', '.element', function(e) {
   eleSelect($(this).text());
 })
 
+$(document).on('click', '.batches', function(e) {
+  e.preventDefault();
+  batchSelect($(this).text());
+})
+
 $(document).on('click', '#searchBatchBtn', function(e) {
   e.preventDefault();
   searchBatch($('#searchBatchBox').val());

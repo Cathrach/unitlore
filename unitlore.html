@@ -74,6 +74,21 @@
           <li><a href='#' class='element'>Sphere</a></li> <!-- not really an element, I know. -->
         </ul>
       </div>
+      <div class='btn-group'>
+        <button type='button' class='btn btn-default dropdown-toggle' data-toggle='dropdown'>By Batch<span class='caret'></span></button>
+        <ul class='dropdown-menu' role='menu'>
+          <li><a href='#' class='batches'>Six Heroes</a></li>
+          <li><a href='#' class='batches'>Champions of Old</a></li>
+          <li><a href='#' class='batches'>Mages of Old</a></li>
+          <li><a href='#' class='batches'>Scums of Old</a></li>
+          <li><a href='#' class='batches'>Legendary Disposables</a></li>
+          <li><a href='#' class='batches'>Expendable Sidekicks</a></li>
+          <li><a href='#' class='batches'>Beasts</a></li>
+          <li><a href='#' class='batches'>Old Dogs</a></li>
+          <li><a href='#' class='batches'>Elemental Heroes</a></li>
+          <li><a href='#' class='batches'>Occupational Heroes</a></li>
+        </ul>
+      </div>
     </div>
 
     <div class='input-group' style='margin-bottom:5px;'>
@@ -98,6 +113,20 @@
   <script type='text/javascript'>
 
   var imgPrePath = "http://v2.cdn.android.brave.a-lim.jp/";
+
+  function batchSelect(batch) {
+    var outputUnit = [];
+    var outputHTML = [];
+    for (i = 0; i < unitList.length; i++) {
+      if (unitList[i]['batch'].toLowerCase().replace(/\W/g, '') == batch.toLowerCase().replace(/_/g, '').replace(/\W/g, '')) {
+        outputUnit.push(unitList[i]);
+      }
+    }
+    for (i = 0; i < outputUnit.length; i++) {
+      outputHTML.push(outputUnit[i].collapsedInfo);
+    }
+    $(unitTable).html('<h3>' + outputHTML.length + 'units in this batch.</h3>' + outputHTML.join());
+  }
 
   function eleSelect(ele) {
     var outputUnit = [];

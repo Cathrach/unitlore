@@ -1515,4 +1515,31 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Faris')>Faris</span>"
     ]
   },
+  "Elulu": {
+    "name": "Elulu",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Elulu",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=230",
+    "batch": "Occupational Heroes",
+    "element": "Thunder",
+    "home": "Other (Unspecified)",
+    "ids": [],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Tinkerer Elulu", "Inventor Elulu", "Bolt Mallet Elulu", "Tesla Club Elulu"],
+      "LS": ["Intense Light", "Intense Flash", "Intense Strobe", "Barrage Order"],
+      "BB": ["Spark Hammer", "Thunder Smash", "Lightning Smash", "Electric Shock"],
+      "SBB": ["Master of Invention"],
+      "story": [
+        "A young girl with a passion for controlling lightning. After miraculously surviving a lightning strike as a child, she grew up to harbor an overwhelming fascination with all things storm-related. Desperate to harness the power of lightning herself, she developed a hammer capable of transforming its wielder’s swing into a burst of electrical energy. Eager to put her invention to the test, she set out, hammer in hand, to hunt monsters in dangerous lands.",
+        "A young girl with a passion for controlling lightning. After succeeding in her attempt to harness electricity, Elulu began to research other ways to increase her strength. Fed up with lugging her heavy hammer around, she used anti-gravity techniques to modify her weapon until it was light enough for even a young girl to wield. Unfortunately for mankind, she only ever used her expertise in anti-gravity technology for her own purposes.",
+        "A young girl with the ability to control lightning. After toiling tirelessly to optimize her hammer, Elulu eventually succeeded in developing a model capable of discharging the same amount of energy as an actual bolt of lightning. When combined with an explosive burst of anti-gravity, Elulu’s hammer released a force potent enough to cause seismic shifts. Those who saw her unleash a mighty blow with her hammer likened her to a goddess from a creation myth.",
+        "A young girl with the ability to control lightning. It's said that as she carried out experiments with the mechanical hammer she had created, small explosions could be heard coming from her studio. It has also been recorded that when the gods appeared she released an even greater explosion that leveled many of the gods' soldiers. There are rumors that this explosion was strategic, as afterwards Elulu appeared from it when a new hammer with which she laid waste to the army of the gods."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Occupational_Heroes')>Occupational Heroes</span>",
+      "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Garnan')>Garnan</span>"
+    ]
+  }
 };
