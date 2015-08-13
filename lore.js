@@ -1522,7 +1522,7 @@ var raw = {
     "batch": "Occupational Heroes",
     "element": "Thunder",
     "home": "Other (Unspecified)",
-    "ids": [],
+    "ids": [40152, 40153, 40154, 40155],
     "lore": {
       "rare": [3, 4, 5, 6],
       "names": ["Tinkerer Elulu", "Inventor Elulu", "Bolt Mallet Elulu", "Tesla Club Elulu"],
@@ -1540,6 +1540,183 @@ var raw = {
       "<span class='pseudolink' onclick=searchBatch('Occupational_Heroes')>Occupational Heroes</span>",
       "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>",
       "<span class='pseudolink' onclick=searchName('Garnan')>Garnan</span>"
+    ]
+  },
+  "Aem": {
+    "name": "Aem",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Aem",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=233",
+    "batch": "Occuptional Heroes",
+    "element": "Light",
+    "home": "La Veda",
+    "ids": [50152, 50153, 50154, 50155],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Knight Aem", "Champion Aem", "Holy Master Aem", "Ultra Blade Aem"],
+      "LS": ["Pulsating Energy", "Pulsating Energy", "Pulsating Retribution", "Pulsating Ascension"],
+      "BB": ["Dragon Slayer", "God Slayer", "Radiant Heaven", "Orbital Glow"],
+      "SBB": ["Sworn Bond"],
+      "story": [
+        "A swordsman who became a knight in order to follow in the steps of his hero, <span class='pseudolink' onclick=searchName('Will')>Will</span> of the <span class='pseudolink' onclick=locSelect('La_Veda')>Republic of La Veda</span>. As a new knight recruit, Aem trained day and night to become as nimble and agile as Will. It was Will himself who suggested he swap his weapon for a broadsword, a major adjustment that brought with it a whole new world of tactical possibilities. After that, Aem swung his sword at least 10 thousand times a day, and soon became recognized as a true talent among his fellow knights.",
+        "A swordsman who became a knight in order to follow in the steps of his hero, <span class='pseudolink' onclick=searchName('Will')>Will</span> of the <span class='pseudolink' onclick=locSelect('La_Veda')>Republic of La Veda</span>. Will’s most devoted follower, Aem couldn’t bear the way Will and Atro appeared to be held in equal regard by his peers. Convinced of Will’s superiority, Aem challenged <span class='pseudolink' onclick=searchName('Atro')>Atro</span> to a joust. The joust was called off halfway through, but Aem’s reputation was sealed as the knight who’d managed to hold his own against the legendary Atro.",
+        "A swordsman who became a knight in order to follow in the steps of his hero, <span class='pseudolink' onclick=searchName('Will')>Will</span> of the <span class='pseudolink' onclick=locSelect('La_Veda')>Republic of La Veda</span>. Even when he was hailed as one of the top five knights in the Veda clan, Aem’s intense feelings of respect for Will never changed. As the world descended into chaos, Aem stood resolutely at Will’s side, and continued to discharge his duties with loyalty and precision. It is said that his final moments were spent heroically attempting to protect Will from the gods’ onslaught.",
+        "A swordsman who became a knight in order to follow in the steps of his <span class='pseudolink' onclick=searchName('Will')>hero</span>. After <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda</span> fell, he chased after Will who had broke off on his own and was about to challenge the gods. After catching up to him Will rebuked him, to which Aem responded, 'It is the hope of all the people to see Sir Will safely through battle with the gods.' It is said that, as Will smiled cheerfully, Aem stood in front of him and continued to counter the gods' attacks.",
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Occupational_Heroes')>Occuptaional Heroes</span>",
+      "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Will')>Will</span>",
+      "<span class='pseudolink' onclick=searchName('Atro')>Atro</span>"
+    ]
+  },
+  "Lemia": {
+    "name": "Lemia",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lemia",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=236",
+    "batch": "Occupational Heroes",
+    "element": "Dark",
+    "home": "Bariura",
+    "ids": [60162, 60163, 60164, 60165],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Lemia", "Necromancer Lemia", "Soul Keeper Lemia", "Soul Vortex Lemia"],
+      "LS": ["Soul Light", "Soul Flash", "Soul Strobe", "Soul Torch"],
+      "BB": ["Gravity Bomb", "Glasya Labolas", "Black Hole", "Asmodeus"],
+      "SBB": ["Realm of Darkness"],
+      "story": [
+        "A sorceress specializing in necromancy. Originally considered to have a bright future as State Sorceress of the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>, a failed magic experiment ended up taking the life of her lover. In a desperate bid to revive him, Lemia turned her attention to the outlawed practice of necromancy, a move which swiftly ostracized her from her sorcerer peers. However, far from deterred, she secretly continued her necromancy studies.",
+        "A sorceress specializing in necromancy. Despite Lemia’s best efforts to revive her dead lover, nothing she tried seemed to work. Undeterred, she continued in her research, eventually spawning countless zombies who spread an evil miasma across the land. As her creations wandered the earth searching for blood, soon the very mention of her name struck fear into the hearts of people everywhere.",
+        "A sorceress specializing in necromancy. Lemia’s activities incurred the wrath of <span class='pseudolink' onclick=searchName('Dilias')>Death God Lodaga</span>, who criticized her for meddling in the affairs of his world. When Lemia refused to stop, a power struggle ensued between her and Lodaga for the right to control the souls of the dead. The struggle ended up lasting until Lemia, herself, was no more, though it’s said that the tormented voices of souls she once commanded can still be heard to this day.",
+        "A sorceress specializing in necromancy. Her hopes of reviving her dead lover were dashed by <span class='pseudolink' onclick=searchName('Dilias')>Dilias</span>. He had consumed the soul of the man she so longed to see. After learning the truth she went mad, cursing the entire world. She dedicated all her magic to seeing that all spirits were returned to a world of nothingness, as she wished to see what would be left after gods, men, the living, and the dead were all destroyed."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Occupational_Heroes')>Occupational Heroes</span>",
+      "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Dilias')>Dilias</span>"
+    ]
+  },
+  "Lorand": {
+    "name": "Lorand",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lorand",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=239",
+    "batch": "Saviors of Palmyna",
+    "element": "Fire",
+    "home": "Palmyna",
+    "ids": [10162, 10163, 10164, 10165],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Lorand", "Professor Lorand", "Master Lorand", "Taskmaster Lorand"],
+      "LS": ["Fire Spirit's Power", "Fire God's Power", "Fire God's Power", "Fire Master's Power"],
+      "BB": ["Burning Spirit", "Flaming Spirit", "Blazing Spirit", "Incinerating Spirit"],
+      "SBB": ["Charred Spirit"],
+      "story": [
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. A teacher at an esteemed seminary in Palmyna, Lorand was recruited by the knight <span class='pseudolink' onclick=searchName('Edea')>Edea</span> to join her expedition into the heart of the gods’ assault on Palmyna. Despite his foreboding appearance, Lorand was much loved and respected by his pupils. It is not widely known, but in his youth he used to go by the nickname 'Inferno Gladiator'.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. Assuming the role of leader, Lorand set out with his companions on a mission to put an end to the gods’ assault on Palmyna. An exquisite fighter in spite of his old age, it is said that he burned his enemies to a crisp with a single swing of his sword. His comrade <span class='pseudolink' onclick=searchName('Dean')>Dean</span> affectionately referred to him as Gramps, much to Lorand’s dismay.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. When he finally came face to face with the leader of the gods, Lorand’s strength is said to have surpassed even that of his youth. He sliced through the enemy’s defenses, and cleaved a path for his comrades through their ranks. Ultimately, however, it wasn’t enough, and Palmyna’s forces were roundly obliterated. No one knows what happened to Lorand and his group.",
+        "One of four legendary warriors who fought to save <span class='pseudolink' onclick=locSelect('Palmyna')>Palmyna</span>. After battling with Cardes, general of the gods, he regained consciousness on the plains of Palmyna. Wanting to know how the battle had ended and if his comrades were safe, he proceeded to the castle. However, upon arriving he saw that everything had been destroyed by the gods. It is said that ferociously wielding his flames he turned all the gods that remained in the city to ash."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Saviors_of_Palmyna')>Saviors of Palmyna</span>",
+      "<span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>",
+      "<span class='pseudolink' onclick=searchName('Edea')>Edea</span>",
+      "<span class='pseudolink' onclick=searchName('Dean')>Dean</span>",
+      "<span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>"
+    ]
+  },
+  "Dean": {
+    "name": "Dean",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Dean",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=242",
+    "batch": "Saviors of Palmyna",
+    "element": "Water",
+    "home": "Palmyna",
+    "ids": [20162, 20163, 20164, 20165],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Dean", "Ice Mage Dean", "Ice Wizard Dean", "Ice Master Dean"],
+      "LS": ["Water Spirit's Power", "Water God's Power", "Water God's Power", "Water Master's Power"],
+      "BB": ["Solid Ice", "Diamond Dust", "Absolute Zero", "Iceberg Rain"],
+      "SBB": ["Glacier Zone"],
+      "story": [
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. Originally a high-ranking priest who specialized in ice magic, his refusal to bow down to authority resulted in his superiors exiling him into the wilderness. Plunged into despair by the gods’ attack on Palmyna and with nowhere to turn, he was relieved one day to receive a visit from a <span class='pseudolink' onclick=searchName('Edea')>female knight</span> and an <span class='pseudolink' onclick=searchName('Lorand')>old man</span>, who invited him on a journey to defeat the rampaging gods.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. As a priest, Dean initially struggled with the idea of fighting against the gods––until he saw the carnage they were wreaking, that is. He used his sway over the frosty elements to freeze his enemies in their tracks. Though often described as a rowdy, somewhat coarse individual, his relentless banter also served as a source of much-needed comic relief among the four warriors.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. By the time he reached the base of the gods’ assault on Palmyna, Dean’s power was already far superior to that of the average god. In the final showdown against the leader of the gods, he used all his magic reserves to freeze the enemy’s movement, creating just enough time for <span class='pseudolink' onclick=searchName('Loch')>Loch</span> to strike the final blow with his Zeus Bow. Along with the other three warriors, Dean’s eventual fate is shrouded in mystery.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. After the battle with <span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>, commander of the god army, was over, Dean found himself waking up on a beach in Amdahl. Trying to dig up memories which might explain why he had survived, he felt the power of the <span class='pseudolink' onclick=searchName('Edea')>girl who had once led him</span>. Then, feeling that she was still holding on to life, he decided to search for her and his other companions. His body then filled with energy, having surpassed his own limits."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Saviors_of_Palmyna')>Saviors of Palmyna</span>",
+      "<span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>",
+      "<span class='pseudolink' onclick=searchName('Edea')>Edea</span>",
+      "<span class='pseudolink' onclick=searchName('Lorand')>Lorand</span>",
+      "<span class='pseudolink' onclick=searchName('Loch')>Loch</span>",
+      "<span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>"
+    ]
+  },
+  "Edea": {
+    "name": "Edea",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Edea",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=245",
+    "batch": "Saviors of Palmyna",
+    "element": "Earth",
+    "home": "Palmyna",
+    "ids": [30162, 30163, 30164, 30165, 30166],
+    "lore": {
+      "rare": [3, 4, 5, 6, 7],
+      "names": ["Edea", "Earth Knight Edea", "Mother Earth Edea", "Gaia Armor Edea", "Flora Aegis Edea"],
+      "LS": ["Earth Spirit's Power", "Earth God's Power", "Earth God's Power", "Earth Master's Power", "Lovely Nature's Power"],
+      "BB": ["Grand Bash", "Astro Bash", "Grand Cross", "Grand Gale", "Grand Wave"],
+      "SBB": ["Rioting Winds", "Last Crusade"],
+      "UBB": "Ataraxia",
+      "ES": "Armored Volition",
+      "story": [
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. Clad from head to toe in armor which concealed her true identity, legend has it that this knight was actually the Princess of Palmyna in disguise. After hearing about the gods’ plans to lay waste to Palmyna, Edea clad herself in the legendary <span class='pseudolink' onclick=searchName('Lafdranya')>Emerald Armor of Lafdranya</span>, and set out on a mission to save her homeland.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>, and commonly thought to have been Palmyna’s princess in disguise. The bond she shared with her comrades in arms awakened the true potential within her. Her legendary emerald armor was actually a broadsword which turned into full body armor with a magical incantation. It is said to have drawn its powers from the earth.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>, and commonly thought to have been Palmyna’s princess in disguise. In the final showdown to stop the gods’ assault on her homeland, Edea risked her life to protect her comrades. Legend tells of how when they saw her gravely wounded body, her fellow warriors unleashed an attack of such ferocity that it altered the world’s very axis. Whether the legend is true or not has yet to be verified.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. She felt her life coming to an end during her battle with <span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>, commander of the gods. However, she never regretted what she did to protect her beloved comrades. With the last of her life force she unlocked the hidden power in her sparkling armor <span class='pseudolink' onclick=searchName('Lafdranya')>Lafdranya</span>, saving her comrades from the dire crisis they faced. She then fell into a deep sleep. Her armor held her tight as she slept, as if it had a will of its own.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. Managing to seal <span class='pseudolink' onclick=searchName('Cardes')>Cardes</span> in the underworld, Edea fell into a deep slumber while still clad in her sparkling armor, <span class='pseudolink' onclick=searchName('Lafdranya')>Lafdranya</span>. However, after hearing her comrades call her name, Edea woke once again, weakening the seal on Cardes in the process. Having decided anew to defeat the Fallen God alongside her dear friends, Edea's Lafdranya transformed itself into a great sword in order to help its owner's will become a reality."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Saviors_of_Palmyna')>Saviors of Palmyna</span>",
+      "<span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>",
+      "<span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>",
+      "<span class='pseudolink' onclick=searchName('Lafdranya')>Lafdranya</span>"
+    ]
+  },
+  "Loch": {
+    "name": "Loch",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Loch",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=248",
+    "batch": "Saviors of Palmyna",
+    "element": "Thunder",
+    "home": "Palmyna",
+    "ids": [40162, 40163, 40164, 40165, 40166],
+    "lore": {
+      "rare": [3, 4, 5, 6, 7],
+      "names": ["Loch", "Shock Bow Loch", "Zeus Bow Loch", "Heaven's Bow Loch", "Celestial Archer Loch"],
+      "LS": ["Thunder Spirit's Power", "Thunder God's Power", "Thunder God's Power", "Thunder Master's Power", "Heavenly Thunder's Power"],
+      "BB": ["Lightning Arrow", "Pulsar Fall", "Rising Nova", "Crowning Invasion", "Breath Stealing Bow"],
+      "SBB": ["God Piercing", "Divine Piercing Flash"],
+      "UBB": "Holy Bow of Dreams",
+      "ES": "Arrow of Hope",
+      "story": [
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. The son of a sword instructor to the Palmyna Royal Family, Loch despaired at his lack of natural talent for the sword, and ran away from home. Ironically, his efforts to survive in the wild forced him to develop a talent for archery instead. After hearing that his childhood crush, <span class='pseudolink' onclick=searchName('Edea')>Princess Edea</span>, had embarked on a mission to defeat the gods, he decided to return home to Palmyna.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. While continuing his search for <span class='pseudolink' onclick=searchName('Edea')>Princess Edea</span>, Loch honed his skills with the bow so that he might one day join her in her fight against the gods. Upon finally reuniting with Edea, however, he was dismayed to hear the ice mage <span class='pseudolink' onclick=searchName('Dean')>Dean</span> cracking jokes with her. Loch’s arrows were meant for the gods, but in a jealous fit of rage, they very nearly found a new target.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. In the final showdown with the gods attacking Palmyna, Loch played a vital role, and it was he who struck the final blow against the commander of the gods. Unfortunately, <span class='pseudolink' onclick=searchName('Edea')>Edea</span> was gravely wounded trying to protect Loch in battle. Legend has it that, in a fit of rage, Loch unleashed an attack that shook the world’s very foundations.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. After landing a piercing blow on the god <span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>, Loch changed his focus to a <span class='pseudolink' onclick=searchName('Edea')>girl who was special to him</span>. However, in her place was a massive plant with its vines stretched out. Overcome with fear, he was grabbed in by these vines, and at the same time he lost consciousness. It is said that during this he saw the girl's smile. Awaking in Encervis, it was obvious his first objective would be to get to where the gods were sealed away.",
+        "One of the four legendary warriors who fought to save the <span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>. After <span class='pseudolink' onclick=searchName('Edea')>Edea</span> sacrificed herself in order to save her friends, Loch refused to believe she was dead, striving instead to locate the rest of his comrades who had been scattered during the fight against <span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>. After finding Edea in the underworld, he began to give a eulogy in her honor when Cardes suddenly attacked. It was during this fight that Loch realized his bow had become stronger every time the bonds of friendship he shared with his comrades deepened. And once the person he loved most of all opened her eyes again, the force of his arrows is said to have surpassed that of the gods."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Saviors_of_Palmyna')>Saviors of Palmyna</span>",
+      "<span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>",
+      "<span class='pseudolink' onclick=searchName('Edea')>Edea</span>",
+      "<span class='pseudolink' onclick=searchName('Dean')>Dean</span>",
+      "<span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>"
     ]
   }
 };
