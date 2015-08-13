@@ -3,7 +3,7 @@ var raw = {
     "name": "Vargas",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Vargas",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=1",
-    "batch": "Six_Heroes",
+    "batch": "Six Heroes",
     "element": "Fire",
     "home":"Agni",
     "ids": [10011, 10012, 10013, 10014, 10015, 10016],
