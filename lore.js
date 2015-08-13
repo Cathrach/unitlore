@@ -368,7 +368,6 @@ var raw = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Champions_of_Old')>Champions of Old</span>",
       "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
-      "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
       "<span class='pseudolink' onclick=searchName('Vargas')>Vargas</span>"
     ]
   },
@@ -899,8 +898,7 @@ var raw = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
       "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
-      "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
-      "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>"
+      "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>"
     ]
   },
   "Shida": {
@@ -953,7 +951,8 @@ var raw = {
       ]
     },
     "related": [
-      "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>"
+      "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>",
+      "<span class='pseudolink' onclick=searchName('Lancia')>Lancia</span>"
     ]
   },
   "Felneus": {
@@ -1030,7 +1029,6 @@ var raw = {
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>",
-      "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
       "<span class='pseudolink' onclick=searchName('Eze')>Eze</span>"
     ]
   },
@@ -1287,5 +1285,233 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Vargas')>Vargas</span>",
       "<span class='pseudolink' onclick=searchName('Dandelga')>Dandelga</span>"
     ]
-  }
+  },
+  "Stya": {
+    "name": "Stya",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Stya",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=206",
+    "batch": "Elemental Heroes",
+    "element": "Water",
+    "home": "Sama",
+    "ids": [20141, 20142, 20143, 20144, 20145],
+    "lore": {
+      "rare": [2, 3, 4, 5, 6],
+      "names": ["Stya", "Snow Blade Stya", "Frost Queen Stya", "Mother Snow Stya", "Arctic Rose Stya"],
+      "LS": ["Fighting Light", "Fighting Flash", "Fighting Strobe", "Fighting Strobe", "Crusade Aether"],
+      "BB": ["Glacier Circle", "Avalanche", "Eternal Winter", "Freezing Fjord", "Die Rohwasser"],
+      "SBB": ["Neptune Legia"],
+      "story": [
+        "A pirate notorious for her misdeeds along the Kingdom of Sama’s coast. Fearsome with a double-pronged pole sword, Stya is known for the savage work she made of any who dared to approach her. The image of her snow-white hair stained crimson with the blood of her victims gave rise to her sobriquet 'Snow Flower', though others claim the name came from her frosty demeanor coupled with her beautiful appearance.",
+        "A pirate captain notorious for her misdeeds along the Kingdom of Sama’s coast. Whether swinging her frosty pole-sword or insulting her underlings with her icy tongue, Stya sent a chill down the spine of all whom she encountered. Her hatred for fellow sea-farer Captain Mega was so intense that she would dole out a vicious beating to any of her subordinates who so much as dared to mention his name.",
+        "A pirate captain notorious for her misdeeds along the Kingdom of Sama’s coast. After hearing news that her arch-nemesis Captain Mega had joined the army, she immediately formed a band of pirates to launch a preemptory attack. She led with an iron fist as well as a predilection for creative insults, and was loved as a “princess” by those who followed her. Rumor has it that legendarily fearless Captain Mega took one look at her frosty visage before scarpering for safety.",
+        "A female pirate with a bad reputation in the Sama Kingdom. She continued her pirate activities even after the gods invaded until one day when the commander which she so despised, Mega, came to her requesting her assistance in battle. Right after she showered him with anger the gods began attacking her. Mega rushed to save her but was gravely injured in the process. Seeing this, Stya became angry like she never had before, vanquishing all enemies around her as she said, 'A debt must always be repaid.'",
+        "A female pirate with a bad reputation in the Sama Kingdom. After Mega fell in battle Stya went berserk, fighting against the gods while consumed with rage, and eventually ending up cornered by their greater numbers. However, Mega, who she had presumed dead, came to her rescue just in time. Without saying a word, she gave him a kiss and then returned to her ship to give orders to her crew. It is said that as a pirate queen, she was beautiful to watch while in command of her ship. On the other hand, her demon-like style of fighting was feared by even the gods themselves."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Elemental_Heroes')>Elemental Heroes</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=searchName('Mega')>Mega</span>"
+    ]
+  },
+  "Nemia": {
+    "name": "Nemia",
+    "wiki": "https://bravefrontierglobal.wikia.com/wiki/Nemia",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=209",
+    "batch": "Elemental Heroes",
+    "element": "Earth",
+    "home": "Vriksha",
+    "ids": [30141, 30142, 30143, 30144, 30145],
+    "lore": {
+      "rare": [2, 3, 4, 5, 6],
+      "names": ["Boxer Nemia", "Brawler Nemia", "Gaia Fist Nemia", "Quake Fist Nemia", "Dahlia Fist Nemia"],
+      "LS": ["Valiant Power", "Valiant Power", "Royal Power", "Dynasty Power", "War God's Revelation"],
+      "BB": ["Tierra Knuckle", "Adamant Crack", "Grand Geyser", "Atira Shake", "Empress Gazer"],
+      "SBB": ["Heavenly Fist: Godless"],
+      "story": [
+        "A boxer who studied martial arts at the Toltya Dojo in Sama. As a baby, the head of Toltya Dojo discovered her abandoned in front of his school’s gate. Trained in the art of fighting from an early age, the power she unleashed from her fists possessed a potency that belied her cute appearance. On her 16th birthday, the head of the school handed her a letter that claimed to be from her parents. Eager to follow up on this new lead, she set out for the <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>.",
+        "A boxer who studied martial arts at the Toltya Dojo in Sama. Surrounded from childhood by burly men locked in the pursuit of strength, Nemia was sensitive about the manly mannerisms she had picked up. Upon reaching <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha</span> to find her true parents, she was dismayed to find herself the butt of many a cruel joke about her rough and ready manner. She soon turned her tormentors’ jibes into howls of pain, however, and made quite the name for herself wherever she went.",
+        "A boxer who studied martial arts at the Toltya Dojo in Sama. After arriving in <span class='pseudolink' onclick=locSelect('Vriksha')>Vriksha</span> to look for her real parents, word of Nemia’s strength soon spread, prompting many plucky individuals to challenge her to duels. While dispatching her would-be challengers one after the other, she finally perfected a secret technique her foster father had taught her in her youth. Legend has it that whatever her fist came into contact with shattered into a thousand pieces.",
+        "A boxer who studied martial arts at the Toltya Dojo. She entered tournament after tournament looking for her parents, but after so many victories she became somewhat prideful. In addition to the invasion of the gods, she soon saw herself in a crisis. She was then saved by the <span class='pseudolink' onclick=searchName('Zeln')>boy who was once her pupil</span>. Though she now continued her training out of the shame in how prideful she had become, it has also been said that she was strict on herself in part because she'd come to see her former pupil as a grown man.",
+        "A boxer who studied martial arts at the Toltya Dojo. After a short, yet emotional reunion with her parents, Nemia set out to the battlefield in order to the repel the incoming grand-scale attacks by the God Army. Prepared to lay her life on the line, she tried to buy enough time for her people to escape, but <span class='pseudolink' onclick=searchName('Zeln')>Zeln</span> suddenly appeared to save her from impending death. Seeing him in a totally different light than before, Nemia's emotions stirred and something changed within her heart. This emotional growth is what allowed Nemia to evolve into a new form."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Elemental_Heroes')>Elemental Heroes</span>",
+      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
+      "<span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>",
+      "<span class='pseudolink' onclick=searchName('Zeln')>Zeln</span>"
+    ]
+  },
+  "Zeln": {
+    "name": "Zeln",
+    "wiki": "https://bravefrontierglobal.wikia.com/wiki/Zeln",
+    "touchandswipe": "http://touchandswipe.gitub.io/bravefrontier/unitsguidelite?unit=212",
+    "batch": "Elemental Heroes",
+    "element": "Thunder",
+    "home": "Atharva",
+    "ids": [40141, 40142, 40143, 40144, 40145],
+    "lore": {
+      "rare": [2, 3, 4, 5, 6],
+      "names": ["Zeln", "Spark Kick Zeln", "Thunder Kick Zeln", "Thunder Punt Zeln", "Storm Roundhouse Zeln"],
+      "LS": ["Valiant Power", "Valiant Power", "Royal Power", "Dynasty Power", "War God's Flames"],
+      "BB": ["Quick Kick", "Spark Kick", "Thunder Kick", "Lightning Kick", "Shenlong Spinning Kick"],
+      "SBB": ["Heavenly Foot: Illusionless"],
+      "story": [
+        "A fighter hailing from the <span class='pseudolink' onclick=locSelect('Atharva')>Republic of Atharva</span> who trained at the Toltya Dojo in the Sama Kingdom, he first knocked on its gates at the age of 12. A timid child lacking the approval of his peers, he was actually sent to the dojo by his father as a means of toughening him up. Though constantly on the verge of tears on account of his grueling training regimen, he found comfort in his friendship with <span class='pseudolink' onclick=searchName('Nemia')>Nemia</span>, and soon developed romantic feelings for her.",
+        "A fighter hailing from the <span class='pseudolink' onclick=locSelect('Atharva')>Republic of Atharva</span> who trained at the Toltya Dojo in the Sama Kingdom. After <span class='pseudolink' onclick=searchName('Nemia')>Nemia</span> left the dojo to look for her parents, Zeln began to focus on his training so that he might one day be able to follow after her. His legs, already strong from all the running away he’d done as a child, seemed like the natural place to start. Before long, he had developed his signature Lightning Kick, a flurry of kicks so fast it defied belief.",
+        "A fighter hailing from the <span class='pseudolink' onclick=locSelect('Atharva')>Republic of Atharva</span> who trained at the Toltya Dojo in the Sama Kingdom. After completing his training, Zeln set out on a journey to look for <span class='pseudolink' onclick=searchName('Nemia')>Nemia</span> while continuing to hone his skills. He followed tales of Nemia’s exploits across the land, leaving a trail of humbled challengers in his wake. It’s said that he rescued Nemia from the jaws of death while fighting the gods in Sama, but whether this is true or not is a matter for debate.",
+        "A fighter who trained at the Toltya Dojo. He continued his training in various places, but after hearing of <span class='pseudolink' onclick=searchName('Nemia')>Nemia's</span> countless victories decided to seclude himself in the mountains. Zeln, whose sole desire was strength, saw his abilities grow beyond even his own limits. Having completed his training, Zeln returned to his dojo to find Nemia under attack from the gods. With a smile on his face he dashingly tried to save her, though what he got in return was her fist.",
+        "A fighter who trained at the Toltya Dojo. After suffering a furious punch from <span class='pseudolink' onclick=searchName('Nemia')>Nemia</span>, Zeln finally realized how he felt about her as he tried to keep his balance. From that moment, he traveled to various regions in order to save people, growing as a reliable presence on the battlefield. Once he obtained information stating that the God Army planned to destroy the Vriksha Duchy, Zeln rushed towards Nemia's side to tell her once and for all about his feelings for her. He is said to have been clad in bolts of lightning."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Elemental_Heroes')>Elemental Heroes</span>",
+      "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Nemia')>Nemia</span>"
+    ]
+  },
+  "Alma": {
+    "name": "Alma",
+    "wiki": "https://bravefrontierglobal.wikia.com/wiki/Alma",
+    "touchandswipe": "http://touchandswipe.gitub.io/bravefrontier/unitsguidelite?unit=215",
+    "batch": "Elemental Heroes",
+    "element": "Light",
+    "home": "La Veda",
+    "ids": [50141, 50142, 50143, 50144, 50145],
+    "lore": {
+      "rare": [2, 3, 4, 5, 6],
+      "names": ["Traveler Alma", "Adventurer Alma", "Hero Alma", "Brave Hero Alma", "Courageous Heart Alma"],
+      "LS": ["N/A", "Pulsating Energy", "Pulsating Energy", "Pulsating Retribution", "Pulsating Guidance"],
+      "BB": ["Brave Edge", "Brave Impact", "Star Dust Fall", "White Esperanza", "Valiant Saber"],
+      "SBB": ["Galaxy Glanz"],
+      "story": [
+        "A swordswoman from the ruined La Veda Republic. Traveling the world with her adventurer parents since childhood helped her easily surpass most other swordsmen. However, the day after she turned 16, her parents disappeared, leaving her an old ring and a letter reading, 'Head for the legendary ancient ruins.' She immediatlely set out on her solo journey with nothing more than an old ring and the letter her parents left.",
+        "A swordswoman from the ruined La Veda Republic, she was known as an adventurer who traveled around ancient ruins in search of her parents. Her adventures, like when she vanquished an evil spirit, or her times travelling through unexplored jungles, inspired her. More than glory, she just wanted to find her parents.",
+        "A swordswoman from the ruined La Veda Republic. She found her parents at some ancient ruins, but her joy was short lived. They had blocked the ruins' destructive power by binding themselves to them. Ignoring their pleas to be allowed to suppress the power with their lives, Alma defeated it herself. Her adventures ended, and she was known so forth as a hero for both preventing a catastrophe and for saving her parents.",
+        "A swordswoman from the La Veda Republic. After her travels ended and she'd saved her parents, they all went back to their hometown for the first time in a long time. However, their peaceful days were brought to an end by the invasion of the gods, at which time they left as a family to protect the people. During the intense battle Alma's mastered her sword technique, though her parents displayed even greater mastery and strength. At first Alma was surprised to see this, but eventually she just smiled as she continued her piercing attack.",
+        "A swordswoman from the La Veda Republic. As a knight of La Veda, Alma fought to protect everyone in and out of her reach. However, the numbers of the God Army became too great, and eventually she was cornered in her own home. Inside was her father, who fell trying to protect his daughter from danger. When Alma panicked as she saw her father mortally wounded, he scolded her strictly and then passed onto her the great power he had used to wield his ancient axe. Using this new power, Alma was successfully able to defend herself and her dying father from the perilous situation at hand."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Elemental_Heroes')>Elemental Heroes</span>",
+      "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Hogar')>Hogar</span>"
+    ]
+  },
+  "Oboro": {
+    "name": "Oboro",
+    "wiki": "https://bravefrontierglobal.wikia.com/wiki/Oboro",
+    "touchandswipe": "http://touchandswipe.gitub.io/bravefrontier/unitsguidelite?unit=218",
+    "batch": "Elemental Heroes",
+    "element": "Dark",
+    "home": "Bariura",
+    "ids": [60151, 60152, 60153, 60154, 60155],
+    "lore": {
+      "rare": [2, 3, 4, 5, 6],
+      "names": ["Ninja Oboro", "Assassin Oboro", "Shadow Oboro", "Red Shadow Oboro", "Shadow Chakra Oboro"],
+      "LS": ["Ares' Light", "Ares' Light", "Ares' Authority", "Ares' Authority", "Ares' Excelsior"],
+      "BB": ["Ninjitsu: Blade Drop", "Assassin Dagger", "Foreign Beast", "Forbidden Demon", "Seal: Dark Prison Burial"],
+      "SBB": ["Demonic Shadow Misfortune"],
+      "story": [
+        "A ninja said to have lived in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. There was an incident where this man in a strange outfit suddenly appeared in the empire. A rumor spread that this strange person, known as a shinobi, had come from another world. However, afterwards, almost no one saw him again. Later, scholars surmised that this was because of his pride and dislike for standing out.",
+        "A ninja said to have lived in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. After the rumors of Oboro died down, a member of the imperial family was assassinated after advocating peace and a reduction in war expenditures. Rumors spread that the perpetrator was dressed in black, yet somehow Oboro's name never came up. It was almost as if someone had tried to erase any evidence that he had any involvement in the incident.",
+        "A ninja said to have lived in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. After the string of assassinations in the empire ended, a girl saw a strangely clothed person around dawn, though it was still mostly dark and it was never proved to be Oboro. Even today there is debate over his time in Grand Gaia, such as what his intentions were and under whose orders he was acting under.",
+        "A ninja from the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> thought to have used secret techniques. There are differing opinions on who his master was because he fought alongside two unique allies, <span class='pseudolink' onclick=searchName('Magress')>Magress</span> and <span class='pseudolink' onclick=searchName('Shida')>Shida</span>. One after the emperor's life, while the other was dedicated to protecting it. Fighting alongside both as they fought each other led to much speculation concerning Oboro's master. Both having failed in their assassination attempts, the gods would soon see that the truth was lost forever.",
+        "A ninja said to have lived in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. Nobody knows where his loyalties laid in ancient times, but literary works state that this ninja from the underworld swore fealty to the emperor. The account mentions that the emperor got Oboro to work for him by offering him esoteric texts with secret underworld techniques written within as a reward for his services. After Oboro finally got his hands on these hidden techniques, he parted from the emperor in search of an appropriate resting place. It is believed that there was once a continuation to this story, but unfortunately this has yet to be confirmed.",
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Elemental_Heroes')>Elemental Heroes</span>",
+      "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Magress')>Magress</span>",
+      "<span class='pseudolink' onclick=searchName('Shida')>Shida</span>"
+    ]
+  },
+  "Lancia": {
+    "name": "Lancia",
+    "wiki": "https://bravefrontierglobal.wikia.com/wiki/Lancia",
+    "touchandswipe": "http://touchandswipe.gitub.io/bravefrontier/unitsguidelite?unit=221",
+    "batch": "Occupational Heroes",
+    "element": "Fire",
+    "home": "Agni",
+    "ids": [10152, 10153, 10154, 10155],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Lancia", "Hot Chef Lancia", "Head Chef Lancia", "Ace Chef Lancia"],
+      "LS": ["Pure Light", "Pure Shining", "Pure Strobe", "Crusade Strobe"],
+      "BB": ["Lovely Cooking", "Hearty Dish", "Gourmet Dish", "Ultimate Hospitality"],
+      "SBB": ["Meal of the Gods"],
+      "story": [
+        "Young girl and owner of Lan-Lan, a famous diner in the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. Boasting plentiful portions and dishes cooked to perfection, Lan-Lan was an instant hit with customers. Never one to rest on her laurels, however, Lancia set out on a trip in search for new and exotic ingredients to add to her repertoire. It’s said that whenever she came across monsters on her travels, she could be heard humming as she calmly fired up her frying pan.",
+        "Young girl and owner of Lan-Lan, a famous diner in the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. On her travels to discover new ingredients, Lancia stumbled across a coastal village that was being terrorized by the water dragon Legtos. Sympathizing with the starving villagers’ plight, Lancia challenged and defeated <span class='pseudolink' onclick=searchName('Legnaura')>Legtos</span> in a breathtaking fight. Her celebratory dish, Grilled Legtos, is said to have gone down well with the famished villagers.",
+        "Young girl and owner of Lan-Lan, a famous diner in the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. While traveling the globe in search of the ultimate dish, Lancia happened upon her dream ingredient in the form of <span class='pseudolink' onclick=searchName('Phoenix')>Ramsa the God Phoenix</span>. After a grueling battle, Ramsa admitted defeat and offered a portion of his flesh to Lancia as a token of peace. The dish Lancia created with it went down in history as the height of exquisite delicacies. Lacking the special ingredient, no one has been able to make it since.",
+        "A young girl who ran a restaurant in the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. Having returned to her hometown after finishing her journey looking for the best ingredients she could find, she saw the extent of the destruction from the invasion by the gods. She then headed directly to where Lan-Lan once stood and began cooking with her new ingredients. Though she was targeted because of how her amazing cuisine healed so many people, it is said she even cooked up some of the gods themselves."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Occupational_Heroes')>Occupational Heroes</span>",
+      "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Legnaura')>Legnaura</span>",
+      "<span class='pseudolink' onclick=searchName('Phoenix')>Phoenix</span>"
+    ]
+  },
+  "Elimo": {
+    "name": "Elimo",
+    "wiki": "https://bravefrontierglobal.wikia.com/wiki/Elimo",
+    "touchandswipe": "http://touchandswipe.gitub.io/bravefrontier/unitsguidelite?unit=224",
+    "batch": "Occupational Heroes",
+    "element": "Water",
+    "home": "Sama",
+    "ids": [20152, 20153, 20154, 20155, 20156],
+    "lore": {
+      "rare": [3, 4, 5, 6, 7],
+      "names": ["Elimo", "Royal Elimo", "Genius Elimo", "Wise Mage Elimo", "Leviathan Sage Elimo"],
+      "LS": ["Loving Spirit", "Loving Spirit", "Loving Devotion", "Loving Flash", "Loving Light"],
+      "BB": ["Aether Guard", "Aether Shield", "Guardian Force", "Pandit Force", "Astral Force"],
+      "SBB": ["Ethereal Tower", "Ether Crown"],
+      "UBB": "Blue Star's Fate",
+      "ES": "Profound Knowledge",
+      "story": [
+        "A daughter from an aristocratic family hailing from the Sama Kingdom. A fervent reader, she was known to read academic tomes instead of picture books as a child. When she was 15, she stumbled across a book written in a mysterious language, and swore to one day decipher its contents. Hearing tales of remote stone monuments inscribed with a similar-looking script, she embarked on a journey into unchartered lands teeming with monsters, with only the magic she had learned from her books to protect her.",
+        "A daughter from an aristocratic family hailing from the Sama Kingdom. Elimo traveled to the stone monuments, where she began to decipher the mysterious tome’s secrets. In time, she learned that the book contained information on a long-lost, esoteric form of magic. Harnessing the book’s techniques, Elimo’s dramatically improved magic abilities earned her the nickname “the Blue Sorceress”. Nevertheless, she continued on her journey, eager to discover the book’s remaining secrets.",
+        "A daughter from an aristocratic family hailing from the Sama Kingdom. On her travels from kingdom to kingdom, Elimo eventually reached the land of the gods, where she discovered it was they who had written the mysterious book she held. Impressed by her determination, the gods invited Elimo to become of them, but she refused. With her newly acquired divine techniques, Elimo subsequently spent her days wandering the land, imparting the gods’ wisdom to any who would listen.",
+        "A daughter from an aristocratic family hailing from the Sama Kingdom. When the gods invaded her hometown, she stood up against them holding their own book of magic in her hands. She was defeated, not having the ability to compete with the book's original owners, but she was able to escape death thanks to a god who took pity on her. After that, she trained herself to be able to resist the gods, improving upon the magic techniques she'd taken from them, but this time her goal was not to use them to attack the gods but to aid the suffering of her people.",
+        "A daughter from an aristocratic family hailing from the Sama Kingdom. After obtaining the wisdom of the gods and using it to gain restorative powers, she was visited again by the very gods who had granted her such knowledge, along with the lifeless bodies of those she had taught her techniques to. The gods spurned her for sharing her divine knowledge with others, as it had not been their will for her to do so. Although she regretted how foolish she had been for having done such a thing, she decided to confront the gods as a human, even when she was fully aware that her body would not be able to take the enormous power she planned to use against them."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Occupational_Heroes')>Occupational Heroes</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>"
+    ]
+  },
+  "Leore": {
+    "name": "Leore",
+    "wiki": "https://bravefrontierglobal.wikia.com/wiki/Leore",
+    "touchandswipe": "http://touchandswipe.gitub.io/bravefrontier/unitsguidelite?unit=227",
+    "batch": "Occupational Heroes",
+    "element": "Earth",
+    "home": "Other (Unspecified)",
+    "ids": [30152, 30153, 30154, 30155],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Pixy Leore", "Pixy Royal Leore", "Pixy King Lore", "Pixy Lord Leore"],
+      "LS": ["Valiant Power", "Royal Power", "Dynasty Power", "Divine Wave"],
+      "BB": ["Mirage Needle", "Million Thrust", "Heavy Riposte", "Noble Stab"],
+      "SBB": ["Royal Riposte"],
+      "story": [
+        "A young boy who was raised by Titania as a pixy. Abandoned in a faeries’ grove as a baby, he grew up thinking he was a pixy until the day he realized he looked different than everyone else. Shocked to discover the truth about his childhood, he embarked on a journey to find other humans as a means of coming to terms with his new identity. While on his travels, he heard about the gods’ plan to destroy the world.",
+        "A young boy who was raised by Titania as a pixy. Upon reaching the village he believed his real parents to be in, Leore was ambushed by a regiment of gods. He quickly disposed of them, and immediately returned to the faeries’ grove, where he implored Titania to ready an army. After Leore had told her about the gods’ plan for world domination, Titania ordered him to rule over the pixy army.",
+        "A young boy who was raised by Titania as a pixy. Under Leore’s command, the once weak pixy army formed an alliance with human forces, and quickly became a force to be reckoned with. Leore’s rousing rhetoric about the shared plight of pixies and humans raised his forces’ spirits, and the sight of his dashing figure swinging his sword on the battlefield is said to have inspired both armies to feats of greatness.",
+        "A human boy who was raised by Titania as a pixy. He was seen as a threat thanks to his ability to bring pixy and human forces together, and a plot was formed for his assassination. However, thanks to Titania's intervention this attempt never came to fruition, though in return she lost her life. Immediately after, Leore exploded with rage, angrily swinging his sword until all the flowers floating around him were soaked red with blood."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Occupational_Heroes')>Occupational Heroes</span>",
+      "<span class='pseudolink 'onclick=locSelect('Vriksha')>Vriksha Duchy</span>",
+      "<span class='pseudolink' onclick=searchName('Titania')>Titania</span>",
+      "<span class='pseudolink' onclick=searchName('Lario')>Lario</span>",
+      "<span class='pseudolink' onclick=searchName('Faris')>Faris</span>"
+    ]
+  },
 };
