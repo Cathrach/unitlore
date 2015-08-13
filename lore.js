@@ -285,7 +285,8 @@ var raw = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Champions_of_Old')>Champions of Old</span>",
       "<span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>",
-      "<span class='pseudolink' onclick=searchName('Faris')>Faris</span>"
+      "<span class='pseudolink' onclick=searchName('Faris')>Faris</span>",
+      "<span class='pseudolink' onclick=searchName('Leore')>Leore</span>"
     ]
   },
   "Weiss": {
