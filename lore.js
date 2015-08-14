@@ -1914,7 +1914,7 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Tora')>Tora</span>"
     ]
   },
-  "Mare": [
+  "Mare": {
     "name": "Mare",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Mare",
     "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=548",
