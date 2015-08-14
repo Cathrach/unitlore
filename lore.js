@@ -1778,26 +1778,116 @@ var raw = {
       "<span class='pseudolink' onclick=searchBatch('Powerpuff_Girls')>Powerpuff Girls</span>"
     ]
   },
-  // "Il & Mina": {
-  //   "name": "Il & Mina",
-  //   "wiki": "https://bravefrontierglobal.wikia.com/wiki/Il_%26_Mina",
-  //   "touchandswipe": "http://touchandswipe.github.io/bravefrontier/293",
-  //   "batch": "Powerpuff Girls",
-  //   "element": "Earth",
-  //   "home": "Amdahl",
-  //   "ids": [30212, 30213, 30214, 30215],
-  //   "lore": {
-  //     "rare": [3, 4, 5, 6],
-  //     "names": ["Twins Il & Mina", "Earthly Il & Mina", "Gemini Il & Mina", "Gaians Il & Mina"],
-  //     "LS": [],
-  //     "BB": [],
-  //     "SBB": [],
-  //     "story": [
-  //
-  //     ]
-  //   },
-  //   "related": [
-  //
-  //   ]
-  // }
+  "Il & Mina": {
+    "name": "Il & Mina",
+    "wiki": "https://bravefrontierglobal.wikia.com/wiki/Il_%26_Mina",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=293",
+    "batch": "Powerpuff Girls",
+    "element": "Earth",
+    "home": "Amdahl",
+    "ids": [30212, 30213, 30214, 30215],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Twins Il & Mina", "Earthly Il & Mina", "Gemini Il & Mina", "Gaians Il & Mina"],
+      "LS": ["Emerald Wind", "Cleansing Breeze", "Divine Gale", "Eternal Protection"],
+      "BB": ["Star Twins", "Twins Radiation", "Southern Cross", "Northern Cross"],
+      "SBB": ["World's Creation"],
+      "story": [
+        "The twin princesses Il and Mina, daughters of the last emperor of the <span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl Empire</span>. The god-given genius of the energetic swordsman, Il, and the soft-spoken magician, Mina, was known throughout the empire by the time they were 10. However, tragedy struck on their 12th birthday when Amdahl was attacked suddenly by the former friendly neighboring nation of <span class='pseudolink' onclick=locSelect('Palmyna')>Palmyna</span>. The twin princesses escaped Amdahl as the castle fell to the sudden attack.",
+        "The twin princesses Il and Mina, daughters of the last emperor of the <span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl Empire</span>. The skilled swordsman, Il, and the talented magician, Mina, full of resentment toward <span class='pseudolink' onclick=locSelect('Palmyna')>Palmyna</span> which had destroyed their home nation, hid themselves away as they honed their skills. Often the targets of assassins, it is said they would draw their would-be attackers into the woods where they would then finish them off. They lived to cause trouble for the opposing army from which they fled when they were younger.",
+        "The twin princesses Il and Mina, daughters of the last emperor of the <span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl Empire</span>. When the gods attacked <span class='pseudolink' onclick=locSelect('Palmyna')>Palmyna</span>, the two of them planned to take advantage of the confusion to take back Amdahl. However, the casualties were far greater than they could've imagined, so they instead turned their efforts toward the gods. It's been told that, seeing how much the twins had grown as they took a defensive stance before them, the former citizens of Amdahl cried out in joy.",
+        "The twin princesses Il and Mina from the <span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl Empire</span> which was destroyed by <span class='pseudolink' onclick=locSelect('Palmyna')>Palmyna</span>. The two of them led the people of their ruined country, avoiding being pursued by the gods as they tried to escape. Then, just as their long journey was about over, they requested a meeting with their arch-enemy, the king of Palmyna. They suggested that the two sides throw away their ill will and fight together against the gods. It's said that the bravery shown by the two young warriors from Amdahl gave courage to not only their own people, but to the people of Palmyna as well."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Powerpuff_Girls')>Powerpuff Girls</span>",
+      "<span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl Empire</span>",
+      "<span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>",
+    ]
+  },
+  "Amy": {
+    "name": "Amy",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Amy",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=296",
+    "batch": "Powerpuff Girls",
+    "element": "Thunder",
+    "home": "Palmyna",
+    "ids": [40212, 40213, 40214, 40215],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Bolt Pike Amy", "Bolt Knight Amy", "Bolt Goddess Amy", "Heaven's Bolt Amy"],
+      "LS": ["Valiant Power", "Royal Power", "Dynasty Power", "Divine Wave"],
+      "BB": ["Thunder Spear Attack", "Thunder Spear Combo", "Thunder Spear Barrage", "Thunder Spear Drill"],
+      "SBB": ["Lightning Spear"],
+      "story": [
+        "The eldest daughter of an aristocratic family from <span class='pseudolink' onclick=locSelect('Palmyna')>Palmyna</span>, she had a very strong sense of justice, and whenever anything happened within the domain she would race to the scene with her beloved halberd to solve the issue herself. Her parents thought this dangerous and tried to stop her, but her fair judgment received strong public support which forced them to approve. She mercilessly cut down criminals with what they revered to as her 'Bolt Pike of Judgment.'",
+        "The eldest daughter of an aristocratic family from <span class='pseudolink' onclick=locSelect('Palmyna')>Palmyna</span>, she was invited to the imperial capital once the king got word of her bringing justice throughout the land with her beloved halberd. As Amy grew more and more excited, her father encouraged her to remain humble, however she ignored these words, testing her skills in the capital by dueling knight after knight. She gained popularity even in the imperial capital after her repeated victories, and came to be commonly known as the 'Bolt Knight.'",
+        "The eldest daughter of an aristocratic family from <span class='pseudolink' onclick=locSelect('Palmyna')>Palmyna</span>, when the war with the gods began she begged the king to let her return to save her father, but he refused and made her focus on protecting him. During this time her home territory was destroyed by the gods, and her parents went missing. It's told that from then on she wielded her bolt pike for her homeland, but did so with a heavy heart, full of sadness from having gotten caught up in the joy of living in the capital and forgetting who she was really meant to protect.",
+        "The eldest daughter of an aristocratic family from <span class='pseudolink' onclick=locSelect('Palmyna')>Palmyna</span>. Unable to persuade the king, she was forced to watch her home get destroyed by the gods from afar, where the anger and sadness of her situation destroyed her emotionally. Risking her life as she traversed the battlefield, there was no end to her fighting spirit, which, spreading to the warriors of both countries, sparked a flood of rage toward the gods. However, she would later come to realize that this is exactly what triggered Palmyna's destruction."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Powerpuff_Girls')>Powerpuff Girls</span>",
+      "<span class='pseudolink' onclick=locSelect('Palmyna')>Palmyna</span>"
+    ]
+  },
+  "Sefia": {
+    "name": "Sefia",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Sefia",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=299",
+    "batch": "Powerpuff Girls",
+    "element": "Light",
+    "home": "Other (Unspecified)",
+    "ids": [50162, 50163, 50164, 50165, 50166],
+    "lore": {
+      "rare": [3, 4, 5, 6, 7],
+      "names": ["Eight Blade Sefia", "Blade Storm Sefia", "Blade Queen Sefia", "Holy Blades Sefia", "Angelic Blades Sefia"],
+      "LS": ["Light Spirit's Power", "Light God's Power", "Light God's Power", "Bright Light's Power", "Piercing Light's Power"],
+      "BB": ["Halcyon Hack", "Destructive Chain", "Sword Storm Barrage", "Rogue Bind Fencer", "Low Glide Master"],
+      "SBB": ["Atomic Nova", "Ragnado Nova"],
+      "UBB": "Claiomh Solais",
+      "ES": "Radiant Volition",
+      "story": [
+        "The woman warrior who wore 8 blades on her back. At the time there was no one who knew where she came from, where she was headed, or what she was after. There weren't even many who had the chance to speak with her. However, her actions were witnessed in many lands far and wide as she went from place to place, vanquishing otherworldly beings that were causing havoc. It is said that as mystical as she seemed, she still struck fear in the hearts of any who saw her.",
+        "The woman warrior who wore 8 blades on her back. Though she had buried countless hordes of raging otherworldly beings, she was once found covered in blood. According to witness account, an enemy of hers was able to evade her 8 blade attack, upon which they instantly countered back. Her enemy left her behind, spouting at her 'How dull!' before departing. This left her to once again acknowledge her weakness, being that the blades on her back were for casting judgment and were not there for her own protection.",
+        "The woman warrior who wore 8 blades on her back. After the war with the gods started, she continued on as always, obliterating targets with her 8 blades. However in records starting from the humans' decline during the war, a quote from her appeared, despite the fact she had never been mentioned herself up until that point. It read, 'My part is finished. Now that it's almost over, allow me to use your strength.' There currently exists no one who understands what she meant by that statement.",
+        "The woman warrior who wore 8 blades on her back. Throwing away the responsibility she had been given of judging otherworldly beings, she turned her blades on the gods. In the heat of battle, she once again came face to face with an <span class='pseudolink' onclick=searchName('Kikuri')>old foe</span>. The smell of blood drifting through the air, she swore that if she was able to survive the battle that they would fight just the two of them once again. As she said this, blades shot out from the back of the wicked creature that stood before her.",
+        "The woman warrior who wore 8 blades on her back. As Sefia fought alongside <span class='pseudolink' onclick=searchName('Kikuri')>Kikuri</span> against the gods, the clash of their enormous powers opened the door to another world, drawing them inside. What happened to her afterwards remains a mystery, but some say that she finally made good on her promise to fight Kikuri, only to end up caught up in a long battle to the death that never reached a conclusion. A fragment of her eight blades would be discovered centuries later, apparently still attached to a piece of scarlet cloth when it was found."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Powerpuff_Girls')>Powerpuff Girls</span>",
+      "<span class='pseudolink' onclick=searchName('Kikuri')>Kikuri</span>"
+    ]
+  },
+  "Kikuri": {
+    "name": "Kikuri",
+    "wiki": "https://www.bravefrontierglobal.wikia/com/wiki/Kikuri",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=302",
+    "batch": "Powerpuff Girls",
+    "element": "Dark",
+    "home": "Otherworld",
+    "ids": [60172, 60173, 60174, 60175, 60176],
+    "lore": {
+      "rare": [3, 4, 5, 6, 7],
+      "names": ["Kikuri", "Goth Kikuri", "Goth Idol Kikuri", "Death Idol Kikuri", "Demonic Idol Kikuri"],
+      "LS": ["Dark Spirit's Power", "Dark God's Power", "Dark God's Power", "Blood Red Power", "Dark Blossom's Power"],
+      "BB": ["Firefly", "Eternal Firefly", "Celestial Firefly", "Crimson Firefly", "Grudge Massacre"],
+      "SBB": ["Burial Rain", "Dark Burial Rain"],
+      "UBB": "Rival's Blooming End",
+      "ES": "Red Calamity Torrent",
+      "story": [
+        "A dancing girl who came from another world. It's said that when she dances, she is surrounded by a red mist. Those curious enough to watch her dance sometimes end up paying with their lives. It's said that she gave up on the place where she was born and raised before coming to Grand Gaia. It is recorded that when one person asked why, she laughed and said, 'There's no one left to destroy over there,' upon which the inquirer was lost in a sea of blood.",
+        "A dancing girl who came from another world. It was probably only natural that Kikuri, the girl who relished in the sight of her enemies' blood, would find herself on the battlefield. Her wicked blade, which stained red both enemy and ally alike, would eventually be stopped by Mifune who was from the same world as her. To this she responded, quizzically tilting her head to the side, 'Why am only I in trouble? We're all demons, are we not?'",
+        "A dancing girl who came from another world. Her actions changed greatly when the war with the gods began. Having fought only to see bloodshed up until then, she turned her sights on the gods. What changed her mind remains a mystery, but what is certain is that her blades became even sharper upon taking on the gods. It's said her many massive blades swiftly soaked the gods red.",
+        "A dancing girl who came from another world. During the tumultuous battle with the gods, blood flowed throughout her battlefield. As the elegance and strength of her dancing increased, more and more humans lost their lives, and the battlefield soon became sparse. Continuously spouting her discontent, she came across <span class='pseudolink' onclick=searchName('Sefia')>someone</span> on the battlefield. Though she would come to fight alongside this person, it is said she saw her not as an ally, but as her potential prey.",
+        "A dancing girl who came from another world. Having joined forces with <span class='pseudolink' onclick=searchName('Sefia')>Sefia</span> to confront the gods during the last stages of the great war, Kikuri was absorbed into another world amidst all the fighting. No one ever saw her again after that, but it is said that she met her great rival in battle within the vortex she had fallen into. However, no records exist of that battle either, though there is a rumor that lingers till this day which claims that Kikuri's last words were 'It was so much fun fighting you.'"
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Powerpuff_Girls')>Powerpuff Girls</span>",
+      "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
+      "<span class='pseudolink' onclick=searchName('Sefia')>Sefia</span>"
+    ]
+  }
 };
