@@ -981,25 +981,28 @@ var raw = {
       "<span class='pseudolink' onclick=searchBatch('Beasts')>Beasts</span>"
     ]
   },
-  "Altri": {
-    "name": "Altri",
-    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Altri",
+  "Vertri": {
+    "name": "Vertri",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Gaia_Tree_Vertri",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=141",
     "batch": "Beasts",
     "element": "Earth",
     "home": "Other (Unspecified)",
-    "ids": [30112, 30113, 30114, 30115],
+    "ids": [30112, 30113, 30114, 30115, 30116],
     "lore": {
-      "rare": [3, 4, 5, 6],
-      "names": ["Great Tree Alneu", "World Tree Altro", "God Tree Eltri", "Alpha Tree Altri"],
-      "LS": ["Loving Spirit", "Loving Spirit", "Loving Devotion", "Sincere Affection"],
-      "BB": ["Lucent Purge", "Benevolent Purge", "God Purge", "Spectral Purge"],
-      "SBB": ["Cosmic Radius"],
+      "rare": [3, 4, 5, 6, 7],
+      "names": ["Great Tree Alneu", "World Tree Altro", "God Tree Eltri", "Alpha Tree Altri", "Gaia Tree Vertri"],
+      "LS": ["Loving Spirit", "Loving Spirit", "Loving Devotion", "Sincere Affection", "God Tree's Vitality"],
+      "BB": ["Lucent Purge", "Benevolent Purge", "God Purge", "Spectral Purge", "Aurea Purge"],
+      "SBB": ["Cosmic Radius", "Cosmic Volition"],
+      "UBB": "Fated Purification",
+      "ES": "Existent World",
       "story": [
         "A giant tree with a will of its own and the ability to move. It can also speak, but since it gets its nutrition from photosynthesis, it's still biologically classified as a plant. Alneu's fruit contains a stimulant that can heal fatigue, and it often gives it to humans it likes. Contrary to its large size it likes small and cute things, especially human children.",
         "When Great Tree Alneu has lived for more than 10,000 years, it transforms into the World Tree, Altro. Basically immortal, Altro, who has been around since the beginning of time, is also known as the world's eldest being. Some search for Altro looking to solve the world's most difficult problems, but since it lives deep inside a secluded area, most get discouraged from looking for it.",
         "Eltri is said to be the ancestor of all the trees in Grand Gaia. Immense and able to float in the air, it's so impressive that some people mistake it for a floating island. If it floats in the same place for many years, sometimes a forest will suddenly appear nearby, even in wastelands. It is worshipped as the God Tree as it has the ability to sprout life all around it.",
-        "The father of all trees, Eltri, after acquiring the knowledge of countless years came to hold a multitude of personalities. It's thought he separated his personalities so that he could debate between them, increasing the precision of his thinking. There is an unconfirmed theory that states that his multiple personalities reside within his fort-like exterior. It appears that the faces that can be seen on him now represent his main personalities, with all important conversations going through them."
+        "The father of all trees, Eltri, after acquiring the knowledge of countless years came to hold a multitude of personalities. It's thought he separated his personalities so that he could debate between them, increasing the precision of his thinking. There is an unconfirmed theory that states that his multiple personalities reside within his fort-like exterior. It appears that the faces that can be seen on him now represent his main personalities, with all important conversations going through them.",
+        "Legend tells of a secret dimension found in Grand Gaia. However, instead of being just a separate layer, this dimension holds an entire world within itself. Though it may sound like an impossibility, there remains one literary work which mentions said dimension. And according to it, there was once a tree-like being which borrowed humanity's power to grow stronger in order to return to its own world, completely unaware to the fact that it was already there."
       ]
     },
     "related": [
@@ -1206,20 +1209,24 @@ var raw = {
     "home": "La Veda",
     "ids": [50112, 50113, 50114, 50115, 50116],
     "lore": {
-      "rare": [3, 4, 5, 6],
-      "names": ["Knight Will", "Holy Knight Will", "God Knight Will", "Holy Guard Will"],
-      "LS": ["Light Spirit's Power", "Light God's Power", "Light God's Power", "Light Lord's Power"],
-      "BB": ["Galactic Volley", "Sacred Force", "Astral Nova", "Ishtar Burn"],
-      "SBB": ["Avalon"],
+      "rare": [3, 4, 5, 6, 7],
+      "names": ["Knight Will", "Holy Knight Will", "God Knight Will", "Holy Guard Will", "Angelic Paladin Will"],
+      "LS": ["Light Spirit's Power", "Light God's Power", "Light God's Power", "Light Lord's Power", "Hymn of Light's Power"],
+      "BB": ["Galactic Volley", "Sacred Force", "Astral Nova", "Ishtar Burn", "Ishtar Caliber"],
+      "SBB": ["Avalon", "Lohengrin"],
+      "UBB": "Albion",
+      "ES": "Sacrifice for the Future"
       "story": [
         "A knight from the ruined La Veda Republic, history books say he was the only one who fought against the world's destruction until the very end. He was known as the strongest warrior in the Veda cavalry. People wanted to know if he was stronger than Atro, but legend claims he didn't care, saying, 'What would it matter?'",
         "A knight from the ruined La Veda Republic. He resisted the world's destruction until the very end. He is excellent at the sword, and great as a commander. His tactics steadily wore down his enemies. Deeply trusted by his soldiers, after a soldier proclaimed, 'I know not if he's stronger than Atro, but he is most definitely more overwhelming!' he harshly rebuked that soldier.",
         "A knight from the ruined La Veda Republic who resisted the world's destruction until the very end. He anticipated the human loss at an early stage of the war, and in order to delay it he implemented a strange tactic, using a smaller forces to take on larger armies. The strategy was promising, but Will struggled until the end, knowing humanity would ultimately lose.",
-        "A knight of the La Veda Republic that fought against the world's destruction until the very end. Charged by Lucius with saving the world, he decided to give up command and return to being a lone knight. Informing his subordinates to follow Lucius' commands, he equipped himself with various sacred items before taking on the gods by himself. Free from the responsibility of command, Will, and the soldiers who decided to follow him anyway, cut down countless gods."
+        "A knight of the La Veda Republic that fought against the world's destruction until the very end. Charged by Lucius with saving the world, he decided to give up command and return to being a lone knight. Informing his subordinates to follow Lucius' commands, he equipped himself with various sacred items before taking on the gods by himself. Free from the responsibility of command, Will, and the soldiers who decided to follow him anyway, cut down countless gods.",
+        "A knight who fought against the world's destruction until the very end. As he continued to fend off the invading God Army, a knight appeared before him. This knight had been a fellow villager who had sworn his allegiance to the gods. When the knight asked Will why he kept fighting if there was no one left for him to protect, Will answered that someone in need of his power may appear, and therefore he had to make sure to survive until the end. He then drew his sword anew as the last living human in Grand Gaia."
       ]
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Old_Dogs')>Old Dogs</span>",
+      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
       "<span class='pseudolink' onclick=searchName('Atro')>Atro</span>",
       "<span class='pseudolink' onclick=searchName('Aem')>Aem</span>",
@@ -1717,6 +1724,32 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Edea')>Edea</span>",
       "<span class='pseudolink' onclick=searchName('Dean')>Dean</span>",
       "<span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>"
+    ]
+  },
+  "Aisha": {
+    "name": "Aisha",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Aisha",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=287",
+    "batch": "Powerpuff Girls",
+    "element": "Fire",
+    "home": "Amdahl",
+    "ids": [10212, 10213, 10214, 10215],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Drake Chief Aisha", "Drake Lord Aisha", "Drake Queen Aisha", "Drake Angel Aisha"],
+      "LS": ["Pulsating Energy", "Pulsating Energy", "Pulsating Retribution", "Pulsating Ascension"],
+      "BB": ["Dragon Shout", "Dragon Scream", "Dragon Rage", "Dragon Fall"],
+      "SBB": ["Dragon Wake"],
+      "story": [
+        "A dragoon from Julep Village located in <span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl</span>, she found an injured fire dragon in a cave near her house at a young age, and gained its trust by sheltering it until its wounds were healed. She found out later that the fire dragon had escaped from the dragoons of Palmyna, she then decided she'd learn dragoon techniques herself so she could protect the dragon. At first, afraid of exposing her to danger, the dragon refused her, but eventually he gave in to her enthusiasm and granted her the entirety of his knowledge.",
+        "A dragoon from Julep Village located in <span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl</span>, the dragoon techniques she learned from the fire dragon made her far stronger than an ordinary knight. She only used what she learned in protecting the dragon, but one day, upon returning to the fire dragon's cave, she found that he wasn't there. She decided then to go off on her own. She left to fulfill the words the fire dragon had left her with, 'Use the power of the dragoon for your own sake.'",
+        "A dragoon from Julep Village located in <span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl</span>, with the dragoon techniques she learned from the fire dragon she wandered from country to country as a mercenary. She received invitations from many countries that were after her precious fighting skills, but she refused to go anywhere that didn't have a dragoon army. This was because all she was interested in was polishing her own dragoon techniques. Before long, she came to be known as the 'Drake Lord' by the other dragoons.",
+        "A dragoon from Julep Village located in <span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl</span>, she went back to her village to protect it from the gods' attack, only to find it half destroyed. Challenging the gods by herself, she soon reached her limits, and came to the realization that her life was over. However, just then a single fire dragon flew down from the sky. It placed her on its back as it laid waste to the god army with its flames. It's said that as she was crying, Aisha smiled at the dragon, with which she released an immense amount of power."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Powerpuff_Girls')>Powerpuff Girls</span>",
+      "<span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl</span>"
     ]
   }
 };
