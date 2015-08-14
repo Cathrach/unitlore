@@ -1778,4 +1778,26 @@ var raw = {
       "<span class='pseudolink' onclick=searchBatch('Powerpuff_Girls')>Powerpuff Girls</span>"
     ]
   },
+  // "Il & Mina": {
+  //   "name": "Il & Mina",
+  //   "wiki": "https://bravefrontierglobal.wikia.com/wiki/Il_%26_Mina",
+  //   "touchandswipe": "http://touchandswipe.github.io/bravefrontier/293",
+  //   "batch": "Powerpuff Girls",
+  //   "element": "Earth",
+  //   "home": "Amdahl",
+  //   "ids": [30212, 30213, 30214, 30215],
+  //   "lore": {
+  //     "rare": [3, 4, 5, 6],
+  //     "names": ["Twins Il & Mina", "Earthly Il & Mina", "Gemini Il & Mina", "Gaians Il & Mina"],
+  //     "LS": [],
+  //     "BB": [],
+  //     "SBB": [],
+  //     "story": [
+  //
+  //     ]
+  //   },
+  //   "related": [
+  //
+  //   ]
+  // }
 };
