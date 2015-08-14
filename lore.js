@@ -1910,7 +1910,8 @@ var raw = {
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Bosses')>Bosses</span>",
-      "<span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>"
+      "<span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>",
+      "<span class='pseudolink' onclick=searchName('Tora')>Tora</span>"
     ]
   },
   "Mare": [
@@ -1936,5 +1937,54 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Zevalhua')>Zevalhua</span>",
       "<span class='pseudolink' onclick=searchName('Afla_Dilith')>Afla Dilith</span>"
     ]
-  ]
+  },
+  "Zurg": {
+    "name": "Zurg",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zurg",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=675",
+    "batch": "Bosses",
+    "element": "Dark",
+    "home": "Other (Unspecified)",
+    "ids": [60543, 60544],
+    "lore": {
+      "rare": [4, 5],
+      "names": ["Disciple Zurg", "God of Decay Zurg"],
+      "LS": ["Dark Aura", "Ominous Aura"],
+      "BB": ["Raven Fracture", "Darkness Meteor"],
+      "story": [
+        "The disciple of the god <span class='pseudolink' onclick=searchName('Afla_Dilith')>Afla Dilith</span>. He has the tendency to acknowledge the strength of those who possess it, regardless of their race. This does not mean that he considers them as equals, but rather that they have the potential to become valuable subordinates for himself. Using his underlings to fight on the battlefield, he is rarely seen at the front lines. However, it is said that during his battle with the servants of the last Fallen God, Zevalhua, this disciple attacked with his own power for once, dying enemy after enemy bright red with their own blood.",
+        "The disciple of the god <span class='pseudolink' onclick=searchName('Afla_Dilith')>Afla Dilith</span>, who only reveals himself when determined to eliminate an enemy. Completely different from his usual calm demeanor, he will continue fighting relentlessly until his enemies have been completely eradicated. Relying on his physical strength rather than on magic and weapons, it is said that he was feared even by his comrades. With complete faith and loyalty to his master, Afla Dilith, he lives only to serve him by pulverizing enemies with his godly fists."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=serachBatch('Bosses')>Bosses</span>",
+      "<span class='pseudolink' onclick=searchName('Afla_Dilith')>Afla Dilith</span>"
+    ]
+  },
+  "Graham": {
+    "name": "Graham",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Graham",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=746",
+    "batch": "Bosses",
+    "element": "Dark",
+    "home": "Other (Unspecified)",
+    "ids": [60603, 60604],
+    "lore": {
+      "rare": [4, 5],
+      "names": ["Graham", "Treacherous Graham"],
+      "LS": ["Treacherous Scheme", "Treacherous Plot"],
+      "BB": ["Phantom Curse", "Mephistopheles"],
+      "story": [
+        "A demon who was active in Grand Gaia. Unaffiliated with the servants of the <span class='pseudolink' onclick=searchBatch('Fallen_Gods')>Four Fallen Gods</span>, he made appearances in numerous places, trifling with Summoners as he went along. Although he boasted of a sly personality and great abilities, he was not the type to prefer direct confrontation, but rather opted for the use of traps to fight his targets. He fought with the leader of the 24th Demon Slayers Division 'Rebel Lance', <span class='pseudolink' onclick=searchName('Karl')>Karl</span>, countless times, gradually deteriorating the troop. However, his reasons behind attacking the same division over and over again remain a mystery.",
+        "A demon who was active in Grand Gaia. Though Graham usually spoke in a very composed and polite manner, when angered his personality changed completely. After coercing his foes through his words of indifference and attitude, he would rob them of their lives with a powerful attack. And though his origins and goals remain unknown, he did once receive patronage from <span class='pseudolink' onclick=searchName('Maxwell')>Maxwell's</span> disciple, Abaddon, and was an obvious enemy of all Summoners. Due to this, it is believed that he had some sort of connection with the gods."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Bosses')>Bosses</span>",
+      "<span class='pseudolink' onclick=searchBatch('Fallen_Gods')>Fallen Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Karl')>Karl</span>",
+      "<span class='pseudolink' onclick=searchName('Maxwell')>Maxwell</span>"
+    ]
+  },
+  
 };
