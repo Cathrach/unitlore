@@ -1889,5 +1889,52 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
       "<span class='pseudolink' onclick=searchName('Sefia')>Sefia</span>"
     ]
-  }
+  },
+  "Zebra": {
+    "name": "Zebra",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zebra",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=316",
+    "batch": "Bosses",
+    "element": "Dark",
+    "home": "Other (Unspecified)",
+    "ids": [60233, 60234],
+    "lore": {
+      "rare": [4, 5],
+      "names": ["Disciple Zebra", "Mad God Zebra"],
+      "LS": ["Flashing Blade", "Flashing Slash"],
+      "BB": ["Chaos Rage", "Soul Invasion"],
+      "story": [
+        "Disciple of <span class='pseudolink' onclick=searchName('Cardes')>Cardes the Malevolent</span>. Since his leader Cardes was sealed away he cannot use his full power, but even so he's powerful enough that normal Summoners stand no chance against him. Very skilled at stealth attacks and assassinations, there are few gods who can even sense Zebra's presence when he conceals himself. Anyone unfortunate enough to see his dual blade sword is cut to pieces before they even know what hit them.",
+        "Zebra, disciple of <span class='pseudolink' onclick=searchName('Cardes')>Cardes the Malevolent</span>, in his true form. An incredibly ominous creature whose heartless attacks struck fear in the hearts of those he fought during the great war in which the gods destroyed the humans. He's often mistaken for a death god because of how he harvests the souls of his victims with his right hand after slaying them with the sword in his left, but he very much hates this, sending any who dare address him so to a tragic end."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Bosses')>Bosses</span>",
+      "<span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>"
+    ]
+  },
+  "Mare": [
+    "name": "Mare",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Mare",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=548",
+    "batch": "Bosses",
+    "element": "Dark",
+    "home": "Other (Unspecified)",
+    "ids": [60483, 60484],
+    "lore": {
+      "rare": [4, 5],
+      "names": ["Disciple Mare", "Blazing Mare"],
+      "LS": ["Royal Oppression", "Supreme Oppression"],
+      "BB": ["Dimension X", "Ethereal Disaster"],
+      "story": [
+        "A disciple of the divine emperor <span class='pseudolink' onclick=searchName('Zevalhua')>Zevalhua</span>. In the battle against the god <span class='pseudolink' onclick=searchName('Afla_Dilith')>Afla Dilith</span>, she fought in her master's stead, invading his dreaded Agni Region to take on the Summoners. A master of deception, she set countless traps and was beyond ecstatic when they captured their targets. Though extremely skilled at combat, her obsession with the results of her cunningness sometimes gets the better of her.",
+        "A disciple of the divine emperor <span class='pseudolink' onclick=searchName('Zevalhua')>Zevalhua</span>. She abandoned the traps she set to thrust herself into battle. Though humiliated that her traps were a failure, she is an incredible sight on the battlefield, converting her frustration into pure fighting strength. One blow from her staff could send a regular beast flying into oblivion. Do not let yourself be seduced by her vixen-like appearance. It will be the path to your downfall."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Bosses')>Bosses</span>",
+      "<span class='pseudolink' onclick=searchName('Zevalhua')>Zevalhua</span>",
+      "<span class='pseudolink' onclick=searchName('Afla_Dilith')>Afla Dilith</span>"
+    ]
+  ]
 };
