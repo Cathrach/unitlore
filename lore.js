@@ -1215,7 +1215,7 @@ var raw = {
       "BB": ["Galactic Volley", "Sacred Force", "Astral Nova", "Ishtar Burn", "Ishtar Caliber"],
       "SBB": ["Avalon", "Lohengrin"],
       "UBB": "Albion",
-      "ES": "Sacrifice for the Future"
+      "ES": "Sacrifice for the Future",
       "story": [
         "A knight from the ruined La Veda Republic, history books say he was the only one who fought against the world's destruction until the very end. He was known as the strongest warrior in the Veda cavalry. People wanted to know if he was stronger than Atro, but legend claims he didn't care, saying, 'What would it matter?'",
         "A knight from the ruined La Veda Republic. He resisted the world's destruction until the very end. He is excellent at the sword, and great as a commander. His tactics steadily wore down his enemies. Deeply trusted by his soldiers, after a soldier proclaimed, 'I know not if he's stronger than Atro, but he is most definitely more overwhelming!' he harshly rebuked that soldier.",
@@ -1752,5 +1752,30 @@ var raw = {
       "<span class='pseudolink' onclick=searchBatch('Powerpuff_Girls')>Powerpuff Girls</span>",
       "<span class='pseudolink' onclick=locSelect('Amdahl')>Amdahl</span>"
     ]
-  }
+  },
+  "Rickel": {
+    "name": "Rickel",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Rickel",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=290",
+    "batch": "Powerpuff Girls",
+    "element": "Water",
+    "home": "Other (Unspecified)",
+    "ids": [20212, 20213, 20214, 20215],
+    "lore": {
+      "rare": [3, 4, 5, 6],
+      "names": ["Twin Gem Rickel", "Twin Flash Rickel", "Twin Shot Rickel", "Twin Arms Rickel"],
+      "LS": ["Intense Light", "Intense Flash", "Intense Strobe", "Raging Will"],
+      "BB": ["Crystal Bullet", "Diamond Rebel", "Ancient Bullet", "Ancient Ovis"],
+      "SBB": ["Crystal Fanaa"],
+      "story": [
+        "Rickel is not her name, but in fact the name of the guns she carries. In her native country's language, Rickel means 'holy ice bullet', and as the name suggests Rickel is able to fire such bullets. However, the guns she holds choose their bearer, and normal folk aren't even able to hold them. Because of this, Rickel has taken on the same name as her guns, and is both feared and respected by those around her as 'one chosen by the gods'.",
+        "A marksman who took on the name of her beloved guns, Rickel. Witnessing her quick draw skills there are few who ever doubted that title, though she never once divulged her true name. She handled Rickel as if they were her lovers, seemingly in response to which their power increased. Watching her as she lived with her guns, eventually people came to see Rickel as not just the pair of guns, but as the guns and her.",
+        "A marksman who took on the name of her beloved guns, Rickel. Though her lightning quick attacks saw her successfully through many a battle, she once found herself overwhelmed by the enemies swarming around her. Just when her life was in real peril, it's said Rickel was saved when her guns released a sudden cold blast that formed a massive pillar of ice all around her. This example has led many to believe that the guns have a will of their own.",
+        "A marksman who came to be known as Rickel. During the intense battle with the gods, she recalled the time she received her beloved guns. Legend says she didn't consider them to have been given to her by the gods that day, but that on that day she formed a contract with 'Rickel'. The contents of the contract are unknown, but immediately upon recalling it she softly smiled as she kissed her guns. In that moment it is said that the guns began to shine, and before her eyes they took on a new form."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Powerpuff_Girls')>Powerpuff Girls</span>"
+    ]
+  },
 };
