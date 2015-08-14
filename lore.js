@@ -1986,5 +1986,133 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Maxwell')>Maxwell</span>"
     ]
   },
-  
+  "Seria": {
+    "name": "Seria",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Seria",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=318",
+    "batch": "Mock Units",
+    "element": "Fire",
+    "home": "Elgaia",
+    "ids": [10233, 10234, 10235],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Swordswoman Seria", "Blade God Seria", "Flare Goddess Seria"],
+      "LS": ["Royal Wave", "Supreme Wave", "Fierce God's Wave"],
+      "BB": ["Fatal Flame", "Ignite Heaven", ],
+      "SBB": [],
+      "story": [
+        "A Unit modeled after Seria, a Summoner belonging to the Akras Summoners' Hall's Demon Slayers. The power this Warlord ranked Arena fighter holds is enough to knock out normal enemies in a single blow. One can feel her elegance as she swings her large, but thin, sword. However, her way of speaking is just as crude as the real Seria, rumors of which have spread all across Elgaia.",
+        "A Unit modeled after Seria, a Summoner belonging to the Akras Summoners' Hall's Demon Slayers. Her abilities are highly praised by even the higher ups in the Summoners' Hall, though her progress is said to have been halted by the incident she was involved in long ago. It's said that her power would increase exponentially if she could get over it. She also has the tendency to put a wall between herself and others which few are ever able to get over.",
+        "A Unit modeled after Seria, a Summoner belonging to the Akras Summoners' Hall's Demon Slayers. Having slain Algmos, her sworn enemy, Seria not only grew greatly as a Summoner, but as a person as well. Her already impressive abilities on the battlefield blossomed even further, and she became more level-headed, growing able to discern the true nature of things around her. However, it seems that Seria remains as bad-mouthed as ever."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
+      "<span class='pseudolink' onclick=searchName('Karl')>Karl</span>"
+    ]
+  },
+  "Karl": {
+    "name": "Karl",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Karl",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=334",
+    "batch": "Mock Units",
+    "element": "Water",
+    "home": "Elgaia",
+    "ids": [20233, 20234, 20235],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Brave Knight Karl", "Ice Warrior Karl", "Blizzard God Karl"],
+      "LS": ["Warrior's Order", "Hero's Order", "Flashing God's Command"],
+      "BB": ["Frozen Axe", "Cursed Blue Slash", "Blue Demon Flash"],
+      "SBB": ["Cobalt Demon Execution"],
+      "story": [
+        "A mock Unit modeled after Karl, a Summoner belonging to the Akras Summoners' Hall. Head of the 24th Demon Slayers Division 'Rebel Lance', also known as 'Nyonne'. Considered to be one of the strongest Demon Slayers regiments, Nyonne was often counted upon by the Summoners' Hall's upper echelon. Karl's strength was well known, and he became famous in Elgaia for vanquishing the Wicked Drake Zagamlung. It's also been rumored an old friend of his has been active lately as well.",
+        "A mock Unit modeled after Karl, a Summoner belonging to the Akras Summoners' Hall. Though already considered to be one of the strongest around, it is said his hidden power is even more outstanding. Karl's birth is clouded in mystery so much so that even he doesn't know anything himself, but there are some who believe he has ties to the Summoners' Hall's upper echelon, rumoring that 'He's descended from kings', 'His blood is that of a god's', and 'He was born in Grand Gaia.' Karl neither confirmed nor denied these claims, instead simply smiling in response.",
+        "A mock Unit modeled after Karl, a Summoner belonging to the Akras Summoners' Hall. Although the real Karl boasted of more physical power, the mystery of his origins made him uncomfortable, leading him to shut out the dormant power within him. However, <span class='pseudolink' onclick=searchName('Seria')>Seria</span> and his other Summoner childhood friends believed in him wholly, allowing him to finally release his power. It is highly speculated that his incredible hidden power had not originated from Grand Gaia."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
+      "<span class='pseudolink' onclick=searchName('Seria')>Seria</span>"
+    ]
+  },
+  "Lugina": {
+    "name": "Lugina",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lugina",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=336",
+    "batch": "Mock Units",
+    "element": "Earth",
+    "home": "Elgaia",
+    "ids": [30233, 30234, 30235],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Lugina", "Gaia King Lugina", "Quake God Lugina"],
+      "LS": ["Instant Assault", "Instant Barrage", "Instant Heavenly Strike"],
+      "BB": ["Ground Zapper", "Ground Rock", "Morta Sky Garden"],
+      "SBB": ["Blade of the Wild"],
+      "story": [
+        "A mock Unit modeled after Lugina, a Summoner belonging to the Akras Summoners' Hall. The real Lugina is leader of the 23rd Demon Slayers Division 'Sky Guardians'. Full of unwavering pride in himself, many regarded his rivalry with the very popular <span class='pseudolink' onclick=searchName('Karl')>Karl</span> as odd. Though his strength as a Summoner is impressive thanks to his well calculated actions, his conduct and way of speaking often get him into trouble.",
+        "A mock Unit modeled after Lugina, a Summoner belonging to the Akras Summoners' Hall. Though his skills are often looked down upon due to his poor conduct, when he releases his true power he becomes one of the strongest in the whole of the Akras Summoners' Hall. He apparently defeated an evil god with an attack so powerful it shook the whole of Grand Gaia, but since no one was around to witness it many say Lugina simply exaggerated the story.",
+        "A mock Unit modeled after Lugina, a Summoner belonging to the Akras Summoners' Hall. After facing a demon disguised as his own self, Lugina was able to see his abilities and his personality anew with his very own eyes. After this incident he was able to awaken the dormant potential within himself, but no one is sure as to the reason behind it. Not only did his abilities on the battlefield grow, but his ability to make better judgement whilst in action also improved greatly. However, his personality remains as troublesome as ever, causing a great headache for the Summoners of the Hall as they try to pair him up with a willing partner."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
+      "<span class='pseudolink' onclick=searchName('Karl')>Karl</span>"
+    ]
+  },
+  "Grahdens": {
+    "name": "Grahdens",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Grahdens",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=376",
+    "batch": "Mock Units",
+    "element": "Dark",
+    "home": "Elgaia",
+    "ids": [60324, 60325],
+    "lore": {
+      "rare": [5, 6],
+      "names": ["Grahdens", "Twilight God Grahdens"],
+      "LS": ["Ancient Authority", "Ancient Aura"],
+      "BB": ["Leader's Barrage", "Jupiter Rising"],
+      "SBB": ["Chrono Ultimatum"],
+      "story": [
+        "A mock unit modeled after Grahdens, one of the Summoner Elders who manages the Defense Bureau, the department in-charge of powerhouse organizations such as the Demon Slayer Division and regular army. It is said that in his youth, he explored Grand Gaia together with a Summoner known as '<span class='pseudolink' onclick=searchName('Owen')>The First Summoner</span>' when the gate first appeared. This Unit replicates his current powers, and, though it is said that his powers were even stronger at his peak, they're much stronger than an average Summoner's powers.",
+        "A mock Unit modeled after Grahdens, one of the Summoner Elders. After a certain Summoner defeated the god Lucius, Summoners' Hall was finally able to realize its goal of becoming completely independent from the gods. However, this action caused demons to appear in both Grand Gaia and Elgaia. Thus, Grahdens resigned from his position in Summoners' Hall to face this crisis, and went to fight on the frontlines as a common Summoner. His powers immensely exceeded those of the young Summoners around him though."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
+      "<span class='pseudolink' onclick=searchName('Owen')>Owen</span>"
+    ]
+  },
+  "Paris": {
+    "name": "Paris",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Paris",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=389",
+    "batch": "Mock Units",
+    "element": "Thunder",
+    "home": "Elgaia",
+    "ids": [40233, 40234, 40235],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Paladin Paris", "Royal Guard Paris", "Storm Goddess Paris"],
+      "LS": ["Priestess' Guard", "High Priestess' Guard", "Divine Priestess' Guard"],
+      "BB": ["Thunder Tornado", "Lightning Volcano", "Rumbling Collision"],
+      "SBB": ["Regalia Fulgurite"],
+      "story": [
+        "A mock Unit modeled after Paris, a Summoner who served as one of the 'Imperial Guards', bodyguards to the imperial family of the Randall Empire. Part of an elite force rumored to be even more powerful than the Demon Slayers, her abilities were incredibly powerful. As to why a mock Unit was created based on someone not from the Summoners' Hall, theories are coming in from both sides saying everything from 'It was a high-reaching political move' to 'It was due to an undeniable request from the head of the Development Department.'",
+        "A mock Unit modeled after Paris, a Summoner from the Randall Empire. A promising member of the Imperial Elite Forces, she was remarked for her rapidly improving skills. Despite being born to a prominent family she refused to get involved in all the politics and instead approached the Imperial Guards on her own. She had great respect for her commanding officer, Eriole, even though he was from lower class beginnings, and under his command she executed various tasks.",
+        "A mock Unit modeled after Paris, a Summoner from the Randall Empire. After a certain incident took place Paris had become very depressed, but a request from the Akras Summoners' Hall pinned her against a demon on the battlefield, and she underwent a personal change quickly afterwards. Though she tended to rely more on others' power rather than on her own, her self-confidence grew, finally allowing her to break free from the shackles she had created for her own herself. With Paris's latent potential now fully awakened, this mock Unit seems to continue doing what Noel bids."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
+      "<span class='pseudolink' onclick=searchName('Eriole')>Eriole</span>"
+    ]
+  },
 };
