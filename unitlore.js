@@ -87,7 +87,7 @@ $(document).on('click', '#searchNameBtn', function(e) {
 })
 
 $(document).on('click', '.unit_img', function(e) {
-  $('#imageModal img').attr('src', $(this).attr('data-img-url'));
+  $('#imageModal img').attr('src', $("div a").attr('data-img-url'));
 })
 
 $( "#searchBatchBox" ).keypress( function(event) {
