@@ -28,7 +28,7 @@ function buildList(unit) {
       if (value['lore']['rare'].length > 0) {
         for (var item = 0; item < value['lore']['story'].length; item++) {
           loreTOP += '<div class="row row-eq-height"><div class="col-md-2" style="vertical-align:center;"><b>' + value['lore']['rare'][item] + '<i class="fa fa-star"></i> Lore: ' + value['lore']['names'][item] + '</b></div>';
-          loreTOP += '<div class="col-md-2 unit_img" data-toggle-"modal" data-img-url="' + imgPrePath + 'unit/img/unit_ills_full_' + value['ids'][item] + '.png"><img src="' + imgPrePath + 'unit/img/unit_ills_full_' + value['ids'][item] + '.png" style="width: 95%; display: block; margin-left: auto; margin-right: auto;"></div>';
+          loreTOP += '<div class="col-md-2 unit_img" data-toggle="modal" data-img-url="' + imgPrePath + 'unit/img/unit_ills_full_' + value['ids'][item] + '.png"><img src="' + imgPrePath + 'unit/img/unit_ills_full_' + value['ids'][item] + '.png" style="width: 95%; display: block; margin-left: auto; margin-right: auto;"></div>';
           loreTOP += '<div class="col-md-10">' + value['lore']['story'][item];
           if (value['lore']['LS'].length > 0) {
             loreTOP += '<br><b>LS: </b>' + value['lore']['LS'][item];
@@ -87,7 +87,7 @@ $(document).on('click', '#searchNameBtn', function(e) {
 })
 
 $(document).on('click', '.unit_img', function(e) {
-  $('#imageModal img').attr('src', $(".unit_img").attr('data-img-url'));
+  $('#imageModal img').attr('src', $(this).attr('data-img-url'));
 })
 
 $( "#searchBatchBox" ).keypress( function(event) {
