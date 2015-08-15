@@ -2274,7 +2274,7 @@ var raw = {
       "LS": ["Yin and Yang"],
       "BB": ["Nether Gate"],
       "story": [
-        "An odd technician, seen as an outcast even in his homeland, the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. From a young age he continued training in the art of Light magic, becoming quite prominent in his own country before one day he suddenly vanished. When he reappeared, he was holding a giant key. There is nothing written about the key, but when Gilnea returned he was now able to use Dark magic, leading many to believe the key was to the door to hell.""Yin and Yang"
+        "An odd technician, seen as an outcast even in his homeland, the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. From a young age he continued training in the art of Light magic, becoming quite prominent in his own country before one day he suddenly vanished. When he reappeared, he was holding a giant key. There is nothing written about the key, but when Gilnea returned he was now able to use Dark magic, leading many to believe the key was to the door to hell."
       ]
     },
     "related": [
