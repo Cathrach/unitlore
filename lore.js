@@ -2115,4 +2115,124 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Eriole')>Eriole</span>"
     ]
   },
+  "Tilith": {
+    "name": "Tilith",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Tilith",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=427",
+    "batch": "Mock Units",
+    "element": "Light",
+    "home": "Elgaia",
+    "ids": [50253, 50254],
+    "lore": {
+      "rare": [4, 5],
+      "names": ["Tilith", "Goddess Tilith"],
+      "LS": ["Goddess' Gift", "Goddess' Miracle"],
+      "BB": ["Pretty Battle Kiss", "Miracle Battle Kiss"],
+      "story": [
+        "A mock Unit modeled after Tilith, the goddess who serves Lucius and governs the Gate. There's a rumor that the success of the goddess's mock Unit was thanks to information obtained from Summoner Hall authorities who were in contact with her. However, this information didn't explicit how to recreate the goddess's true power, therefore the resulting Unit is far weaker. There's still a long way to go before the 'beautifully indomitable goddess' can be recreated.",
+        "A mock Unit modeled after the goddess Tilith. Her extremely high power could be seen in the way she outclassed her demonic opponents and from the countless other miraculous things she did. Also, the research facility's findings indicated that her powers may be even stronger than she had realized herself, and they've made it a point to hear from as many of the Summoners who've supported her as possible in continuing their research."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>"
+    ]
+  },
+  "Tesla": {
+    "name": "Tesla",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Tesla",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=748",
+    "batch": "Mock Units",
+    "element": "Water",
+    "home": "Elgaia",
+    "ids": [20524, 20525],
+    "lore": {
+      "rare": [5, 6],
+      "names": ["Tesla", "Blind Justice Tesla"],
+      "LS": ["Imperial Power", "Imperial Authority"],
+      "BB": ["Aqua Libra", "Aqua Fort"],
+      "SBB": ["Liber Astraia"],
+      "story": [
+        "A mock Unit modeled after Tesla, a member of Randall Empire's 'Imperial Guard'. She is under the command of <span class='pseudolink' onclick=searchName('Eriole')>Eriole</span>, the leader of her division. Putting Eriole's plans in motion from the shadows, she rarely shows herself. Because of this, there are many members of the Guard who do not speak with her. However, her presence is such that when she makes an appearance, everyone understands that a very important mission is about to commence.",
+        "A mock Unit modeled after Tesla, <span class='pseudolink' onclick=searchName('Eriole')>Eriole</span>'s aide. Both Tesla and Eriole hail from the same orphanage, having lived as siblings until each of them was adopted by a foster family. Various circumstances prompted their reunion afterwards, leading Tesla to become Eriole's shadow in order to provide continuous support. She developed abilities far greater than anyone in the whole nation for Eriole's sake, and will only wield them for his sake alone."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
+      "<span class='pseudolink' onclick=searchName('Eriole')>Eriole</span>"
+    ]
+  },
+  "Noah": {
+    "name": "Noah",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Noah",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=778",
+    "batch": "Mock Units",
+    "element": "Water",
+    "home": "Elgaia",
+    "ids": [20494, 20495],
+    "lore": {
+      "rare": [5, 6],
+      "names": ["Noah", "Skilled Lance Noah"],
+      "LS": ["Divine Gale", "Eternal Ambition"],
+      "BB": ["Linear Frost", "Noble Desperado"],
+      "SBB": ["Rigel Resonance"],
+      "story": [
+        "A mock Unit modeled after Noah, a Summoner of the Regular Army. Before, Noah was the commanding officer of the Demon Slayers, and everyone had very high expectations of him and his future. However, after failing a certain demon subjugating mission, he left the division responsible for it, and returned to the Regular Army as a mere Summoner. Afterwards, Noah came to dislike making friends and became completely independent of others, forging his skills alone as best as he possibly could.",
+        "A mock Unit modeled after Noah, a Summoner of the Regular Army. A Summoner from whom many great things were expected of, and of so much raw talent and potential that his greatness was acknowledged by all. It is rumored that he received the divine protection of a powerful water spirit as a child, but he has no recollection of this. Now he lives with his heart shut to all those around him, continuing to grow independently of others. Will he be able to release his true power living this way?"
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>"
+    ]
+  },
+  "Eriole": {
+    "name": "Eriole",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Eriole",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=845",
+    "batch": "Mock Units",
+    "element": "Light",
+    "home": "Elgaia",
+    "ids": [50444, 50445],
+    "lore": {
+      "rare": [5, 6],
+      "names": ["Eriole", "Winged Lord Eriole"],
+      "LS": ["Lordly Oppression", "Lordly Authority"],
+      "BB": ["Eternal Loss", "Rogue Ambition"],
+      "SBB": ["Evil Intent Judgement"],
+      "story": [
+        "A mock Unit modeled after Eriole, the commanding officer of the Randall Empire's 'Imperial Guard'. Though not initially a member of high society, he was able to quickly rise through the ranks while still quite young thanks to his unique abilities. Possessing both the combat ability and intelligence to match his rank, he had gained favor with his subordinates, the populace, and the imperial family. He would later form an alliance with the Akras Summoners' Hall, proceeding to give Noel information about himself and <span class='pseudolink' onclick=searchName('Tesla')>his aide</span>.",
+        "A mock Unit modeled after Eriole, the commanding officer of the Randall Empire's 'Imperial Guard'. As a child, he grew up in the same orphanage as his aide, <span class='pseudolink' onclick=searchName('Tesla')>Tesla</span>. Resenting the noble family that cost Tesla her eyesight, he came to hate those of privileged origin. However, this side of himself was one he shared with no one but Tesla. The mock Unit that Noel created included this dark side of Eriole, allowing it to reach an incredible amount of power. According to Noel, the fully unleashed power of this Eriole rivals even that of the gods'."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
+      "<span class='pseudolink' onclick=searchName('Tesla')>Tesla</span>"
+    ]
+  },
+  "Lin": {
+    "name": "Lin",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lin",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=847",
+    "batch": "Mock Units",
+    "element": "Earth",
+    "home": "Elgaia",
+    "ids": [30393, 30394],
+    "lore": {
+      "rare": [4, 5],
+      "names": ["Lin", "Logistics Support Lin"],
+      "LS": ["Affectionate Support", "Benevolent Support"],
+      "BB": ["Lin, at your service!", "Logistics support is here!"],
+      "story": [
+        "A mock Unit modeled after Lin Merylham, the main operator of the Logistics Support Department in the Grand Gaia Survey Office Bureau of Investigation. Not a natural fighter by any means, her mock Unit was not created to exert brute force. Rather, it is said that she went to see Noel in order to ask him to model a supportive Unit after her. Angered by Lin's interruption, Noel is said to have agreed as long as it meant getting her out of his laboratory for good.",
+        "A mock Unit modeled after Lin Merylham, the main operator of the Logistics Support Department in the Grand Gaia Survey Office Bureau of Investigation. Though originally holding almost no power for purposes of the battlefield, Lin's mock Unit is equipped with a weapon from another world which is currently under research. Holding great destructive power, Lin persuaded Noel to allow her to equip such a weapon in order to be of better use to the Summoners of the Hall. However, Noel was ultimately dissatisfied with many things concerning this particular Unit. It is even rumored that he hid a secret within it."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>"
+    ]
+  }
 };
