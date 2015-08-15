@@ -1692,6 +1692,7 @@ var raw = {
       "<span class='pseudolink' onclick=searchBatch('Saviors_of_Palmyna')>Saviors of Palmyna</span>",
       "<span class='pseudolink' onclick=locSelect('Palmyna')>Kingdom of Palmyna</span>",
       "<span class='pseudolink' onclick=searchName('Cardes')>Cardes</span>",
+      "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>",
       "<span class='pseudolink' onclick=searchName('Lafdranya')>Lafdranya</span>"
     ]
   },
@@ -2395,7 +2396,7 @@ var raw = {
     "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=354",
     "batch": "Battle Before the Gods",
     "element": "Light",
-    "home": "Other (Unspecified)",
+    "home": "Otherworld",
     "ids": [50273, 50274, 50275],
     "lore": {
       "rare": [4, 5, 6],
@@ -2411,6 +2412,7 @@ var raw = {
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>Battle Before the Gods</span>",
+      "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
       "<span class='pseudolink' onclick=searchName('Michele')>Michele</span>",
       "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>",
       "<span class='pseudolink' onclick=searchName('White_Armor')>White Armor</span>"
@@ -2439,10 +2441,97 @@ var raw = {
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>Battle Before the Gods</span>",
+      "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
       "<span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>",
       "<span class='pseudolink' onclick=searchName('Michele')>Michele</span>",
       "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>",
       "<span class='pseudolink' onclick=searchName('DUEL Fragment')>DUEL Fragment</span>"
     ]
   },
+  "Vishra": {
+    "name": "Vishra",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Vishra",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=377",
+    "batch": "Oddball Powerhouse",
+    "element": "Fire",
+    "home": "Bariura",
+    "ids": [10283, 10284, 10285],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["War Demon Vishra", "Rakshasa Vishra", "Rakshasa Lord Vishra"],
+      "LS": ["Epidemic Wave", "Pandemic Spread", "Epidemic Flash"],
+      "BB": ["Demon Cremation", "Rakshasa Execution", "Rakshasa Pyre"],
+      "SBB": ["Demonic Blade"],
+      "story": [
+        "A demon who once wielded flames in the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> long ago. Having once served the empire himself, his life was changed when he received the armor known as Vishra. In exchange for great power the armor robs its user of their memory, cursing them to fight on endlessly. Though many lived in fear of the armored warrior who had slain countless brave souls, none knew how the man inside the armor was suffering.",
+        "The former knight turned into an evil demon by the armor that curses any who wear it. Though the curse took away his sorrow, his former personality remained. Despite the deep regret he felt for his own actions many appeared before him in hopes of vanquishing him only to become sacrifices to his armor. It is said that the one to finally defeat him was a <span class='pseudolink' onclick=searchName('Logan')>twin sword wielding warrior dressed in black armor</span>. It is said that the evil demon seemed weakened during their battle, though even now none knows why.",
+        "The former knight turned into an evil demon by the armor that curses any who wear it. In the midst of a fierce battle with <span class='pseudolink' onclick=searchName('Logan')>one of his former friends</span>, he regained his memories and escaped the death grip of the armor for an instant. A well-placed stab from his friend destroyed a piece of the armor, though his friend did not finish him off. Taking advantage of his friend's hesitation, the armor regained control of Vishra and caused him to flee. Legend has it that the armor somehow fixed itself and its owner, and was seen again in the war between the humans and the gods."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Oddball_Powerhouse')>Oddball Powerhouse</span>",
+      "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Logan')>Logan</span>",
+      "<span class='pseudolink' onclick=searchName('Reeze')>Reeze<span>",
+      "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>"
+    ]
+  },
+  "Reeze": {
+    "name": "Reeze",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Reeze",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=379",
+    "batch": "Oddball Powerhouse",
+    "element": "Water",
+    "home": "Otherworld",
+    "ids": [20283, 20284, 20285],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Hail Bot Reeze", "Hail Mech Reeze", "Hail Gigantron Reeze"],
+      "LS": ["Cleansing Breeze", "Divine Gale", "Eternal Reverberation"],
+      "BB": ["Blizzard Seize", "Snow Constriction", "Ancient Hail"],
+      "SBB": ["Northern Death"],
+      "story": [
+        "A scientist from another world whose body is partly made up by a machine which releases cold air. She was developing a <span class='pseudolink' onclick=searchName('Vishra')>suit of armor</span> that could boost its wearer's abilities when it went on a rampage, eventually taking her <span class='pseudolink' onclick=searchName('Reis')>older brother's</span> life. After being sucked into another world along with the armor she was rescued by a mage named <span class='pseudolink' onclick=searchName('Rashil')>Rashil</span>. Uninterested in the mage who was after <span class='pseudolink' onclick=searchName('Lilith')>Cyborg Lilith</span>, who happened to be her assistant in her home world, Reeze integrated machinery into her wounded body. She required the strength to destroy the armor that she had created.",
+        "A scientist from another world whose body is partly made up by a machine which releases cold air. Having heard rumors of her <span class='pseudolink' onclick=searchName('Reis')>older brother's</span> <span class='pseudolink' onclick=searchName('Vishra')>armor-clad enemy</span>, she headed for their source, the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. On her way she would come to meet many people including a <span class='pseudolink' onclick=searchName('Dilma')>loud-mouthed martial artist</span> and <span class='pseudolink' onclick=searchName('Logan')>twin sword wielding warrior</span>, but not once did any sign of happiness appear on her face. With almost tragic determination she silently worked on modifying herself, advancing her abilities to a state above that of a normal human, all the while accompanied by her cyborg weapon.",
+        "A scientist from another world whose body is partly made up by a machine. When she regained consciousness after being defeated by her <span class='pseudolink' onclick=searchName('Vishra')>swor enemy</span>, she found herself next to a <span class='pseudolink' onclick=searchName('Logan')>twin sword wielding warrior</span> clutching a piece of the armor she was after. In order to exact her revenge, she travelled to the <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span> to learn the other world's technology. She gained the knowledge she was seeking from their army, but right before the gods' invasion. Instead of focusing on revenge, it is said she utilized her new expertise against the gods."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Oddball_Powerhouse')>Oddball Powerhouse</span>",
+      "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
+      "<span class='pseudolink' onclick=searchName('Vishra')>Vishra</span>",
+      "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>",
+      "<span class='pseudolink' onclick=searchName('Rashil')>Rashil</span>",
+      "<span class='pseudolink' onclick=searchName('Lilith')>Lilith</span>",
+      "<span class='pseudolink' onclick=searchName('Dilma')>Dilma</span>",
+      "<span class='pseudolink' onclick=searchName('Logan')>Logan</span>"
+    ]
+  },
+  "Dilma": {
+    "name": "Dilma",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Dilma",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=381",
+    "batch": "Oddball Powerhouse",
+    "element": "Earth",
+    "home": "Sama",
+    "ids": [30283, 30284, 30285],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Pugilist Dilma", "Champ Fist Dilma", "Noble Fist Dilma"],
+      "LS": ["Pulsating Energy", "Pulsating Retribution", "Intense Pulse"],
+      "BB": ["Earth Strike", "Gaia Strike", "Chaos Strike"],
+      "SBB": ["Grave Gazer"],
+      "story": [
+        "A martial artist from the Toltya School of Martial Arts in the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. In addition to the countless techniques he had at the command of his well-trained body, he also had the ability to manipulate people's vitality. Despite being one of the highest class fighters in his school, no longer satisfied fighting those around him he left in search of a stronger opponent. Wandering the lands he heard rumors of an <span class='pseudolink' onclick=searchName('Vishra')>evil demon</span>, but on his way to investigate in the Bariura Empire he came across <span class='pseudolink' onclick=searchName('Lilith')>someone</span> who would change his life forever.",
+        "A martial artist from the Toltya School of Martial Arts. Having headed towards the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> in search of a good fight, he came across a <span class='pseudolink' onclick=searchName('Lilith')>girl</span> who he instantly fell in love with. Ignoring her claims that she was nothing more than a mechanical doll, Dilma felt increasingly stronger for her. Then, with these feelings that he had never before felt in his life, Dilma ascended to a whole new level as a martial artist. He would then continue to perfect his techniques in fulfilling her wishes.",
+        "A martial artist from the Toltya School of Martial Arts. Experiencing a crushing defeat for the first time while on a quest for the <span class='pseudolink' onclick=searchName('Lilith')>girl of his dreams</span>, he became irate with his own weaknesses. Returning to his old dojo, he immersed himself in his training again, this time discovering a new doctrine: devoting himself to others gave him a new kind of power. The war with the gods was commencing when he set out to find his love again. It is said that he saved countless lives with his new power and techniques."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Oddball_Powerhouse')>Oddball Powerhouse</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=searchName('Vishra')>Vishra</span>",
+      "<span class='pseudolink' onclick=searchName('Lilith')>Lilith</span>"
+    ]
+  }
 };
