@@ -2445,5 +2445,4 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('DUEL Fragment')>DUEL Fragment</span>"
     ]
   },
-  ""
 };
