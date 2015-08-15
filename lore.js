@@ -2234,5 +2234,214 @@ var raw = {
       "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
       "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>"
     ]
+  },
+  // "Owen": {
+  //   "name": "Owen",
+  //   "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Owen",
+  //   "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=946",
+  //   "batch": "Mock Units",
+  //   "element": "Fire",
+  //   "home": "Elgaia",
+  //   "ids": [10514, 10515],
+  //   "lore": {
+  //     "rare": [5, 6],
+  //     "names": ["Owen", "Raging Blade Owen"],
+  //     "LS": ["Aurora's Majesty", "Aurora's Supremacy"],
+  //     "BB": ["Blazing Slash", "Sparking Blazing Slash"],
+  //     "SBB": [],
+  //     "story": [
+  //       "A mock Unit modeled after Owen, one of the Summoners of Old from the Akras Summoners' Hall. Owen, also known as "The First Summoner," explored the whole of Grand Gaia with his fellow Elder Summoner, Grahdens. He opened the way for the exploration of many regions, and was a great influence in the establishment of Summoners' Hall. And although the real Owen still holds incomparable ability on the battlefield, this mock Unit unfortunately cannot fully replicate the full extent of his power.",
+  //
+  //     ]
+  //   },
+  //   "related": [
+  //     "<span class='pseudolink' onclick=searchBatch('Mock_Units')>Mock Units</span>",
+  //     "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
+  //     "<span class='pseudolink' onclick=searchName('Grahdens')>Grahdens</span>"
+  //   ]
+  // },
+  "Gilnea": {
+    "name": "Gilnea",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Gilnea",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=344",
+    "batch": "The Keymaster's Eclipse",
+    "element": "Light",
+    "home": "La Veda",
+    "ids": [50344],
+    "lore": {
+      "rare": [5],
+      "names": ["Keymaster Gilnea"],
+      "LS": ["Yin and Yang"],
+      "BB": ["Nether Gate"],
+      "story": [
+        "An odd technician, seen as an outcast even in his homeland, the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. From a young age he continued training in the art of Light magic, becoming quite prominent in his own country before one day he suddenly vanished. When he reappeared, he was holding a giant key. There is nothing written about the key, but when Gilnea returned he was now able to use Dark magic, leading many to believe the key was to the door to hell.""Yin and Yang"
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>"
+    ]
+  },
+  "Michele": {
+    "name": "Michele",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Michele",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=346",
+    "batch": "Battle Before the Gods",
+    "element": "Fire",
+    "home": "La Veda",
+    "ids": [10253, 10254, 10255],
+    "lore": {
+      "rare" [4, 5, 6],
+      "names": ["Red Axe Michele", "Lotus Axe Michele", "Goddess Axe Michele"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Creation"],
+      "BB": ["Flame Changer", "Ignite Changer", "Crimson Changer"],
+      "SBB": ["Meggido Cross"],
+      "story": [
+        "The daughter of a prominent aristocrat from the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. She was unstoppable with her axe, but thanks to her overprotective upbringing she became quite self-centered. However, having recognized this herself as well, she came to extremely dislike getting involved with other people. Then one day she met a certain <span class='pseudolink' onclick=searchName('Duel-SGX')>mechanical figure</span> and her objective changed to battle. She would now face off against an evil force the likes of which had never been seen.",
+        "A lotus colored axe wielder and the daughter of a prominent aristocrat from the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. Continuing her journey with the <span class='pseudolink' onclick=searchName('Duel-SGX')>mechanical figure</span> from another world, she came to meet many new people. These people were of stronger character than anyone she'd met before, and through interacting with them her abilities grew even stronger. She then encountered the being she had set out to defeat, and, wielding her newfound powers, unleashed everything she had in a blaze of fury.",
+        "A lotus colored axe wielder that battled with the ten-winged tormentor. Right when she and her companions thought they had defeated Melchio, a light from above restored him as if nothing had happened. Though her friends were frozen in despair, she charged straight at the enraged deity after cursing her friends for their cowardice. Seeing her brazen act had a bolstering effect on the rest of her party. Noticing this, she smiled at them before losing consciousness.""Five Light's Creation"
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>Battle Before the Gods</span>",
+      "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Duel-SGX')>Duel-SGX</span>",
+      "<span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>",
+      "<span class='pseudolink' onclick=searchName('Tiara')>Tiara</span>"
+    ]
+  },
+  "Tiara": {
+    "name": "Tiara",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Tiara",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=348",
+    "batch": "Battle Before the Gods",
+    "element": "Water",
+    "home": "Other (Unspecified)",
+    "ids": [20253, 20254, 20255],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Polar Angel Tiara", "Ice Apostle Tiara", "Final Apostle Tiara"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Aggression"],
+      "BB": ["Icicle Bright", "Solar Cold", "Divine Frost"],
+      "SBB": ["Radiant Thimble"],
+      "story": [
+        "A young girl of both holy and demonic descent. Persecuted equally for both races she came from, she ran away to the human world. However, people there failed to neither praise her as a god nor fear her as a demon. Then one day, a <span class='pseudolink' onclick=searchName('Michele')>girl</span> with an axe in both hands appeared before her. The girl requested she come along with her, saying 'You're strong, right? Then you'll do fine as my assistant!'",
+        "A young girl of both holy and demonic descent. She continued on her journey with <span class='pseudolink' onclick=searchName('Michele')>Michele</span> to defeat <span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>. It is said she used the abilities of both races she descended from to protect her friends. During their travels it is said that Michele's mean words actually brought happiness to her, allowing her to become even stronger than before. Tiara would later say, 'M-Michele saved me from isolation. I can become stronger for her.'",
+        "A young girl of both holy and demonic descent. She once defeated <span class='pseudolink' onclick=searchName('Melchio')>Melchio</span> alongside <span class='pseudolink' onclick=searchName('Michele')>Michele</span>. However, when she saw how powerful his destructive forces had become after the light from above revived him, she was frozen with fear. Michele exclaimed that she had no room for wimpy friends and took on the villain by herself. Perhaps it was these words or the sight of her injured friend after her solitary battle, but something struck a nerve with Tiara, inspiring her to perform a miracle with her mix of holy and demonic powers."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>Battle Before the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Michele')>Michele</span>",
+      "<span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>"
+    ]
+  },
+  "Zelban": {
+    "name": "Zelban",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zelban",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=350",
+    "batch": "Battle Before the Gods",
+    "element": "Earth",
+    "home": "Other (Unspecified)",
+    "ids": [30253, 30254, 30255],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Scar Blade Zelban", "Blade Hero Zelban", "Blade Emperor Zelban"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Fortitude"],
+      "BB": ["Bright Enchantment", "Brilliant Guard", "Tempest Wall"],
+      "SBB": ["Orbit Folia"],
+      "story": [
+        "Zelban is famous for being the father of the Veda style of fencing. Having suffered a massive wound to his face in a championship battle when he was young, he covered it up with an iron mask. However, since different people named Zelban have appeared here and there throughout history, it is thought that his name has been handed down. It has also been recorded that the Zelban who appeared during the great war with the gods instructed <span class='pseudolink' onclick=searchName('Atro')>Atro</span>, one of the Six Heroes, in the way of the sword.",
+        "Swordsmen by the name of Zelban have appeared several times throughout history. This particular one took part in the great battle with the gods. It's said the Zelbans before him preferred to fight alone, but he was different and instead fought alongside his comrades. There are many theories for why he did so, but a major document has him recorded as saying, 'I didn't plan to fight with them. I simply got caught up in the same battle as them.'",
+        "Swordsmen by the name of Zelban have appeared several times throughout history. This master of the Veda style of fencing took part in the great battle with the gods, almost defeating <span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>. But when a light from above restored the god to an even more destructive power, he cowered in fear. <span class='pseudolink' onclick=searchName('Michele')>One of his comrades</span> did the opposite, accusing him of being a Zelban imposter as she rushed at Melchio by herself. This awakened a new fighting spirit in him, as well as his memory of Veda's deadliest technique."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>Battle Before the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Atro')>Atro</span>",
+      "<span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>",
+      "<span class='pseudolink' onclick=searchName('Michele')>Michele</span>"
+    ]
+  },
+  "Lodin": {
+    "name": "Lodin",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lodin",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=352",
+    "batch": "Battle Before the Gods",
+    "element": "Thunder",
+    "home": "La Veda",
+    "ids": [40253, 40254, 40255],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Drakeborn Lodin", "Drake God Lodin", "Empyreal Drake Lodin"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Spirit"],
+      "BB": ["Dragon Impulse", "Dragon Discharge", "Rising Quasar"],
+      "SBB": ["Thunder Collision"],
+      "story": [
+        "Lizeria, capital of the <span class='pseudolink' onclick=locSelect('La Veda')>La Veda Republic</span>, was reportedly once home to a mysterious knight. Also known as the 'Drakeborn', Lodin wielded his blade with reckless abandon in the law-abiding La Veda. As his second name suggested, he loved battling dragons as he longed to fight the strongest enemies he could find. Though he hated fighting cooperatively, he one day came face to face with a <span class='pseudolink' onclick=searchName('Melchio')>powerful foe</span> that he simply couldn't beat on his own.",
+        "A mysterious knight from the <span class='pseudolink' onclick=locSelect('La Veda')>La Veda Republic</span>. He found himself face to face with <span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>, a powerful enemy out to enslave humanity. Met with the seemingly indomitable force that he longed to clash with, he evolved into a new state of mind. Having challenged himself and lost so many times as a lone knight, he decided to throw his old ways away and rally the support of his friends in order to defeat this enemy. It is said that those who gathered to fight alongside him received the power of the lightning that surged from his sword.",
+        "A mysterious knight from the <span class='pseudolink' onclick=locSelect('La Veda')>La Veda Republic</span> who loved two things: freedom, and fighting the strongest opponents he could find. In his second battle with <span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>, he and his comrades gained the upper hand, until a light from above revived their enemy and turned the tables on them. All were frozen except for <span class='pseudolink' onclick=searchName('Michele')>Michele</span>, who said the look of desperation on his face was the ugliest thing she had ever seen before rushing at their foe all by herself. Some say those words and actions gave him the impetus to stand up and fight again."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>Battle Before the Gods</span>",
+      "<span class='pseudolink' onclick=locSelect('La Veda')>La Veda Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>",
+      "<span class='pseudolink' onclick=searchName('Michele')>Michele</span>"
+    ]
+  },
+  "Melchio": {
+    "name": "Melchio",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Melchio",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=354",
+    "batch": "Battle Before the Gods",
+    "element": "Light",
+    "home": "Other (Unspecified)",
+    "ids": [50273, 50274, 50275],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Legionary Melchio", "Centurion Melchio", "Legatus Melchio"],
+      "LS": ["Crash Impulse", "Destructive Allure", ],
+      "BB": ["Shining Force", "Shining Aura", ],
+      "SBB": [],
+      "story": [
+        "Just before the gods attacked, it has been recorded that an angel descended upon the frozen Lake Lordahn in Lizeria. Its beautiful armor and the wings of light coming from its back were fitting for the messenger of the gods. However, without speaking a word he suddenly took up his blue flamed dual-tipped spear and one by one laid waste to the villages around him. Without evading, he took oncoming counterattacks with his armor, trampling down the people as they tried to escape.",
+        "A ten-winged figure that appeared in Lizeria, tormenting its people even before the war with the gods had begun. Though his true identity remains unknown, many wonder if he was in fact part of the gods' initial attack given how he shined more with every life he took. After laying waste to a handful of villages, he was overtaken by a <span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>mysterious battalion</span>. However, neither his body let alone his armor were left behind, leaving some to doubt that maybe he was just a product of the people's imagination.",
+        "A ten-winged figure that laid waste to Lizeria. Though Michele and her battalion overtook this tormentor, a mysterious light from above shone upon him, reviving him and making him stronger than ever. His evolved power was enough to knock the entire battalion onto the ground in an instant. Michele was the one courageous enough to face him again, attacking him with everything she had. Her actions inspired the rest to rise up and defeat him once and for all... or so they had thought. He still had another trick up his sleeve that could render all their efforts pointless."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>Battle Before the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Michele')>Michele</span>",
+      "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>"
+    ]
+  },
+  // SIX ARMORS: MELCHIO (WENT TO GRAND GAIA AFTER DESTROYING REIS' HOMELAND) DUEL-GX (FOLLOWED TO GRAND GAIA) VISHRA (WENT BERSERK) LAFDRANYA (HOW'D IT GET HERE) REEZE (GIFTED FROM REIS) BEIORG. NEMETH GEAR WAS BUILT TO HELP BEIORG EVOLVE (AND WHAT GOOD THAT DID) T_T'
+  "Duel-SGX": {
+    "name": "Duel-SGX",
+    "wiki": "https://bravefrontierglobal.wikia.com/wiki/Duel-GX",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=356",
+    "batch": "Battle Before the Gods",
+    "element": "Dark",
+    "home": "Other (Unspecified)",
+    "ids": [60253, 60254, 60255],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Duel-GX", "Duel-GX II", "Duel-SGX"],
+      "LS": ["Crash Impulse", "Destructive Allure", "Wave of Destruction"],
+      "BB": ["Destruction Mode", "Destruction Mode II", "Destruction Mode III"],
+      "SBB": ["World's End"],
+      "story": [
+        "A strange mechanical figure from another world. It is not known when or even where it was made. It did, however, seem to have a purpose. Duel-GX was created to defeat <span class='pseudolink' onclick=searchName('Melchio')>that which destroyed the world in which it was created</span>. To accomplish this it began looking for others to help as it started to strengthen itself as well. The first person it identified as its partner was a <span class='pseudolink' onclick=searchName('Michele')>self-centered girl</span> who held an axe in each hand. As the girl came to know him as 'Crab', Duel-GX's circuits began activating.",
+        "A mechanical figure that appeared in Grand Gaia to defeat <span class='pseudolink' onclick=searchName('Melchio')>that which destroyed the world in which it was created</span>. It came to be known by the pet name Crab by <span class='pseudolink' onclick=searchName('Michele')>Michele</span> and the rest of those around it. Despite his emotionless nature as a mechanical figure, when his friends were in danger he drastically changed. As she looked upon his incredibly powerful new form, Michele smiled bitterly as she said, 'You were cuter as a 'crab' than you are now as a 'scorpion!''",
+        "In the battle with <span class='pseudolink' onclick=searchName('Melchio')>Melchio's</span> renewed form, this mechanical figure first clung to Michele like a scared puppy as she lay on the ground. However, when she tossed it off her and cursed its cowardice, it must have damaged its limiting circuits, for the machine soon transformed into a formidable weapon bent on destroying their enemy. Detecting that their foe was wielding an incredible destructive force of its own, Duel-SGX activated a hidden program. This time it wasn't following orders. It was acting on its own volition, its desire to protect its friends."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>Battle Before the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>",
+      "<span class='pseudolink' onclick=searchName('Michele')>Michele</span>",
+      "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>",
+      "<span class='pseudolink' onclick=searchName('DUEL Fragment')>DUEL Fragment</span>"
+    ]
   }
 };
