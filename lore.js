@@ -2290,7 +2290,7 @@ var raw = {
     "home": "La Veda",
     "ids": [10253, 10254, 10255],
     "lore": {
-      "rare" [4, 5, 6],
+      "rare": [4, 5, 6],
       "names": ["Red Axe Michele", "Lotus Axe Michele", "Goddess Axe Michele"],
       "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Creation"],
       "BB": ["Flame Changer", "Ignite Changer", "Crimson Changer"],
@@ -2444,5 +2444,6 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>",
       "<span class='pseudolink' onclick=searchName('DUEL Fragment')>DUEL Fragment</span>"
     ]
-  }
+  },
+  ""
 };
