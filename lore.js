@@ -2307,7 +2307,7 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
       "<span class='pseudolink' onclick=searchName('Duel-SGX')>Duel-SGX</span>",
       "<span class='pseudolink' onclick=searchName('Melchio')>Melchio</span>",
-      "<span class='pseudolink' onclick=searchName('Tiara')>Tiara</span>"
+      "<span class='pseudolink' onclick=searchName('Tiara')>Tiara</span>",
     ]
   },
   "Tiara": {
@@ -2533,5 +2533,39 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Vishra')>Vishra</span>",
       "<span class='pseudolink' onclick=searchName('Lilith')>Lilith</span>"
     ]
-  }
+  },
+  "Rashil": {
+    "name": "Rashil",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Rashil",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=383",
+    "batch": "Oddball Powerhouse",
+    "element": "Thunder",
+    "home": "Atharva",
+    "ids": [40283, 40284, 40285],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Shock Mage Rashil", "Bolt Magus Rashil", "Sky Mage Rashil"],
+      "LS": ["Pulsating Energy", "Pulsating Retribution", "Pulsating Vigor"],
+      "BB": ["Cure Cloud", "Starlight Cloud", "Starlight Ruin"],
+      "SBB": ["Life Stream"],
+      "story": [
+        "A wizard who long ago led an army of mages in the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. Inventing a way to use lightning to create recovery magic, it's said that he was even more powerful than his fellow countryman <span class='pseudolink' onclick=searchName('Weiss')>Weiss</span>. However, obsessed only with gaining knowledge he inadvertently caused an accident that greatly damaged his home country. As a result he was banished from his country, but as fate would have it as he was wandering the land he came across a <span class='pseudolink' onclick=searchName('Lilith')>mechanical being</span> from another world.",
+        "A wizard who long ago led an army of mages in the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. The preeminent thunder magician succeeded in restoring mobility to the <span class='pseudolink' onclick=searchName('Lilith')>mechanical being</span> he had met from another world. He ignored her stories about her <span class='pseudolink' onclick=searchName('Reeze')>master</span>, deciding on his own to have her accompany him so that he could gain knowledge of the other world. Along the way he developed new magical architecture theories while helping with her repairs, though details of his findings weren't left behind.",
+        "A wizard who long ago led an army of mages in the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. After their defeat at the hands of <span class='pseudolink' onclick=searchName('Vishra')>Vishra</span, the <span class='pseudolink' onclick=searchName('Lilith')>cyborg subject</span> of his research vanished. However, the otherworldly technology he had acquired from his travels with her allowed him to build a mechanical beast powered by lightning. The day after its completion, orders to return to the Atharvan army arrived, for the war with the gods was under way. He ignored these orders, instead pursuing rumors of the whereabouts of his research subject."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Oddball_Powerhouse')>Oddball Powerhouse</span>",
+      "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Weiss')>Weiss</span>",
+      "<span class='pseudolink' onclick=searchName('Lilith')>Lilith</span>",
+      "<span class='pseudolink' onclick=searchName('Reeze')>Reeze</span>",
+      "<span class='pseudolink' onclick=searchName('Vishra')>Vishra</span>"
+    ]
+  },
+  // "Lilith": {
+  //   "name": "Lilith",
+  //   "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lilith",
+  //   "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit="
+  // }
 };
