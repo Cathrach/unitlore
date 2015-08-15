@@ -2412,7 +2412,8 @@ var raw = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>Battle Before the Gods</span>",
       "<span class='pseudolink' onclick=searchName('Michele')>Michele</span>",
-      "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>"
+      "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>",
+      "<span class='pseudolink' onclick=searchName('White_Armor')>White Armor</span>"
     ]
   },
   // SIX ARMORS: MELCHIO (WENT TO GRAND GAIA AFTER DESTROYING REIS' HOMELAND) DUEL-GX (FOLLOWED TO GRAND GAIA) VISHRA (WENT BERSERK) LAFDRANYA (HOW'D IT GET HERE) REEZE (GIFTED FROM REIS) BEIORG. NEMETH GEAR WAS BUILT TO HELP BEIORG EVOLVE (AND WHAT GOOD THAT DID) T_T'
