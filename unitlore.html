@@ -202,8 +202,8 @@
     if (unit_name.length <= 2) {
       $(unitTable).html('<h3><b>More than 2 characters? Please?</b></h3>');
     } else {
-      for (i in unitList) {
-        for (j in unitList[i]['names']) {
+      for (var i in unitList) {
+        for (var j in unitList[i]['names']) {
           if (unitList[i]['names'][j].toLowerCase().replace(/\W/g, '').search(unit_name.toLowerCase()) != -1) {
             if (outputUnit.indexOf(unitList[i]) === -1) {
               outputUnit.push(unitList[i]);
