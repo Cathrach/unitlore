@@ -2731,7 +2731,7 @@ var raw = {
     "batch": "Sibyl Sisters",
     "element": "Light",
     "home": "Other (Unspecified)",
-    "ids"; [50263, 50264, 50265],
+    "ids": [50263, 50264, 50265],
     "lore": {
       "rare": [4, 5, 6],
       "names": ["Sola", "Ray Sibyl Sola", "Radiance Sibyl Sola"],
