@@ -2777,5 +2777,61 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Eliza')>Eliza</span>",
       "<span class='pseudolink' onclick=searchName('Paula')>Paula</span>"
     ]
-  }
+  },
+  "Bordebegia": {
+    "name": "Bordebegia",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Homusubi",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=415",
+    "batch": "Beauties and Beasts",
+    "element": "Fire",
+    "home": "Sama",
+    "ids": [10273, 10274, 10275],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Homusubi", "Kagutsuchi", "Bordebegia"],
+      "LS": ["Ares' Light", "Ares' Authority", "Ares' Excelsior"],
+      "BB": ["Somber Claymore", "Kagutsuki", "Grand Ignition"],
+      "SBB": ["Animus Greed"],
+      "story": [
+        "A disastrous beast that long ago was a great threat to the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. The embodiment of mayhem itself, even sturdy castles were turned to ash when he came raging in. In order to stop Homusubi from destroying the world, the gods utilized a powerful <span class='pseudolink' onclick=searchName('Zeldeus')>freezing weapon</span> to seal away the majority of his power. However, even then the Fiery Beast continued to be a great threat, and it's been told there were many more kingdoms that experienced his rage.",
+        "A disastrous beast that long ago was a great threat to the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Though the source of his power was sealed away by the <span class='pseudolink' onclick=searchName('Zeldeus')>Ice Keep</span>, it was once again released by <span class='pseudolink' onclick=searchName('Griel')>Elsel</span>, the angel who rebelled against the gods. Now free, the beast whose blazing power rivaled the sun itself used his power to burn away the order the gods had brought to the land. Having turned countless cities to ash he was eventually taken out by a <span class='pseudolink' onclick=searchName('Lira')>half-human, half-mage girl</span> and a <span class='pseudolink' onclick=searchName('Gravion')>massive magical beast</span>, though there are many theories as to how this actually happened.",
+        "A disastrous beast that, upon bringing destruction to the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>, raged out against the gods. Long asleep after having been defeated in battle, he was awoken once again after sensing the unrest that had gripped the world. He promptly began his attack on the gods, releasing his hell fire on them the moment he laid eyes on them. Though his cruel flames which turned the world into a sea of fire threatened the humans as well, records show they were protected by a great wall of <span class='pseudolink' onclick=searchName('Gravion')>earth</span> and <span class='pseudolink' onclick=searchName('Zeldeus')>ice</span>, and only the gods felt his wrath."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beauties_and_Beasts')>Beauties and Beasts</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=searchName('Zeldeus')>Zeldeus</span>",
+      "<span class='pseudolink' onclick=searchName('Griel')>Griel</span>",
+      "<span class='pseudolink' onclick=searchName('Lira')>Lira</span>",
+      "<span class='pseudolink' onclick=searchName('Gravion')>Gravion</span>"
+    ]
+  },
+  // "Zeldeus": {
+  //   "name": "Zeldeus",
+  //   "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Copra",
+  //   "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=417",
+  //   "batch": "Beauties and Beasts",
+  //   "element": "Water",
+  //   "home": "Sama",
+  //   "ids": [20273, 20274, 20275, 20276],
+  //   "lore": {
+  //     "rare": [4, 5, 6, 7],
+  //     "names": ["Ice Keep Copra", "Ice Tower Tesla", "Ice Fortress Oulu", "Ice Bastion Zeldeus"],
+  //     "LS": ["Royal Sanctuary", ],
+  //     "BB": ["Tera Guard", ],
+  //     "SBB": [],
+  //     "UBB": ,
+  //     "ES": ,
+  //     "story": [
+  //       "A freezing weapon created by the gods to seal away a disastrous fiery beast. Its ice crystal protected outer walls and overwhelming destructive force helped it to carry out its mission. However, Copra's true power lay in its ability to reconfigure its own armaments from ice. Copra had much room to grow strong in his battle against the <span class='pseudolink' onclick=searchName('Bordebegia')>raging beast</span>, and in time his abilities surpassed even the gods' expectations.",
+  //
+  //     ]
+  //   },
+  //   "related": [
+  //     "<span class='pseudolink' onclick=searchBatch('Beauties_and_Beasts')>Beauties and Beasts</span>",
+  //     "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+  //     "<span class='pseudolink' onclick=searchName('Bordebegia')>Bordebegia</span>"
+  //   ]
+  // }
 };
