@@ -2744,7 +2744,7 @@ var raw = {
         "The oldest of the Six Sibyl Sisters. Seeing how her younger sister <span class='pseudolink' onclick=searchName('Madia')>Madia</span> had gone mad with hatred against human kind, Sola sought to exorcise the darkness that had taken over her younger sister in order to bring about peace. Watching as Madia fell prisoner to the scorn within her, Sola shed tears of grief for her sister as she attacked her. Madia's condition seemed to worsen over time, but holding on to the belief that her sister would recover, Sola continued her assault. Hoping that one day the sisters could laugh together again as they had long ago, Sola finally released her true power."
       ]
     },
-    "related"; [
+    "related": [
       "<span class='pseudolink' onclick=searchBatch('Sibyl_Sisters')>Sibyl Sisters</span>",
       "<span class='pseudolink' onclick=searchName('Madia')>Madia</span>"
     ]
