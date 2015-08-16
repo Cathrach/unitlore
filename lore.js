@@ -2563,9 +2563,63 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Vishra')>Vishra</span>"
     ]
   },
-  // "Lilith": {
-  //   "name": "Lilith",
-  //   "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lilith",
-  //   "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit="
-  // }
+  "Lilith": {
+    "name": "Lilith",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lilith",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=385",
+    "batch": "Oddball Powerhouse",
+    "element": "Light",
+    "home": "Otherworld",
+    "ids": [50313, 50314, 50315],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Cyborg Lilith", "Cyborg Lilith II", "Terminator Lilith"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Order"],
+      "BB": ["Ethereal Blaster", "Divine Blaster", "Arcana Blaster"],
+      "SBB": ["Eternity Force"],
+      "story": [
+        "A mechanical weapon in the shape of a person that appeared from another world. She lost in her battle against the <span class='pseudolink' onclick=searchName('Vishra')>weapon</span> her <span class='pseudolink' onclick=searchName('Reeze')>,aster</span> had accidentally unleashed. The last thing she recorded before her systems shut down was an image of her defeated master and the gate to the other world, opened in the attack. After her systems were back online she noticed a <span class='pseudolink' onclick=searchName('Rashil')>man with long hair</span> checking her over, but she ignored him, instead confirming the survival of her master and preparing herself to go to her aid.",
+        "A mechanical weapon in the shape of a person that appeared from another world. Along with her <span class='pseudolink' onclick=searchName('Reeze')>master</span>, she scoured the strange new land for the <span class='pseudolink' onclick=searchName('Vishra')>dangerous weapon</span> that had sent them there. Though accompanied by a <span class='pseudolink' onclick=searchName('Rashil')>lightning wielding man</span> who wanted nothing more than to study her and <span class='pseudolink' onclick=searchName('Dilma')>another</span> whose incomprehensible propositions gave her pause, she somehow managed to complete her mission. Upon requesting orders from her master, she was fitted with a new weapon utilizing Grand Gaian technology.",
+        "A mechanical weapon in the shape of a person that appeared from another world. After they failed to destroy their <span class='pseudolink' onclick=searchName('Vishra')>target</span>, her <span class='pseudolink' onclick=searchName('Reeze')>master</span> retrofitted her with new technology. She started making adjustments of her own to her power nucleus as a last-ditch effort to thwart their enemy. However, it failed to activate when her master was in grave danger during the war with the gods. Knowing her master was aware of this, she vowed to protect her on her own, without the use of fancy technology. This in turn made her all the stronger."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Oddball_Powerhouse')>Oddball Powerhouse</span>",
+      "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
+      "<span class='pseudolink' onclick=searchName('Vishra')>Vishra</span>",
+      "<span class='pseudolink' onclick=searchName('Reeze')>Reeze</span>",
+      "<span class='pseudolink' onclick=searchName('Rashil')>Rashil</span>",
+      "<span class='pseudolink' onclick=searchName('Dilma')>Dilma</span>"
+    ]
+  },
+  "Logan": {
+    "name": "Logan",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Logan",
+    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=387",
+    "batch": "Oddball Powerhouse",
+    "element": "Dark",
+    "home": "Bariura",
+    "ids": [60283, 60284, 60285],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Dark Swords Logan", "Evil Blades Logan", "Inferno Swords Logan"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Order"],
+      "BB": ["Victim Soul", "Mephisto Soul", "Demon's Soul"],
+      "SBB": ["Magical Coffin"],
+      "story": [
+        "A twin sword wielding knight, loyal to the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. Originally a fairly ordinary knight who was worth little more than his serious attitude, his blind dedication to his country led him to give into <span class='pseudolink' onclick=searchName('Shida')>Shida's</span> request, resulting in him being completely transformed. He gained tremendous fighting strength, but found himself in Shida's secret army under his direct control. Following Shida's orders he then began investigating a <span class='pseudolink' onclick=searchName('Vishra')>demon</span> that had appeared nearby, believing that by doing so he could fulfill the promise he made with his long-lost friend to become the empire's greatest swordsman.",
+        "A twin sword wielding knight, transformed by the dark magician <span class='pseudolink' onclick=searchName('Shida')>Shida</span>. Per Shida's orders he went off to investigate the appearance of a <span class='pseudolink' onclick=searchName('Vishra')>demon</span>. Along the way he got into a little skirmish with a band of misfits after the same demon as he was including a cyborg and an obnoxious martial artist, but he soon found his target among some ruins within the empire. There he found the band of misfits he had fought before down and defeated, and though the demon also seemed exhausted he took up his twin swords and, with the intent of fulfilling his promise, released a furious attack.",
+        "A twin sword wielding knight, transformed by the dark magician <span class='pseudolink' onclick=searchName('Shida')>Shida</span>. Discovering that the <span class='pseudolink' onclick=searchName('Vishra')>man</span> inside the demonic armor he was after was indeed his long-lost friend, he let him escape. When he returned, he reluctantly allowed the magician to use a piece of the armor to transform him further, 'in order to save his friend.' When the gods invaded, the sight of him slaying one after another while clad in black armor proved one thing: his friend wasn't the one who was cursed."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Oddball_Powerhouse')>Oddball Powerhouse</span>",
+      "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Shida')>Shida</span>",
+      "<span class='pseudolink' onclick=searchName('Vishra')>Vishra</span>",
+      "<span class='pseudolink' onclick=searchName('Lilith')>Lilith</span>",
+      "<span class='pseudolink' onclick=searchName('Dilma')>Dilma</span>"
+    ]
+  },
+  
 };
