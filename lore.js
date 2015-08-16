@@ -1580,7 +1580,7 @@ var raw = {
   "Lemia": {
     "name": "Lemia",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lemia",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=236",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=236",
     "batch": "Occupational Heroes",
     "element": "Dark",
     "home": "Bariura",
@@ -1607,7 +1607,7 @@ var raw = {
   "Lorand": {
     "name": "Lorand",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lorand",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=239",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=239",
     "batch": "Saviors of Palmyna",
     "element": "Fire",
     "home": "Palmyna",
@@ -1636,7 +1636,7 @@ var raw = {
   "Dean": {
     "name": "Dean",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Dean",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=242",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=242",
     "batch": "Saviors of Palmyna",
     "element": "Water",
     "home": "Palmyna",
@@ -1667,7 +1667,7 @@ var raw = {
   "Edea": {
     "name": "Edea",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Edea",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=245",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=245",
     "batch": "Saviors of Palmyna",
     "element": "Earth",
     "home": "Palmyna",
@@ -1699,7 +1699,7 @@ var raw = {
   "Loch": {
     "name": "Loch",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Loch",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=248",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=248",
     "batch": "Saviors of Palmyna",
     "element": "Thunder",
     "home": "Palmyna",
@@ -1731,7 +1731,7 @@ var raw = {
   "Aisha": {
     "name": "Aisha",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Aisha",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=287",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=287",
     "batch": "Powerpuff Girls",
     "element": "Fire",
     "home": "Amdahl",
@@ -1757,7 +1757,7 @@ var raw = {
   "Rickel": {
     "name": "Rickel",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Rickel",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=290",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=290",
     "batch": "Powerpuff Girls",
     "element": "Water",
     "home": "Other (Unspecified)",
@@ -1809,7 +1809,7 @@ var raw = {
   "Amy": {
     "name": "Amy",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Amy",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=296",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=296",
     "batch": "Powerpuff Girls",
     "element": "Thunder",
     "home": "Palmyna",
@@ -1835,7 +1835,7 @@ var raw = {
   "Sefia": {
     "name": "Sefia",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Sefia",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=299",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=299",
     "batch": "Powerpuff Girls",
     "element": "Light",
     "home": "Other (Unspecified)",
@@ -1864,7 +1864,7 @@ var raw = {
   "Kikuri": {
     "name": "Kikuri",
     "wiki": "https://www.bravefrontierglobal.wikia/com/wiki/Kikuri",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=302",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=302",
     "batch": "Powerpuff Girls",
     "element": "Dark",
     "home": "Otherworld",
@@ -1894,7 +1894,7 @@ var raw = {
   "Zebra": {
     "name": "Zebra",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zebra",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=316",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=316",
     "batch": "Bosses",
     "element": "Dark",
     "home": "Other (Unspecified)",
@@ -1918,7 +1918,7 @@ var raw = {
   "Mare": {
     "name": "Mare",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Mare",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=548",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=548",
     "batch": "Bosses",
     "element": "Dark",
     "home": "Other (Unspecified)",
@@ -1942,7 +1942,7 @@ var raw = {
   "Zurg": {
     "name": "Zurg",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zurg",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=675",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=675",
     "batch": "Bosses",
     "element": "Dark",
     "home": "Other (Unspecified)",
@@ -1965,7 +1965,7 @@ var raw = {
   "Graham": {
     "name": "Graham",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Graham",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=746",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=746",
     "batch": "Bosses",
     "element": "Dark",
     "home": "Other (Unspecified)",
@@ -1990,7 +1990,7 @@ var raw = {
   "Seria": {
     "name": "Seria",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Seria",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=318",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=318",
     "batch": "Mock Units",
     "element": "Fire",
     "home": "Elgaia",
@@ -2016,7 +2016,7 @@ var raw = {
   "Karl": {
     "name": "Karl",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Karl",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=334",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=334",
     "batch": "Mock Units",
     "element": "Water",
     "home": "Elgaia",
@@ -2042,7 +2042,7 @@ var raw = {
   "Lugina": {
     "name": "Lugina",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lugina",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=336",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=336",
     "batch": "Mock Units",
     "element": "Earth",
     "home": "Elgaia",
@@ -2068,7 +2068,7 @@ var raw = {
   "Grahdens": {
     "name": "Grahdens",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Grahdens",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=376",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=376",
     "batch": "Mock Units",
     "element": "Dark",
     "home": "Elgaia",
@@ -2093,7 +2093,7 @@ var raw = {
   "Paris": {
     "name": "Paris",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Paris",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=389",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=389",
     "batch": "Mock Units",
     "element": "Thunder",
     "home": "Elgaia",
@@ -2142,7 +2142,7 @@ var raw = {
   "Tesla": {
     "name": "Tesla",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Tesla",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=748",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=748",
     "batch": "Mock Units",
     "element": "Water",
     "home": "Elgaia",
@@ -2167,7 +2167,7 @@ var raw = {
   "Noah": {
     "name": "Noah",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Noah",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=778",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=778",
     "batch": "Mock Units",
     "element": "Water",
     "home": "Elgaia",
@@ -2191,7 +2191,7 @@ var raw = {
   "Eriole": {
     "name": "Eriole",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Eriole",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=845",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=845",
     "batch": "Mock Units",
     "element": "Light",
     "home": "Elgaia",
@@ -2216,7 +2216,7 @@ var raw = {
   "Lin": {
     "name": "Lin",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lin",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=847",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=847",
     "batch": "Mock Units",
     "element": "Earth",
     "home": "Elgaia",
@@ -2239,7 +2239,7 @@ var raw = {
   // "Owen": {
   //   "name": "Owen",
   //   "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Owen",
-  //   "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=946",
+  //   "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=946",
   //   "batch": "Mock Units",
   //   "element": "Fire",
   //   "home": "Elgaia",
@@ -2264,7 +2264,7 @@ var raw = {
   "Gilnea": {
     "name": "Gilnea",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Gilnea",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=344",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=344",
     "batch": "The Keymaster's Eclipse",
     "element": "Light",
     "home": "La Veda",
@@ -2285,7 +2285,7 @@ var raw = {
   "Michele": {
     "name": "Michele",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Michele",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=346",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=346",
     "batch": "Battle Before the Gods",
     "element": "Fire",
     "home": "La Veda",
@@ -2313,7 +2313,7 @@ var raw = {
   "Tiara": {
     "name": "Tiara",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Tiara",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=348",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=348",
     "batch": "Battle Before the Gods",
     "element": "Water",
     "home": "Other (Unspecified)",
@@ -2339,7 +2339,7 @@ var raw = {
   "Zelban": {
     "name": "Zelban",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zelban",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=350",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=350",
     "batch": "Battle Before the Gods",
     "element": "Earth",
     "home": "Other (Unspecified)",
@@ -2366,7 +2366,7 @@ var raw = {
   "Lodin": {
     "name": "Lodin",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lodin",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=352",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=352",
     "batch": "Battle Before the Gods",
     "element": "Thunder",
     "home": "La Veda",
@@ -2393,7 +2393,7 @@ var raw = {
   "Melchio": {
     "name": "Melchio",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Melchio",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=354",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=354",
     "batch": "Battle Before the Gods",
     "element": "Light",
     "home": "Otherworld",
@@ -2422,7 +2422,7 @@ var raw = {
   "Duel-SGX": {
     "name": "Duel-SGX",
     "wiki": "https://bravefrontierglobal.wikia.com/wiki/Duel-GX",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=356",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=356",
     "batch": "Battle Before the Gods",
     "element": "Dark",
     "home": "Other (Unspecified)",
@@ -2451,7 +2451,7 @@ var raw = {
   "Vishra": {
     "name": "Vishra",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Vishra",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=377",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=377",
     "batch": "Oddball Powerhouse",
     "element": "Fire",
     "home": "Bariura",
@@ -2479,7 +2479,7 @@ var raw = {
   "Reeze": {
     "name": "Reeze",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Reeze",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=379",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=379",
     "batch": "Oddball Powerhouse",
     "element": "Water",
     "home": "Otherworld",
@@ -2510,7 +2510,7 @@ var raw = {
   "Dilma": {
     "name": "Dilma",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Dilma",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=381",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=381",
     "batch": "Oddball Powerhouse",
     "element": "Earth",
     "home": "Sama",
@@ -2537,7 +2537,7 @@ var raw = {
   "Rashil": {
     "name": "Rashil",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Rashil",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=383",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=383",
     "batch": "Oddball Powerhouse",
     "element": "Thunder",
     "home": "Atharva",
@@ -2566,7 +2566,7 @@ var raw = {
   "Lilith": {
     "name": "Lilith",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lilith",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=385",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=385",
     "batch": "Oddball Powerhouse",
     "element": "Light",
     "home": "Otherworld",
@@ -2595,7 +2595,7 @@ var raw = {
   "Logan": {
     "name": "Logan",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Logan",
-    "touchandswipe": "http://www.touchandswipe.github.io/bravefrontier/unitsguidelite?unit=387",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=387",
     "batch": "Oddball Powerhouse",
     "element": "Dark",
     "home": "Bariura",
@@ -2621,5 +2621,161 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Dilma')>Dilma</span>"
     ]
   },
-  
+  "Freya": {
+    "name": "Freya",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Freya",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=391",
+    "batch": "Sibyl Sisters",
+    "element": "Fire",
+    "home": "Other (Unspecified)",
+    "ids": [10243, 10244, 10245],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Freya", "Blaze Sibyl Freya", "Passion Sibyl Freya"],
+      "LS": ["Burning Light's Power", "Burning Light's Spirit", "Burning Light's Assault"],
+      "BB": ["Caliente Ring", "Somber Ring", "Khrysos Ring"],
+      "SBB": ["Alba Terrace"],
+      "story": [
+        "The third oldest of the Six Sibyl Sisters who fought against the gods in order to save the humans. As clumsy as she was she loved how earnest humans were, and, in following her eldest sister <span class='pseudolink' onclick=searchName('Sola')>Sola</span>, she saved many. Her bright and sociable personality is said to have brought smiles back to the faces of many. It's also recorded that she had great love for her sisters. However, during the latter half of the great war she faced off against her sister <span class='pseudolink' onclick=searchName('Madia')>Madia</span> and the rest of the Fresh Blood Sisters.",
+        "The third oldest of the Six Sibyl Sisters. During the latter half of the great war when <span class='pseudolink' onclick=searchName('Madia')>Madia</span> and her Fresh Blood Sisters were about to unleash on the humans, <span class='pseudolink' onclick=searchName('Sola')>Sola</span>, eldest of the six goddess sisters, led the resistance against them. Freya continued to save people as passionately as she had before, but she eventually came under fierce attack from her elder sister <span class='pseudolink' onclick=searchName('Eliza')>Eliza</span>. Her beloved sister's blade cut deep into her body and down to her very soul.",
+        "The third oldest of the Six Sibyl Sisters. As <span class='pseudolink' onclick=searchName('Eliza')>Eliza</span> attacked Freya while condemning humans for their sinful acts, Freya tried to make her elder sister understand that humans were also capable of loving. However, her words did not reach Eliza. As Freya felt her sister's steel cold blade digging into her, her consciousness became hazy, and she thought of the close relationship she had once held with her sisters. Realizing that things would never return to the way they used to be, Freya decided to use all of her power to stop Eliza. At that point the snowfield around them went ablaze, encircling the two Sibyls within the flames."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sibyl_Sisters')>Sibyl Sisters</span>",
+      "<span class='pseudolink' onclick=searchName('Sola')>Sola</span>",
+      "<span class='pseudolink' onclick=searchName('Madia')>Madia</span>",
+      "<span class='pseudolink' onclick=searchName('Eliza')>Eliza</span>"
+    ]
+  },
+  "Eliza": {
+    "name": "Eliza",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Eliza",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=393",
+    "batch": "Sibyl Sisters",
+    "element": "Water",
+    "home": "Other (Unspecified)",
+    "ids": [20243, 20244, 20245],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Eliza", "Snow Sibyl Eliza", "Sorrow Sibyl Eliza"],
+      "LS": ["Cold Darkness' Power", "Cold Darkness' Spirit", "Cold Darkness' Assault"],
+      "BB": ["Freezing Point", "Permafrost", "Chrono Ice Barrier"],
+      "SBB": ["Nadel Azurite"],
+      "story": [
+        "The second oldest of the Six Sibyl Sisters who fought against the gods in order to save the humans. Full of pride as a sibyl, it's said she always acted in a just manner. Because of this it's said that she viewed those with questionable values as wicked, and was comparatively more negative than her other sisters. At the beginning of the great war she followed her elder sister <span class='pseudolink' onclick=searchName('Sola')>Sola</span> in saving the humans, but in the midst of that she bore witness to the many evil deeds they were also capable of.",
+        "The second oldest of the Six Sibyl Sisters. When the great war with the gods first broke out she fought alongside her sisters in defense of the humans, but after witnessing endless atrocities committed by humans she decided she'd made a mistake. From that point forward she began wielding her blade against humans, becoming one of the feared Fresh Blood Sisters. It's said the origin of her hatred for her sister <span class='pseudolink' onclick=searchName('Freya')>Freya</span> came from the fact she overlooked the crimes of humans in favor of forgiving them.",
+        "The second oldest of the Six Sibyl Sisters. With her heart already frozen, she continuously attacked her sister <span class='pseudolink' onclick=searchName('Freya')>Freya</span>, who sought to save the human race. Witnessing the strength of her younger sister's conviction, her heart began to thaw, though she still found herself unable to forgive humans. This also being because Eliza wanted to protect her younger sister, as she strongly believed that the innocent Freya would be once betrayed by the human race. And thus, Eliza encased her emotions in ice yet again and turned her body to freezing cold temperatures in order to hurt her beloved younger sister."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sibyl_Sisters')>Sibyl Sisters</span>",
+      "<span class='pseudolink' onclick=searchName('Sola')>Sola</span>",
+      "<span class='pseudolink' onclick=searchName('Freya')>Freya</span>"
+    ]
+  },
+  "Paula": {
+    "name": "Paula",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Paula",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=395",
+    "batch": "Sibyl Sisters",
+    "element": "Earth",
+    "home": "Other (Unspecified)",
+    "ids": [30243, 30244, 30245],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Paula", "Rose Sibyl Paula", "Beauty Sibyl Paula"],
+      "LS": ["Lush Darkness' Power", "Lush Darkness' Spirit", "Lush Darkness' Assault"],
+      "BB": ["Land of Green", "Mother Earth's Pulse", "Spiritual Paradies Zephyr"],
+      "SBB": ["Illusion"],
+      "story": [
+        "The youngest of the Six Sibyl Sisters who fought against the gods in order to save the humans. It's said she was pure with a big, bright smile. She took great joy in protecting things precious to her and eventually teamed up with her sisters in fighting the gods in order to protect their far weaker human targets. However, she began to doubt their motives after learning that they would sometimes sacrifice the weakest among them in order to survive.",
+        "The youngest of the Six Sibyl Sisters. Seeing how some humans would sacrifice their weaker allies for their own benefit she decided to stop protecting them and instead join the fight against them. She committed the same cruel acts against them that they seemed capable of committing against others. It's recorded that the innocent looking smile she wore as she stained the flowers she commanded red with blood led to her being particularly feared even among the other Fresh Blood Sisters.",
+        "The youngest of the Six Sibyl Sisters. Paula could not understand why her older sister <span class='pseudolink' onclick=searchName('Zele')>Zele</span> was so bent on protecting the human race. She tried to make her understand that the weak would be sacrificed while humanity took its time to learn, but she was overwhelmed by the logic Zele presented. However, as ruler of the silent flora, Paula chose force over diplomacy. Gathering power from the land by digging roots deep beneath the earth, she then sent blood-stained ivy vines after her beloved elder sister."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sibyl_Sisters')>Sibyl Sisters</span>",
+      "<span class='pseudolink' onclick=searchName('Zele')>Zele</span>"
+    ]
+  },
+  "Zele": {
+    "name": "Zele",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zele",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=397",
+    "batch": "Sibyl Sisters",
+    "element": "Thunder",
+    "home": "Other (Unspecified)",
+    "ids": [40243, 40244, 40245],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Zele", "Bolt Sibyl Zele", "Echo Sibyl Zele"],
+      "LS": ["Bursting Light's Power", "Bursting Light's Spirit", "Bursting Light's Assault", ],
+      "BB": ["3rd Shinto Form: Ikazuchi", "7th Shinto Form: Denshin", "12th Shinto Form: Sengou"],
+      "SBB": ["Crusade Form: Sky Crusher"],
+      "story": [
+        "The third youngest of the Six Sibyl Sisters who fought against the gods in order to save the humans. Of all the sisters and their unique personalities she took on a coordinating role having one of the more moderate personalities of the lot. She was aware of the sins of the humans when the gods came to destroy them, but she decided to fight with her sisters in protecting them instead of watching them disappear. It's said that after she split from the three of her sisters who defected, Zele continued trying to persuade them not to fight until the very end.",
+        "The third youngest of the Six Sibyl Sisters. During the second half of the war between the gods and the humans she fought against the Fresh Blood Sisters. As former coordinator of their group she tried convincing them to stop fighting. However, as <span class='pseudolink' onclick=searchName('Paula')>Paula's</span> cruel acts toward humans grew in intensity, she had no choice but to use force to end her appalling behavior. She grew powerful with determination, unleashing an unforgiving torrent of lightning on her sister.",
+        "The third youngest of the Six Sibyl Sisters. Zele's heart was moved as she heard how much her younger sister <span class='pseudolink' onclick=searchName('Paula')>Paula</span> wanted to save the weak. However, Paula was resolved to use violence in order to achieve such a task, and thus Zele sought to stop her. She unleashed a rain of lighting and thunder to fry the fiendish plants surrounding her, but her younger sister's power only grew stronger. Fearing the battle would run for far too long at this rate, Zele summoned thunder clouds from all round the world, compressing their electricity within her body until she glowed in a bluish hue."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sibyl_Sisters')>Sibyl Sisters</span>",
+      "<span class='pseudolink' onclick=searchName('Paula')>Paula</span>"
+    ]
+  },
+  "Sola": {
+    "name": "Sola",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Sola",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=399",
+    "batch": "Sibyl Sisters",
+    "element": "Light",
+    "home": "Other (Unspecified)",
+    "ids"; [50263, 50264, 50265],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Sola", "Ray Sibyl Sola", "Radiance Sibyl Sola"],
+      "LS": ["Holy Light's Power", "Holy Light's Spirit", "Holy Light's Assault"],
+      "BB": ["Flash Effect", "Cathedral Photon", "Seraph Radiation"],
+      "SBB": ["Iris Wille"],
+      "story": [
+        "The oldest of the Six Sibyl Sisters who fought against the gods in order to save the humans. As gentle as she was, she could also be really stubborn. However there was no one who doubted her kindness, and it's said even <span class='pseudolink' onclick=searchName('Madia')>Madia</span> looked upon her with a pleasant smile. Sola rallied her sisters to fight in defense of the humans with her kindness, though this very act resulted in a battle between the sisters themselves.",
+        "The oldest of the Six Sibyl Sisters. She enlisted the help of her sisters in saving the humans when they were attacked by the gods. Amidst the fighting, three of her sisters, having witnessed the humans' evil deeds, decided to join the fight against them instead. Sola was then forced to face off against the three Fresh Blood Sisters, and it's said her battle with <span class='pseudolink' onclick=searchName('Madia')>Madia</span> was particularly fierce. It's uncertain how the battle ended, but what is known for sure is that none of them were ever seen again.",
+        "The oldest of the Six Sibyl Sisters. Seeing how her younger sister <span class='pseudolink' onclick=searchName('Madia')>Madia</span> had gone mad with hatred against human kind, Sola sought to exorcise the darkness that had taken over her younger sister in order to bring about peace. Watching as Madia fell prisoner to the scorn within her, Sola shed tears of grief for her sister as she attacked her. Madia's condition seemed to worsen over time, but holding on to the belief that her sister would recover, Sola continued her assault. Hoping that one day the sisters could laugh together again as they had long ago, Sola finally released her true power."
+      ]
+    },
+    "related"; [
+      "<span class='pseudolink' onclick=searchBatch('Sibyl_Sisters')>Sibyl Sisters</span>",
+      "<span class='pseudolink' onclick=searchName('Madia')>Madia</span>"
+    ]
+  },
+  "Madia": {
+    "name": "Madia",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Madia",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=401",
+    "batch": "Sibyl Sisters",
+    "element": "Dark",
+    "home": "Other (Unspecified)",
+    "ids": [60243, 60244, 60245],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Madia", "Night Sibyl Madia", "Eclipse Sibyl Madia"],
+      "LS": ["Black Hole's Power", "Black Hole's Spirit", "Black Hole's Assault"],
+      "BB": ["Euthanasia", "Extinction", "Fear Penetration"],
+      "SBB": ["Hollow Icryl"],
+      "story": [
+        "The second youngest of the Six Sibyl Sisters who fought against the gods in order to save the humans. It's thought that she agreed to help save the humans out of her love for her sister <span class='pseudolink' onclick=searchName('Sola')>Sola</span>. However Madia was an idealist, demanding that whatever her beloved sister Sola was fighting for had better be worth it. Time and time again, she witnessed the humans commit countless atrocities. As a result, she ended up resenting her sisters for helping such wicked creatures.",
+        "The second youngest of the Six Sibyl Sisters. Though she fought alongside her sisters to save the humans at the beginning of the war, having seen what they were capable of she parted ways from her beloved sister <span class='pseudolink' onclick=searchName('Sola')>Sola</span>. Though her sisters Sola, <span class='pseudolink' onclick=searchName('Freya')>Freya</span>, and Z<span class='pseudolink' onclick=searchName('Zele')>Zele</span>ele tried to stop them, she teamed up with <span class='pseudolink' onclick=searchName('Eliza')>Eliza</span> and <span class='pseudolink' onclick=searchName('Paula')>Paula</span>, the three of them laying waste to humans as the Fresh Blood Sisters. Though it's said her wings were stained red with their blood, there are no documents which speak of the evil acts she supposedly witnessed.",
+        "The second youngest of the Six Sibyl Sisters. The darkness that consumed the human race came pouring into innocent Madia, growing to an uncontrollable level, and forcing her to attack her beloved elder sister, <span class='pseudolink' onclick=searchName('Sola')>Sola</span>. Madia was aware that Sola was attempting to help her, but her thoughts ended up contradicting those of her elder sister. She came to believe that by exterminating all humans, the cause of all this calamity, she would be able to recover the relationship she had once shared with her sisters. And thus, with Sola as the main obstacle keeping her from achieving her goal, she surrendered herself to the darkness once more in order to eliminate her."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sibyl_Sisters')>Sibyl Sisters</span>",
+      "<span class='pseudolink' onclick=searchName('Sola')>Sola</span>",
+      "<span class='pseudolink' onclick=searchName('Freya')>Freya</span>",
+      "<span class='pseudolink' onclick=searchName('Zele')>Zele</span>",
+      "<span class='pseudolink' onclick=searchName('Eliza')>Eliza</span>",
+      "<span class='pseudolink' onclick=searchName('Paula')>Paula</span>"
+    ]
+  }
 };
