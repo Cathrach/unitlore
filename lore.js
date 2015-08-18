@@ -2807,31 +2807,35 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Gravion')>Gravion</span>"
     ]
   },
-  // "Zeldeus": {
-  //   "name": "Zeldeus",
-  //   "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Copra",
-  //   "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=417",
-  //   "batch": "Beauties and Beasts",
-  //   "element": "Water",
-  //   "home": "Sama",
-  //   "ids": [20273, 20274, 20275, 20276],
-  //   "lore": {
-  //     "rare": [4, 5, 6, 7],
-  //     "names": ["Ice Keep Copra", "Ice Tower Tesla", "Ice Fortress Oulu", "Ice Bastion Zeldeus"],
-  //     "LS": ["Royal Sanctuary", ],
-  //     "BB": ["Tera Guard", ],
-  //     "SBB": [],
-  //     "UBB": ,
-  //     "ES": ,
-  //     "story": [
-  //       "A freezing weapon created by the gods to seal away a disastrous fiery beast. Its ice crystal protected outer walls and overwhelming destructive force helped it to carry out its mission. However, Copra's true power lay in its ability to reconfigure its own armaments from ice. Copra had much room to grow strong in his battle against the <span class='pseudolink' onclick=searchName('Bordebegia')>raging beast</span>, and in time his abilities surpassed even the gods' expectations.",
-  //
-  //     ]
-  //   },
-  //   "related": [
-  //     "<span class='pseudolink' onclick=searchBatch('Beauties_and_Beasts')>Beauties and Beasts</span>",
-  //     "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
-  //     "<span class='pseudolink' onclick=searchName('Bordebegia')>Bordebegia</span>"
-  //   ]
-  // }
+  "Zeldeus": {
+    "name": "Zeldeus",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Copra",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=417",
+    "batch": "Beauties and Beasts",
+    "element": "Water",
+    "home": "Sama",
+    "ids": [20273, 20274, 20275, 20276],
+    "lore": {
+      "rare": [4, 5, 6, 7],
+      "names": ["Ice Keep Copra", "Ice Tower Tesla", "Ice Fortress Oulu", "Ice Bastion Zeldeus"],
+      "LS": ["Royal Sanctuary", "Supreme Sanctuary", "Immersing Holiness", "Ice God's Sanctuary"],
+      "BB": ["Tera Guard", "EX Guard", "Zeta Guard", "Lastrum Guard"],
+      "SBB": ["A.G.P.", "A.G.W."],
+      "UBB": "Full Degeneration",
+      "ES": "Demon Puppet's Will",
+      "story": [
+        "A freezing weapon created by the gods to seal away a <span class='pseudolink' onclick=searchName('Bordebegia')>disastrous fiery beast</span>. Its ice crystal protected outer walls and overwhelming destructive force helped it to carry out its mission. However, Copra's true power lay in its ability to reconfigure its own armaments from ice. Copra had much room to grow strong in his battle against the raging beast, and in time his abilities surpassed even the gods' expectations.",
+        "A self-reconfiguring freezing weapon created by the gods to seal away a <span class='pseudolink' onclick=searchName('Bordebegia')>disastrous fiery beast</span>. In the intense battle with the fiery beast, as it grew larger and its armaments stronger, it built around itself an indomitable frozen defense. With this power it managed at one point to completely seal the beast, though later an <span class='pseudolink' onclick=searchName('Griel')>angel</span> came and released him. The weapon of the gods wasn't concerned with good and evil, and lived only to follow commands.",
+        "A freezing weapon created by the gods to seal away a <span class='pseudolink' onclick=searchName('Bordebegia')>disastrous fiery beast</span>. After having released the disastrous beast, the Ice Tower shut down for repairs, at which time the gods considered using it once again in the fight against the humans. However, upon being restarted it had been reprogrammed by the <span class='pseudolink' onclick=searchName('Griel')>Rebel Angel</span> to view the gods as enemies. After eventually evolving into the Ice Fortress, it intervened many times in the gods' invasion, and came to be known as the fortress of humanity's hope.",
+        "A super freezing weapon created by the gods which turned against its creators during the invasion of the God Army thanks to the influence of a <span class='pseudolink' onclick=searchName('Griel')>rebellious angel</span>. However, having suffered continuous attacks, its functionality began to break down. As its consciousness and movements began to slow down, it acquired its own free will, and chose to accept it before its body was completely destroyed. Now with a soul, the weapon managed to evolve into its final form in order to defend the <span class='pseudolink' onclick=searchName('Lira')>young lady</span> it swore to protect."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beauties_and_Beasts')>Beauties and Beasts</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=searchName('Bordebegia')>Bordebegia</span>",
+      "<span class='pseudolink' onclick=searchName('Griel')>Griel</span>",
+      "<span class='pseudolink' onclick=searchName('Lira')>Lira</span>"
+    ]
+  }
 };
