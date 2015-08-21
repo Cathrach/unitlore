@@ -2837,5 +2837,31 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Griel')>Griel</span>",
       "<span class='pseudolink' onclick=searchName('Lira')>Lira</span>"
     ]
+  },
+  "Gravion": {
+    "name": "Gravion",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Golem",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=419",
+    "batch": "Beauties and Beasts",
+    "element": "Earth",
+    "home": "Other (Unspecified)",
+    "ids": [30273, 30274, 30275],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Golem", "Great Golem", "Gravion"],
+      "LS": ["Royal Sanctuary", "Supreme Sanctuary", "Immersing Holiness"],
+      "BB": ["Blast Umbrella", "Bing Bang Blast", "Gravion Arm"],
+      "SBB": ["Geo Canon"],
+      "story": [
+        "An enchanted puppet with immense magical power. The man who despite being a magical being loved humans created it to protect his <span class='pseudolink' onclick=searchName('Lira')>beloved daughter</span> once he knew his own life was coming to an end. Despite being despised for being a half blood after her father's death, because Golem was always by her side no one ever attempted to harm the girl. Though as a puppet it was only intended to follow the girl's orders, it has been told that from its actions one could feel it had a strong will to protect her.",
+        "An enchanted puppet with immense magical power. It was created to protect <span class='pseudolink' onclick=searchName('Lira')>Lira</span>, the girl with both human and magical blood. Golem watched over Lira from the time she was a baby, protecting her from the <span class='pseudolink' onclick=searchName('Bordebegia')>disastrous beast's</span> fiery attacks. However, one day a bright light beamed out from inside of him, and with it a new power was born within him. There are many explanations concerning the light, with the most prominent one stating that it came from Lira's father whose spirit was still alive inside Golem.",
+        "An enchanted puppet with immense magical power. Predicting the <span class='pseudolink' onclick=searchName('Bordebegia')>disastrous beast</span> would come back, <span class='pseudolink' onclick=searchName('Lira')>Lira</span>, the puppet's master, studied her father's cherished book of magic and quickly began upgrading the puppet. However, these upgrades weren't to be used against the disastrous beast, but against the god army which had invaded in an attempt to destroy the humans. The fearsome stone giant protected the humans from the gods' attack and came to be known as one of humanity's saviors, though there are few who know who commanded it to protect the people."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beauties_and_Beasts')>Beauties and Beasts</span>",
+      "<span class='pseudolink' onclick=searchName('Lira')>Lira</span>",
+      "<span class='pseudolink' onclick=searchName('Bordebegia')>Bordebegia</span>"
+    ]
   }
 };
