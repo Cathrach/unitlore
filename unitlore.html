@@ -228,6 +228,18 @@
   $(document).ready( function(e) {
     unitList = [];
     buildList(raw);
+
+    $( "#searchBatchBox" ).keypress( function(event) {
+      if ( event.keyCode == 13 ) {
+         searchBatch($('#searchBatchBox').val());
+      }
+    })
+
+    $( "#searchNameBox" ).keypress( function(event) {
+      if ( event.keyCode == 13 ) {
+         searchName($('#searchNameBox').val());
+      }
+    })
   })
   </script>
 

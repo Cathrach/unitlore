@@ -89,15 +89,3 @@ $(document).on('click', '#searchNameBtn', function(e) {
 $(document).on('click', '.unit_img', function(e) {
   $('#imageModal img').attr('src', $(this).attr('data-img-url'));
 })
-
-$( "#searchBatchBox" ).keypress( function(event) {
-  if ( event.keyCode == 13 ) {
-     searchBatch($('#searchBatchBox').val());
-  }
-})
-
-$( "#searchNameBox" ).keypress( function(event) {
-  if ( event.keyCode == 13 ) {
-     searchName($('#searchNameBox').val());
-  }
-})
