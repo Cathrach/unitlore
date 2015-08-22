@@ -2910,8 +2910,8 @@ var raw = {
       "SBB": ["White Moon"],
       "story": [
         "A white beast who served as the keeper of order and helped maintain peace. He was also known for keeping evil beings in order and bringing fair justice to those who deserved it. One day, a <span class='pseudolink' onclick=searchName('Lira')>half blood girl</span> came to take on the White Beast. Seeing through to her troubled heart, torn between two peoples who wouldn't accept her, the white beast advised her to act on her own behalf. Having opened her heart at these words, the white beast chose then to go along with her and keep watch over her.",
-        "A white beast who served as the keeper of order and helped maintain peace. He headed to the battlefield with <span class='pseudolink' onclick=searchName('Lira')>Lira</span> and <span class='pseudolink' onclick=searchName('Gravion')>Golem</span> where the Rebel Angel had already unleashed the disastrous beast. When they arrived, however, it was Elsel herself who was waiting for them. Going ahead of Lira and Golem, the white beast was the first to confront the Rebel Angel. Seeing through to how she was struggling with her newfound freedom, the white beast took on the brunt of her attack as he attempted to persuade her to stop.",
-        "Despite being the Keeper of Order, this white beast bore his fangs to the gods. He disappeared after his battle with a certain angel, but appeared once again after the gods began their invasion. It is said his appearance had changed, and he was able to release his full power. Having recovered, pure white wings spread from his back as he raced toward the <span class='pseudolink' onclick=searchName('Lira')>Half Blood Girl</span> and the Rebel Angel who continued to resist the gods' invasion. As he fought alongside them the two, it is said the White Beast's roar rattled even the gods themselves."
+        "A white beast who served as the keeper of order and helped maintain peace. He headed to the battlefield with <span class='pseudolink' onclick=searchName('Lira')>Lira</span> and <span class='pseudolink' onclick=searchName('Gravion')>Golem</span> where the <span class='pseudolink' onclick=searchName('Griel')>Rebel Angel</span> had already unleashed the disastrous beast. When they arrived, however, it was Elsel herself who was waiting for them. Going ahead of Lira and Golem, the white beast was the first to confront the Rebel Angel. Seeing through to how she was struggling with her newfound freedom, the white beast took on the brunt of her attack as he attempted to persuade her to stop.",
+        "Despite being the Keeper of Order, this white beast bore his fangs to the gods. He disappeared after his battle with a certain angel, but appeared once again after the gods began their invasion. It is said his appearance had changed, and he was able to release his full power. Having recovered, pure white wings spread from his back as he raced toward the <span class='pseudolink' onclick=searchName('Lira')>Half Blood Girl</span> and the <span class='pseudolink' onclick=searchName('Griel')>Rebel Angel</span> who continued to resist the gods' invasion. As he fought alongside them the two, it is said the White Beast's roar rattled even the gods themselves."
       ]
     },
     "related": [
@@ -2920,6 +2920,112 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Gravion')>Gravion</span>",
       "<span class='pseudolink' onclick=searchName('Griel')>Griel</span>",
       "<span class='pseudolink' onclick=searchName('Bordebegia')>Bordebegia</span>"
+    ]
+  },
+  "Lira": {
+    "name": "Lira",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lira",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=425",
+    "batch": "Beauties and Beasts",
+    "element": "Dark",
+    "home": "Other (Unspecified)",
+    "ids": [60273, 60274, 60275],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Half Blood Lira", "Magistra Lira", "God Eater Lira"],
+      "LS": ["Epidemic Wave", "Pandemic Spread", "Epidemic Power"],
+      "BB": ["Demon Slash", "Demon Execution", "Demon Consumption"],
+      "SBB": ["Damnation"],
+      "story": [
+        "A girl with a human mother and demon father. Having lost both her parents at an early age Lira spent her days living in a demon village even despite the harsh gazes she received from those around her. Doing everything she could as a demon in order to survive, one day she was given a new responsibility. She was to defeat the <span class='pseudolink' onclick=searchName('Leorone')>White Beast</span>. Apathetic as always, Lira headed out with <span class='pseudolink' onclick=searchName('Gravion')>Golem</span>, which she had received from her father, to face the White Beast.",
+        "A girl with a human mother and demon father. As a demon she challenged the <span class='pseudolink' onclick=searchName('Leorone')>White Beast</span>, but during her fight she couldn't completely ignore her human half. Lost, having given up on the only life she'd ever known, she was asked by the White Beast to help vanquish a <span class='pseudolink' onclick=searchName('Bordebegia')>disastrous beast</span>. With <span class='pseudolink' onclick=searchName('Gravion')>Golem</span>, which her father had left behind, by her side as always, she bravely nodded as if this were her chance to make up for her sins.",
+        "The daughter of a human mother and a demon father. Watching from the house her father left her as the humans lived in peace, one day Lira came across a journal. It was filled with loving words between her mother and father. As the gods' invasion began, Lira, along with her improved <span class='pseudolink' onclick=searchName('Gravion')>magical puppet</span>, headed to the battlefield to protect the world that her parents so loved. Lira is recorded by the humans as being like a god eater, having buried countless numbers of gods."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beauties_and_Beasts')>Beauties and Beasts</span>",
+      "<span class='pseudolink' onclick=searchName('Leorone')>Leorone</span>",
+      "<span class='pseudolink' onclick=searchName('Gravion')>Gravion</span>",
+      "<span class='pseudolink' onclick=searchName('Bordebegia')>Bordebegia</span>"
+    ]
+  },
+  "Farlon": {
+    "name": "Farlon",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Farlon",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=447",
+    "batch": "Guardians of the Gods",
+    "element": "Fire",
+    "home": "Other (Unspecified)",
+    "ids": [10333, 10334, 10335],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Red Slash Farlon", "Red Blade Farlon", "Red Swordsman Farlon"],
+      "LS": ["Fire Spirit's Power", "Fire God's Power", "Burning Unity"],
+      "BB": ["Aggressor Funnel", "Fjord Luge", "Red Ignition"],
+      "SBB": ["Crimson Wing"],
+      "story": [
+        "The 12 Guardians of the Gods, made up of the most talented people from across every country. Farlon, one of the them, had absolute confidence in his abilities. As a young man he was usually very polite, but he was very competitive when it came to his comrades, and it's said he refused to open up to any of the other Guardians other than his <span class='pseudolink' onclick=searchName('Ramna')>sweetheart</span>. It has also been told that he held strong ill will against the <span class='pseudolink' onclick=searchName('Sodis')>leader of the Guardians</span>.",
+        "Wielding both blade and fire, he chased after the one who betrayed the Guardians. It's said that when a report came concerning the traitor, <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>, he was pleased by opportunity he'd been handed. He brushed off his <span class='pseudolink' onclick=searchName('Ramna')>sweetheart</span> as she tried to stop him before heading off to vanquish Sodis, only to be defeated instead. It's even said that Sodis had to hold back so that he didn't accidentally kill him. His pride damaged and his anger out of control, Farlon then dedicated himself to defeating Sodis.",
+        "One of the 12 Guardians who wielded fire and his blade as he pursued the traitors. Hearing that his girlfriend <span class='pseudolink' onclick=searchName('Ramna')>Ramna</span> had betrayed the gods and left their land, filled with rage he chased after the traitors, not even leaving time for his wounds to heal. He directed his angry flames toward his former allies who now sided with <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>. It's said that even his girlfriend's heartfelt plea couldn't change his mind. In the end, no one knows upon whom or what his angry blade fell."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Ramna')>Ramna</span>",
+      "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>"
+    ]
+  },
+  "Raydn": {
+    "name": "Raydn",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Raydn",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=503",
+    "batch": "Guardians of the Gods",
+    "element": "Water",
+    "home": "Other (Unspecified)",
+    "ids": [20353, 20354, 20355],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Spear Fist Raydn", "Spear Arms Raydn", "Spear King Raydn"],
+      "LS": ["Water Spirit's Power", "Water God's Power", "Freezing Unity"],
+      "BB": ["Flood Horn", "Atlantis", "Flood Gate"],
+      "SBB": ["Niflheimr"],
+      "story": [
+        "A young spearman who had been newly recruited into the 12 Guardians. It's said the dexterous dual spear-wielder was <span class='pseudolink' onclick=searchName('Alyut')>Alyut's</span> closest friend. The prudishly polite Raydn was expected to be lieutenant to the future leader Alyut who was currently second in line to command. He worked hard to live up to these expectations, eventually attaining abilities that rivaled even <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>.",
+        "The cool-headed Guardian with superior spear wielding skills who chased after the traitors. Not even word of <span class='pseudolink' onclick=searchName('Sodis')>Sodis'</span> betrayal stirred him as he then proceeded to investigate his movements, guessing at why he might've rebelled. Once he received instructions from the gods via his <span class='pseudolink' onclick=searchName('Alyut')>good friend</span> to track down and vanquish the traitors, without hesitation he joined the fight against them. Though he held much doubt in his heart, he couldn't help but assist his dear friend.",
+        "The cool-headed Guardian with superior spear wielding skills who fought for his good friend. Upon seeing <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span> he realized instantly that he had no ill will towards him. However, he countered any who dare interfere in the fight between Sodis and his <span class='pseudolink' onclick=searchName('Alyut')>friend</span> who wished to fight him one on one. There are some who say he sided with the traitors, noting that at one point he vanquished a horde of priests who had come to defeat Sodis."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Alyut')>Alyut</span>",
+      "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>"
+    ]
+  },
+  "Ophelia": {
+    "name": "Ophelia",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Ophelia",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=506",
+    "batch": "Guardians of the Gods",
+    "element": "Earth",
+    "home": "Other (Unspecified)",
+    "ids": [30343, 30344, 30345],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Battle Girl Ophelia", "War Girl Ophelia", "War Queen Ophelia"],
+      "LS": ["Earth Spirit's Power", "Earth God's Power", "Earthly Unity"],
+      "BB": ["Folium Sky", "Grass Cage", "Infinite Ivy"],
+      "SBB": ["Yggdrasil"],
+      "story": [
+        "One of the 12 Guardians from a small remote nation. Having lived up to the expectations people held of her in her village of becoming a perfect warrior, it is said she avoided getting involved with others. Despite this, everyone admired her outstanding swordsmanship. Recently a diary has been discovered which is thought to have been written by her. It outlines the relationships between the other members of the 12 Guardians.",
+        "One of the 12 Guardians who desired to be a just warrior. When <span class='pseudolink' onclick=searchName('Alyut')>Alyut</span> received orders to track and vanquish the traitors, she followed him without hesitation. It's said that the weight and speed of her polished blade techniques surprised everyone around her. She was eventually stopped from carrying out her duty by one of her former allies, <span class='pseudolink' onclick=searchName('Signas')>Signas</span>. Though their intense fighting lasted several days, it's said the two wore a smile on their faces the entire time.",
+        "One of the 12 Guardians whose sense of righteousness led her to follow the gods. With no end in sight to her battle with <span class='pseudolink' onclick=searchName('Signas')>Signas</span>, their fight was interrupted by <span class='pseudolink' onclick=searchName('Grybe')>Grybe</span>. Though as filled with rage as she was chasing after him as he fled, the fact that he showed no intent of harming her confused her. It is said that upon overcoming this confusion her powers grew stronger than ever, but what exactly she decided on is not recorded in her diary."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Alyut')>Alyut</span>",
+      "<span class='pseudolink' onclick=searchName('Signas')>Signas</span>",
+      "<span class='pseudolink' onclick=searchName('Grybe')>Grybe</span>"
     ]
   }
 };
