@@ -18,7 +18,7 @@ var raw = {
       "story": [
       "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Proud of his late father, a Knight in the Order of Agni, he trained in the long sword, becoming a formidable knight. Although he is well-known for his countless victories over other warriors, he still considers himself inexperienced and continues to train with great zeal.",
       "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Vargas achieved strength through countless battles, eventually joining the Order of Agni like his father before him. Soon after, however, he was defeated by a <span class='pseudolink' onclick=searchName('Lava')>swordswoman</span> of the Order of Lava. Ashamed, he then left to train again and intensify his technique.",
-      "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Through harsh training, he mastered the use of a <span class='pseudolink' onclick=searchName('Dandelga')>fire-encased long sword</span> to make himself an even match to <span class='pseudolink' onclick=searchName('Lava')>Lava</span>, the swordswoman he once lost to. He's since become a drifter, not returning to the Order of Agni, but he still remains a legend.",
+      "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Through harsh training, he mastered the use of a <span class='pseudolink' onclick=searchName('Dandelga')>fire-encased long sword</span> to make himself an even match to <span class='pseudolink' onclick=searchName('Phoenix Wings Lava')>Lava</span>, the swordswoman he once lost to. He's since become a drifter, not returning to the Order of Agni, but he still remains a legend.",
       "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. As the battle with the gods began, he was at the front, cutting them down. His presence encouraged those terrified by the gods' strength, giving the humans a chance to counterattack. Continuing to lead the attack, Vargas, the savior of many, was counted as one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span> and was feared by even the gods.",
       "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span> and one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span> feared by even the gods. Even Vargas couldn't escape unscathed when faced with the impregnable forces of the gods. As he faded away, he heard <span class='pseudolink' onclick=searchName('Lava')>Lava's</span> distant voice, 'Take my wings. I don't need them anymore.' When he came to, he found blazing wings on his back, but Lava was nowhere in sight.",
       "Along with his friend's wings, Vargas headed towards the center of the battle against the gods only to find a <span class='pseudolink' onclick=searchName('Tia')>young girl</span> who hated humans running rampant in the forest. He defeated the girl while still wounded, later regretting having taken her life even after all the damage she had caused. At that moment a knight appeared before him, leading to an intense duel in which Vargas would obtain powers greater than those of a god. However, after hearing the knight speak he stopped fighting back, losing his life to the blade that struck him as he smiled. With no one to defend it, the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span> began to crumble after this hero's death."
@@ -27,8 +27,8 @@ var raw = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>",
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
-      "<span class='pseudolink' onclick=searchName('Lava')>Lava</span>",
-      "<span class='pseudolink' onclick=searchName('Tia')>Tia</span>",
+      "<span class='pseudolink' onclick=searchName('Phoenix Wings Lava')>Lava</span>",
+      "<span class='pseudolink' onclick=searchName('Guardian Goddess Tia')>Tia</span>",
       "<span class='pseudolink' onclick=searchName('Dandelga')>Dandelga</span>"
     ],
   },
@@ -1116,7 +1116,7 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
       "<span class='pseudolink' onclick=searchName('Vargas')>Vargas</span>",
       "<span class='pseudolink' onclick=searchName('Orwen')>Orwen</span>",
-      "<span class='pseudolink' onclick=searchName('Tia')>Tia</span>"
+      "<span class='pseudolink' onclick=searchName('Guardian Goddess Tia')>Tia</span>"
     ]
   },
   "Mega": {
@@ -2861,6 +2861,64 @@ var raw = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Beauties_and_Beasts')>Beauties and Beasts</span>",
       "<span class='pseudolink' onclick=searchName('Lira')>Lira</span>",
+      "<span class='pseudolink' onclick=searchName('Bordebegia')>Bordebegia</span>"
+    ]
+  },
+  "Griel": {
+    "name": "Griel",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Kushra",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=412",
+    "batch": "Beauties and Beasts",
+    "element": "Thunder",
+    "home": "Other (Unspecified)",
+    "ids": [40273, 40274, 40275, 40276],
+    "lore": {
+      "rare": [4, 5, 6, 7],
+      "names": ["Sky Angel Kushra", "Rebel Angel Elsel", "Havoc Angel Ronel", "Valkyrie Archangel Griel"],
+      "LS": ["Cleansing Breeze", "Divine Gale", "Eternal Life", "Eternal Divine Life"],
+      "BB": ["Angelic Wave", "Lost Cloud", "Lost Vision", "Lost Electric Plasma"],
+      "SBB": ["Angel of Destruction", "Angelic Thunder of Asgard"],
+      "UBB": "Rising Wings of Victory",
+      "ES": "True Freedom of Flight",
+      "story": [
+        "The angel who judged those who defied the gods. Kushra's powers far surpassed everyone else's, and it's unknown exactly how many magical beings she sealed away. The beautiful way she danced in the sky coupled with her thunderous twin blade attack was a nightmare come true for any who betrayed the gods. But as faithful to the gods as she was, upon meeting a raging beast that'd been sealed away, she did something bizarre. She was captivated by the <span class='pseudolink' onclick=searchName('Bordebegia')>Fiery Beast</span>, the power of which no one could ever truly restrain.",
+        "The angel who once judged those who defied the gods. She questioned the <span class='pseudolink' onclick=searchName('Bordebegia')>Fiery Beast</span> as it struggled having had its power sealed away. How the beast answered isn't precisely known, but on that day the angel decided to rebel. Having released the disastrous beast it's said that the angel was then confronted by a <span class='pseudolink' onclick=searchName('Leorone')>white beast</span> that she then defeated, though from that point forward there is no record of the angel who was now free.",
+        "Seeking her own freedom, this angel rebelled against the gods. There is no recorded trace of her after her battle with the Keeper of Order. However, there is a legend which likely points to her that speaks of an angel who came from the heavens and destroyed the gods. There are similarities between the angel and the girl from the legend said to have appeared with a flash of lightning, mowing down the gods with her twin blades. It has also been said that she fought alongside a <span class='pseudolink' onclick=searchName('Lira')>half blood girl</span> and a <span class='pseudolink' onclick=searchName('Bordebegia')>disastrous beast</span>, though no further details of this exist.",
+        "Seeking her own freedom, this angel rebelled against the gods. The last actions of the <span class='pseudolink' onclick=searchName('Bordebegia')>disastrous beast</span> that had been despised for so long awoke the power laying dormant within Griel. When the gods attacked her, the beast took the fatal blow in her stead, stating that 'our will shall always remain free, as no one can take it from us' while it perished with a smile on its face. Having learned the real meaning of freedom, she faced the gods with nothing left to fear, though she knew that this would eventually spell the end of her own life."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beauties_and_Beasts')>Beauties and Beasts</span>",
+      "<span class='pseudolink' onclick=searchName('Bordebegia')>Bordebegia</span>",
+      "<span class='pseudolink' onclick=searchName('Leorone')>Leorone</span>",
+      "<span class='pseudolink' onclick=searchName('Lira')>Lira</span>"
+    ]
+  },
+  "Leorone": {
+    "name": "Leorone",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lebra",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=423",
+    "batch": "Beauties and Beasts",
+    "element": "Light",
+    "home": "Other (Unspecified)",
+    "ids": [50303, 50304, 50305],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["White Lebra", "Lubradine", "Leorone"],
+      "LS": ["Intense Flash", "Intense Strobe", "Raging Might"],
+      "BB": ["Beast's Growl", "King Beast's Roar", "Beast Master's Roar"],
+      "SBB": ["White Moon"],
+      "story": [
+        "A white beast who served as the keeper of order and helped maintain peace. He was also known for keeping evil beings in order and bringing fair justice to those who deserved it. One day, a <span class='pseudolink' onclick=searchName('Lira')>half blood girl</span> came to take on the White Beast. Seeing through to her troubled heart, torn between two peoples who wouldn't accept her, the white beast advised her to act on her own behalf. Having opened her heart at these words, the white beast chose then to go along with her and keep watch over her.",
+        "A white beast who served as the keeper of order and helped maintain peace. He headed to the battlefield with <span class='pseudolink' onclick=searchName('Lira')>Lira</span> and <span class='pseudolink' onclick=searchName('Gravion')>Golem</span> where the Rebel Angel had already unleashed the disastrous beast. When they arrived, however, it was Elsel herself who was waiting for them. Going ahead of Lira and Golem, the white beast was the first to confront the Rebel Angel. Seeing through to how she was struggling with her newfound freedom, the white beast took on the brunt of her attack as he attempted to persuade her to stop.",
+        "Despite being the Keeper of Order, this white beast bore his fangs to the gods. He disappeared after his battle with a certain angel, but appeared once again after the gods began their invasion. It is said his appearance had changed, and he was able to release his full power. Having recovered, pure white wings spread from his back as he raced toward the <span class='pseudolink' onclick=searchName('Lira')>Half Blood Girl</span> and the Rebel Angel who continued to resist the gods' invasion. As he fought alongside them the two, it is said the White Beast's roar rattled even the gods themselves."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Beauties_and_Beasts')>Beauties and Beasts</span>",
+      "<span class='pseudolink' onclick=searchName('Lira')>Lira</span>",
+      "<span class='pseudolink' onclick=searchName('Gravion')>Gravion</span>",
+      "<span class='pseudolink' onclick=searchName('Griel')>Griel</span>",
       "<span class='pseudolink' onclick=searchName('Bordebegia')>Bordebegia</span>"
     ]
   }
