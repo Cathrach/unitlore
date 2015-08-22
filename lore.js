@@ -18,7 +18,7 @@ var raw = {
       "story": [
       "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Proud of his late father, a Knight in the Order of Agni, he trained in the long sword, becoming a formidable knight. Although he is well-known for his countless victories over other warriors, he still considers himself inexperienced and continues to train with great zeal.",
       "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Vargas achieved strength through countless battles, eventually joining the Order of Agni like his father before him. Soon after, however, he was defeated by a <span class='pseudolink' onclick=searchName('Lava')>swordswoman</span> of the Order of Lava. Ashamed, he then left to train again and intensify his technique.",
-      "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Through harsh training, he mastered the use of a <span class='pseudolink' onclick=searchName('Dandelga')>fire-encased long sword</span> to make himself an even match to <span class='pseudolink' onclick=searchName('Phoenix Wings Lava')>Lava</span>, the swordswoman he once lost to. He's since become a drifter, not returning to the Order of Agni, but he still remains a legend.",
+      "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, he later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. Through harsh training, he mastered the use of a <span class='pseudolink' onclick=searchName('Dandelga')>fire-encased long sword</span> to make himself an even match to <span class='pseudolink' onclick=searchName('Phoenix_Wings_Lava')>Lava</span>, the swordswoman he once lost to. He's since become a drifter, not returning to the Order of Agni, but he still remains a legend.",
       "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. As the battle with the gods began, he was at the front, cutting them down. His presence encouraged those terrified by the gods' strength, giving the humans a chance to counterattack. Continuing to lead the attack, Vargas, the savior of many, was counted as one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span> and was feared by even the gods.",
       "A swordsman from the ruined <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span> and one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span> feared by even the gods. Even Vargas couldn't escape unscathed when faced with the impregnable forces of the gods. As he faded away, he heard <span class='pseudolink' onclick=searchName('Lava')>Lava's</span> distant voice, 'Take my wings. I don't need them anymore.' When he came to, he found blazing wings on his back, but Lava was nowhere in sight.",
       "Along with his friend's wings, Vargas headed towards the center of the battle against the gods only to find a <span class='pseudolink' onclick=searchName('Tia')>young girl</span> who hated humans running rampant in the forest. He defeated the girl while still wounded, later regretting having taken her life even after all the damage she had caused. At that moment a knight appeared before him, leading to an intense duel in which Vargas would obtain powers greater than those of a god. However, after hearing the knight speak he stopped fighting back, losing his life to the blade that struck him as he smiled. With no one to defend it, the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span> began to crumble after this hero's death."
@@ -27,8 +27,8 @@ var raw = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>",
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
-      "<span class='pseudolink' onclick=searchName('Phoenix Wings Lava')>Lava</span>",
-      "<span class='pseudolink' onclick=searchName('Guardian Goddess Tia')>Tia</span>",
+      "<span class='pseudolink' onclick=searchName('Phoenix_Wings_Lava')>Lava</span>",
+      "<span class='pseudolink' onclick=searchName('Guardian_Goddess_Tia')>Tia</span>",
       "<span class='pseudolink' onclick=searchName('Dandelga')>Dandelga</span>"
     ],
   },
@@ -1116,7 +1116,7 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
       "<span class='pseudolink' onclick=searchName('Vargas')>Vargas</span>",
       "<span class='pseudolink' onclick=searchName('Orwen')>Orwen</span>",
-      "<span class='pseudolink' onclick=searchName('Guardian Goddess Tia')>Tia</span>"
+      "<span class='pseudolink' onclick=searchName('Guardian_Goddess_Tia')>Tia</span>"
     ]
   },
   "Mega": {
