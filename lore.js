@@ -1145,7 +1145,8 @@ var raw = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Old_Dogs')>Old Dogs</span>",
       "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
-      "<span class='pseudolink' onclick=searchName('Verica')>Verica</span>"
+      "<span class='pseudolink' onclick=searchName('Verica')>Verica</span>",
+      "<span class='pseudolink' onclick=searchName('Lucina')>Lucina</span>"
     ]
   },
   "Douglas": {
@@ -3263,4 +3264,58 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>"
     ]
   },
+  "Dia": {
+    "name": "Dia",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Dia",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=530",
+    "batch": "Might and Magic",
+    "element": "Fire",
+    "home": "Agni",
+    "ids": [10373, 10374, 10375],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Dark Arts Dia", "Dark Princess Dia", "Inferno Princess Dia"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Spirit"],
+      "BB": ["Curse One: Palica", "Curse Two: Lugana", "Curse Three: Polton"],
+      "SBB": ["Forbidden Curse: Methacronon"],
+      "story": [
+        "A mage residing in the outskirts of the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>, she learned the dark arts from her grandmother at a very young age. At the age of 14, she was blossoming into a powerful sorceress alongside her baby fire dragon Grazool, when her grandmother passed away. In her grandmother's storage closet was a vast library of both grimoires and romance novels. Her flashy way of dressing is either from the influence of her late grandmother or these books, but it has become commonplace for her nonetheless.",
+        "A mage raised in the outskirts of the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. One day, a letter of summons arrived from the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>, claiming her late grandmother had leaked imperial secrets. Hoping to clear her grandmother's name, she headed to the capital along with her faithful dragon Grazool. There, she had the shocking realization that her grandmother had been a famous Atharvaian sorceress. Through fighting off the gods' attacks in this complex emotional state, she realized she was far superior to any normal human mage.",
+        "A mage raised in the outskirts of the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. Her bravery in battle against the gods struck the fancy of <span class='pseudolink' onclick=searchName('Knight_Agni')>Knight Agni</span>, who invited her to join the Imperial Army. However, she refused, instead heading onward to her late grandmother's mansion in the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span> to find out more about her childhood hero. It was there she found her grandmother's hidden diary, containing the secrets of her birth. That was all it took for her and Grazool to charge straight at the gods at breakneck speed."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Might_and_Magic')>Might and Magic</span>",
+      "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
+      "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>"
+      "<span class='pseudolink' onclick=searchName('Knight_Agni')>Knight Agni</span>"
+    ]
+  },
+  "Lucina": {
+    "name": "Lucina",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lucina",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=533",
+    "batch": "Might and Magic",
+    "element": "Water",
+    "home": "Sama",
+    "ids": [20363, 20364, 20365],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Azure Blade Lucina", "Azure Warrior Lucina", "Azure Goddess Lucina"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Destruction"],
+      "BB": ["Cyclone Oath", "Varna Rising", "Mobius Wave"],
+      "SBB": ["Grand Tundra"],
+      "story": [
+        "A knight sworn to the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>, she was raised alone by her <span class='pseudolink' onclick=searchName('Mega')>navy general father</span>. At a young age, she was treated as a freak by others for her inability to control her innate magical powers. Though quiet and introverted, thanks to her father's training, her skills with the sword were rumored to eclipse even those of her dear friend <span class='pseudolink' onclick=searchName('Selena')>Selena</span>. Though she usually accepted Selena and her father's harsh words without a peep, on occasion she is said to have the mouth of a sailor.",
+        "A knight sworn to the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Her <span class='pseudolink' onclick=searchName('Mega')>father</span> started a civil war there, in hopes to purge the navy of its corruption. Unbeknownst to them, he was playing into the hands of their rival kingdom. Lucina and <span class='pseudolink' onclick=searchName('Selena')>Selena</span> spared no effort in trying to rescue him from the ravages of war. However, he vanished leaving a mysterious letter--one with the whereabouts of the mother she assumed to be dead.",
+        "A knight sworn to the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Relying on a letter left by her <span class='pseudolink' onclick=searchName('Mega')>father</span>, she learned through her travels that her mother was the daughter of the ruler of all the fauna in the oceanic depths. She knew she could deny her divine marine powers no longer, instead unleashing them when the war against the gods began. Rushing back to her friend's side in her homeland, her awakened prowess with the sword was enough to drive them away from <span class='pseudolink' onclick=searchName('Selena')>Selena</span> in an instant."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Might_and_Magic')>Might and Magic</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=searchName('Mega')>Mega</span>",
+      "<span class='pseudolink' onclick=searchName('Selena')>Selena</span>"
+    ]
+  }
 };
