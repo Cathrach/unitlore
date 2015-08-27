@@ -41,6 +41,8 @@ function buildList(unit) {
               loreTOP += '<br><b>ES: </b>' + value['lore']['ES'];
             }
           }
+          // loreTop += '<br><b>Fusion: </b>' + value['lore']['fusion'][item];
+          // loreTop += '<br><b>Evolution: </b>' + value['lore']['evolution'][item];
           loreTOP += '</div></div>';
         }
       } else {

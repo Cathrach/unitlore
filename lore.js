@@ -10,6 +10,8 @@ var raw = {
     "lore": {
       "rare": [2, 3, 4, 5, 6, 7],
       "names": ["Fencer Vargas", "Burning Vargas", "Fire King Vargas", "Fire God Vargas", "Holy Flame Vargas", "Flame Legend Vargas"],
+      // "fusion": [],
+      // "evolution": [],
       "LS": ["Fire Spirit's Power", "Fire Spirit's Power", "Fire God's Power", "Fire God's Power", "Fire Creator's Power", "Fire of Lore"],
       "BB": ["Flare Ride", "Flare Ride Plus", "Infinity Burst", "Infinity Nova", "Final Burst", "Flare Ride Climax"],
       "SBB": ["Sacred Sunshine", "Brave Savior"],
@@ -3027,5 +3029,238 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Signas')>Signas</span>",
       "<span class='pseudolink' onclick=searchName('Grybe')>Grybe</span>"
     ]
-  }
+  },
+  "Rina": {
+    "name": "Rina",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Rina",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=453",
+    "batch": "Guardians of the Gods",
+    "element": "Thunder",
+    "home": "Other (Unspecified)",
+    "ids": [40313, 40314, 40315],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Gold Warrior Rina", "Gold Knight Rina", "Gold Queen Rina"],
+      "LS": ["Thunder Spirit's Power", "Thunder God's Power", "Electrifying Unity"],
+      "BB": ["Elimination Shine", "Burial Shine", "Shocking Pulsar"],
+      "SBB": ["God Thunder"],
+      "story": [
+        "One of the 12 Guardians of the Gods. The 12 Guardians of the Gods, who were charged with protecting the land of the gods, were highly respected by the humans before the war with the gods broke out. Rina, known for her spear as well as her piety, was highly popular also due to her honest nature. There is an anecdote describing her personality in which <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>, leader of the Guardians, had told her to relax a bit, in response to which she did serious research on how to do so.",
+        "One of the 12 Guardians of the Gods who chased down traitors with her spear bestowed to her by the gods. Rina went into a rage at word of <span class='pseudolink' onclick=searchName('Sodis')>Sodis'</span> betrayal. She couldn't image a reason why Sodis would turn his back on the gods, not just as a member of the Guardians selected by them, but as their leader. To the righteous knight Rina there was no question in her mind that she had to vanquish Sodis and all those who followed him.",
+        "One of the 12 Guardians known for her piety. Her blade never wavered, even after her allies became her foes. But still, she was a little shaken by <span class='pseudolink' onclick=searchName('Sodis')>Sodis'</span> claim that the gods were trying to destroy the humans. Common opinion states that she said 'Well, if that is the will of the gods...' before unleashing more strength than she ever had before as she continued to fight. There are, however, some stories that tell that the 12 Guardians came to a reconciliation, and scholars continue to excavate documents in hopes of finding an answer to this mystery."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>"
+    ]
+  },
+  "Alyut": {
+    "name": "Alyut",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Alyut",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=512",
+    "batch": "Guardians of the Gods",
+    "element": "Light",
+    "home": "Other (Unspecified)",
+    "ids": [50403, 50404, 50405],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Light Blade Alyut", "Holy Warrior Alyut", "Divine Light Alyut"],
+      "LS": ["Light Spirit's Power", "Light God's Power", "Bright Unity"],
+      "BB": ["Holy Impulse", "Sacred Rain", "Astral Eden"],
+      "SBB": ["World of Light"],
+      "story": [
+        "One of the 12 Guardians and younger brother of their leader, <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>. He did his best in assisting his older brother, eventually becoming a Guardian himself. Though very skilled as a swordsman, his overly serious personality led many to see him as too strict. However, it was suspected that with experience he could surpass his brother as leader. It was also suggested in a diary which was discovered that he might have been in love with a childhood friend, though the truth about this is unknown.",
+        "One of the 12 Guardians, charged with vanquishing the traitors. As unable as he was to believe in his <span class='pseudolink' onclick=searchName('Sodis')>brother's</span> betrayal, he reaffirmed himself upon being made the Guardians' new leader. As he led the remaining Guardians from the land of the gods, it is said that once he faced his brother not a trace of distress appeared on his face. However, in certain historical texts it is written that he displayed great anger towards his brother who had betrayed his trust, and that he even volunteered to track down and defeat him.",
+        "One of the 12 Guardians, charged with vanquishing the traitors. The battle with his traitor <span class='pseudolink' onclick=searchName('Sodis')>brother</span> got more out of control than anyone had expected. It's said a smile came across Alyut's face as he and his brother exchanged death blows. After several hours, Alyut put all he had into one final blow which Sodis then took directly. Sodis then spoke to his younger brother who sat listening, unaware of the presence lurking in his own shadow."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>"
+    ]
+  },
+  "Lunaris": {
+    "name": "Lunaris",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lunaris",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=457",
+    "batch": "Guardians of the Gods",
+    "element": "Dark",
+    "home": "Other (Unspecified)",
+    "ids": [60313, 60314, 60315],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Dark Charm Lunaris", "Dark Curse Lunaris", "Black Lotus Lunaris"],
+      "LS": ["Dark Spirit's Power", "Dark God's Power", "Dark Unity"],
+      "BB": ["Cruel Invitation", "Death's Invitation", "Hypnos"],
+      "SBB": ["Tartaros"],
+      "story": [
+        "One of the 12 Guardians of the Gods, protectors of the land of the gods. Friends with Sodis and his younger brother since childhood, it is theorized that she held a special interest in the older Sodis. Once he was selected to be in the Guardians, she worked towards getting in as well. Though she was known for her ability to manipulate shadows as well as her magnificent lance wielding abilities, she was also very family-oriented and thoughtful, and it's said she was the mother figure of the 12 Guardians.",
+        "One of the 12 Guardians, wielding a lance and the power to manipulate shadows. Thinking there's a chance there was just some misunderstanding, upon hearing of Sodis' betrayal she did her best to calmly assess the situation. However, after seeing Farlon wounded and finding out how many others had defected as well, she came to accept the insurrection was real. Sad that Sodis hadn't requested her council at all, Lunaris was encouraged by Sodis' younger brother and it's said she decided to defeat the traitors as a member of the Guardians.",
+        "One of the 12 Guardians, wielding a lance and the power to manipulate shadows. She chased after the traitor Sodis alongside his brother and her childhood friend, Alyut. She thought for a moment she might try to persuade the man who was so kind to her before, but she determined regardless of how he reacted the gods would never forgive him. As she gathered her magical power and prepared to release one of her hidden shadow techniques, she said, 'If it must be done, then I shall do it', as she realized herself that she would clash swords with Sodis."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>",
+      "<span class='pseudolink' onclick=searchName('Alyut')>Alyut</span>",
+      "<span class='pseudolink' onclick=searchName('Farlon')>Farlon</span>"
+    ]
+  },
+  "Ramna": {
+    "name": "Ramna",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Ramna",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=500",
+    "batch": "Guardians of the Gods",
+    "element": "Fire",
+    "home": "Other (Unspecified)",
+    "ids": [10363, 10364, 10365],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Fire Step Ramna", "Fire Dance Ramna", "Fire Samba Ramna"],
+      "LS": ["Earth's Protection", "Earth Barrier", "Earth's Conviction"],
+      "BB": ["Dancing Sword", "Blazing Moves", "Fiery Ballet"],
+      "SBB": ["Cremation Waltz"],
+      "story": [
+        "One of the 12 Guardians of the Gods, protectors of the land of the gods. Girlfriend of <span class='pseudolink' onclick=searchName('Farlon')>Farlon</span>, another of the 12 Guardians. Loved by all, it's said she always retained hope even when confronted with hardship, reassuring her allies with her smile. Her fire blade technique known as the 'Fire Step' which she created using a unique rhythm was hard for even advanced warriors to evade. It's said that even the hard-headed, self-important Farlon couldn't refuse her requests.",
+        "A former Guardian who attempted to put a halt to the gods' plan to destroy the humans. Worried about her <span class='pseudolink' onclick=searchName('Farlon')>lover</span> she followed him as he set off to vanquish the <span class='pseudolink' onclick=searchName('Sodis')>traitor</span>, but she instead came face to face with him in the wake of her lover's defeat. Upon asking why he'd rejected the gods, his reasoning made her decide to join him in his fight. She also determined that she would try to convince her lover as well, who would surely come to attack the traitor again once he was healed.",
+        "A former Guardian who attempted to stop the gods' plan to destroy the humans. Leaving the land of the gods as a traitor, her <span class='pseudolink' onclick=searchName('Farlon')>lover</span>, now her enemy, appeared before her. Clashing swords with a man who now saw her as a traitor, she risked her life trying to persuade him to change. There is no record depicting how the volcanic clashing of these star-crossed lovers ended. However, a recently discovered diary suggests that they may have possibly made up in the end."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Farlon')>Farlon</span>",
+      "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>"
+    ]
+  },
+  "Signas": {
+    "name": "Signas",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Signas",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=449",
+    "batch": "Guardians of the Gods",
+    "element": "Water",
+    "home": "Other (Unspecified)",
+    "ids": [20323, 20324, 20325],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Snow Cub Signas", "Snow Lion Signas", "Snow Queen Signas"],
+      "LS": ["Fire's Protection", "Fire Barrier", "Fire's Conviction"],
+      "BB": ["Molte Nix", "Molte Anima", "Molte Zeus"],
+      "SBB": ["Molte Signas"],
+      "story": [
+        "One of the 12 Guardians of the Gods. Signas, who grew up alone in the freezing cold mountains, detested being with humans. The only one she opened her heart to was <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>, the person who brought her into the 12 Guardians and the one person who understood her. He didn't require Signas to act as part of the group, instead allowing her to follow her own thoughts and will. In this, she was different from the other Guardians, acting not of divine will but of her own judgement.",
+        "A former Guardian who turned her aim on the gods themselves. She acted quickly after getting word of <span class='pseudolink' onclick=searchName('Sodis')>Sodis'</span> defection. Quickly rushing to his side, she cut down all those who were chasing after him. Afterwards scholars would say that she believed more in him than she ever had in the gods and that, even if he should become the bad guy, she would put her life on the line to follow him.",
+        "A former Guardian who turned her aim on the gods themselves. Signas' unwielding blade cut down what were once her allies. Many of the Guardians had never seen her fight before, and her strange movements made her difficult to fight. Though not recorded in any history books, there is a legend that says that Signas, having survived the clash of the Guardians, traveled from country to country, preparing warriors whose names would one day be famous for the invasion of the gods."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>",
+      "<span class='pseudolink' onclick=searchName('Vargas')>Vargas</span>"
+    ] 
+  },
+  "Luly": {
+    "name": "Luly",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Luly",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=451",
+    "batch": "Guardians of the Gods",
+    "element": "Earth",
+    "home": "Other (Unspecified)",
+    "ids": [30313, 30314, 30315],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Havoc Girl Luly", "Havoc Queen Luly", "Havoc God Luly"],
+      "LS": ["Thunder's Protection", "Thunder Barrier", "Thunder's Conviction"],
+      "BB": ["Forest's Force", "Jungle Rage", "World's Power"],
+      "SBB": ["Land of Origin"],
+      "story": [
+        "One of the 12 Guardians of the Gods, guardians of the land of the gods. Born with great magical powers, her parents, who wanted her to use them justly, left her to the care of a priest. Though she learned to control her powers early on, she was still mentally unstable, often acting in ways which were hard for others to understand. This didn't change even after she joined the Guardians, and it's said she was often lectured by <span class='pseudolink' onclick=searchName('Lunaris')>Lunaris</span>.",
+        "A talented magician and former Guardian who rebelled against the gods. When <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span> defected Luly was quick to offer help as she thought it might be fun. She saw all gods, humans, monsters, and even plants as equal, and it's doubtful she even understood what treason meant. Because of this it's said that even when her friends came to fight each other on the battlefield she was able to wield her magical powers without constraint, and enjoyed the battle from the bottom of her heart.",
+        "A destructive earth magic wielding former Guardian who rebelled against the gods. Having sided with <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span> as a traitor against the gods, she battled fiercely with their pursuers. Declaring she was bored, she put the rest of her magic power into one final attack completely blowing away all of <span class='pseudolink' onclick=searchName('Alyut')>Alyut's</span> followers. With only the 12 Guardians left, Luly sank to the ground with a discouraged look on her face where she gazed on as the others fought on."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Lunaris')>Lunaris</span>",
+      "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>",
+      "<span class='pseudolink' onclick=searchName('Alyut')>Alyut</span>"
+    ]
+  },
+  "Grybe": {
+    "name": "Grybe",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Grybe",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=509",
+    "batch": "Guardians of the Gods",
+    "element": "Thunder",
+    "home": "Other (Unspecified)",
+    "ids": [40343, 40344, 40345],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Mech Arms Grybe", "Mech Cannon Grybe", "Mech God Grybe"],
+      "LS": ["Water's Protection", "Water Barrier", "Water's Conviction"],
+      "BB": ["Atom Ovis", "Atom Cannon", "Grand Spirit"],
+      "SBB": ["Final Blaster"],
+      "story": [
+        "A silent marksman selected to the 12 Guardians despite being from the otherworld. Though his appearance frightened many, <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span> admired his kindness and strength and invited him into the Guardians. Though many opposed his entry, Sodis went along and appointed him anyway. The priests also opposed allowing a foreigner into the land of the gods for a long time, though his personality and strength saw his opposers grow fewer in number.",
+        "A former Guardian, born in the otherworld. Unable to accept that his <span class='pseudolink' onclick=searchName('Sodis')>mentor</span> was a traitor, he left with <span class='pseudolink' onclick=searchName('Ramna')>Ramna</span>, who was worried about Farlon, to search for Sodis. Then, together with Ramna, after hearing Sodis' reasoning they silently shook his hand in agreement. Though he would now become enemies with his former allies, in protecting Sodis it is said that he never once pointed his gun at those who opposed him.",
+        "A former Guardian who followed the man who went against the gods. His essence as a warrior came from his sculpted physique and his otherworldly ability to create and wield incredibly strong mechanical weapons. Though it's said he never fired on his friends, in order to divert the attention of the Guardians who refused to listen to each other as they continued fighting, he aimed toward the sky and unleashed a torrent of electrified bullets. The thunderous cloud of bullets blew away the dark clouds, leaving a streak of light over the battlefield."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>",
+      "<span class='pseudolink' onclick=searchName('Ramna')>Ramna</span>"
+    ]
+  },
+  "Sodis": {
+    "name": "Sodis",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Sodis",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=455",
+    "batch": "Guardians of the Gods",
+    "element": "Light",
+    "home": "Other (Unspecified)",
+    "ids": [50383, 50384, 50385],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Horseman Sodis", "Cavalryman Sodis", "Guardian Chief Sodis"],
+      "LS": ["Dark's Protection", "Dark Barrier", "Dark's Protection"],
+      "BB": ["Heavenly Flash", "Heretic Flash", "Blasphemy Flash"],
+      "SBB": ["Light of Destruction"],
+      "story": [
+        "Leader of the 12 Guardians of the Gods, protectors of the land of the gods. As broad-minded as he was strong, his thoughtfulness for his comrades led to him being greatly admired by many. Though his personality seemed frank to those around him, many were overwhelmed by the solemn air about him. He would try to reassure nervous allies with a joke here and there, but it seems this only made them more anxious. There's a rumor that <span class='pseudolink' onclick=searchName('Lunaris')>Lunaris</span> would often laugh at this as she found it highly amusing.",
+        "Former leader of the 12 Guardians of the Gods who rebelled against the gods. His betrayal split the Guardians into two groups and former comrades were forced to clash swords. There is a theory that states that the battle between the Guardians greatly angered the gods and may have played a part in the gods deciding to destroy the humans. Still yet another theory, unpopular as it may be, states that the reason Sodis turned on the gods was because he found out about the gods' plans to destroy the humans, though little documentation supports this.",
+        "Former leader of the 12 Guardians of the Gods who rebelled against the gods. There are many things that remain unknown about this traitor towards the end of his life. There are many theories ranging from him having clashed with his <span class='pseudolink' onclick=searchName('Alyut')>brother</span>, to having been attacked by a <span class='pseudolink' onclick=searchName('Lunaris')>woman who had loved him</span>, to having refused to fight his friends and losing his life, though the truth is yet unknown. All that remains consistent throughout is his great display of strength. Some hypothesize that his strength was so great it scared even the gods which is why little documentation on him remains."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Lunaris')>Lunaris</span>",
+      "<span class='pseudolink' onclick=searchName('Alyut')>Alyut</span>"
+    ]
+  },
+  "Zephyr": {
+    "name": "Zephyr",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zephyr",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=515",
+    "batch": "Guardians of the Gods",
+    "element": "Dark",
+    "home": "Other (Unspecified)",
+    "ids": [60353, 60354, 60355],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Dark Blade Zephyr", "Dark Warrior Zephyr", "Dark Warlord Zephyr"],
+      "LS": ["Light's Protection", "Light Barrier", "Light's Conviction"],
+      "BB": ["Dark Cut", "Dark Hack", "Dark Slash"],
+      "SBB": ["Black Nemesis"],
+      "story": [
+        "One of the 12 Guardians of the Gods, protectors of the land of the gods. This magician's seniority matched that of <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>, and even his power was said to rival him. However he wasn't conceited in his strength and chose simply to carry out his own role, supporting the ever popular Sodis as he purposely remained a step behind. It's believed that this cool-headed and smart Guardian in fact served as an officer, and was highly regarded while Sodis stood as leader.",
+        "A former Guardian who rebelled against the gods. Hearing of <span class='pseudolink' onclick=searchName('Sodis')>Sodis'</span> betrayal he immediately began looking for him, hoping to meet him face to face to hear his reasoning. Coming to believe in the righteousness of Sodis' cause, Zephyr left his side to collect information. Upon returning, Zephyr saw that more of his Guardians friends had joined him in believing in Sodis. He smiled in realizing that he had chosen the correct path.",
+        "A former Guardian who rebelled against the gods. As the fighting between the 12 Guardians broke out, he continued his investigation into what <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span> had said about the gods planning to destroy the humans. Whether or not he found out the truth is unknown, but there is extremely little documentation concerning Zephyr after that point. One theory states that after attaining proof of the gods' invasion, Zephyr returned to find the battle between the Guardians had ended, and soon afterwards the army of gods began their attack."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Guardians_of_the_Gods')>Guardians of the Gods</span>",
+      "<span class='pseudolink' onclick=searchName('Sodis')>Sodis</span>"
+    ]
+  },
 };
