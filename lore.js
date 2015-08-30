@@ -3344,5 +3344,87 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Gunner_Douglas')>Douglas</span>"
     ]
   },
-  
+  "Bran": {
+    "name": "Bran",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Bran",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=539",
+    "batch": "Might and Magic",
+    "element": "Thunder",
+    "home": "Atharva",
+    "ids": [40353, 40354, 40355],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Sage Bran", "Lightning Sage Bran", "Blaze Guru Bran"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Rage"],
+      "BB": ["Rising Flare", "Igneous Comet", "Blazing Crown"],
+      "SBB": ["God Riser"],
+      "story": [
+        "Legends remain in the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span> of this great sage. People came in droves to seek his council, for his wealth of knowledge rivaled that of World Tree Altro. Rumor has it that <span class='pseudolink' onclick=searchName('Weiss')>Weiss</span>, <span class='pseudolink' onclick=searchName('Shida')>Shida</span>, and <span class='pseudolink' onclick=searchName('Rashil')>Rashil</span> were former pupils of Bran's. However, the three would never admit it, perhaps because of his reputation of bigotry. Instead, a troubled look would cloud their faces whenever they heard his name.",
+        "Legends remain in the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span> of this great sage. He stubbornly ignored the invasion of the gods at first, until they infuriated him by destroying his favorite bakery. Instead of joining the army, he began a personal quest for vengeance. He was quite successful due to his well-honed technique and strategic expertise. When pressed by his army to formally recruit the sage, <span class='pseudolink' onclick=searchName('Weiss')>Weiss</span> shrugged them off, saying a volatile old man like him would be a liability.",
+        "Legends remain in the <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span> of this great sage. Even at the height of the gods' attacks, those by his side experienced nothing but victory. However, as the scope of these local battles was quite limited, few outsiders know their details. Toward the end of the great war, he brought a number of sacred items out from storage, using them to convert his wrath into pure devastation upon his enemies. There are various theories as to the source of his wrath. The thing certain is that his attack was encased in flames."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Might_and_Magic')>Might and Magic</span>",
+      "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Weiss')>Weiss</span>",
+      "<span class='pseudolink' onclick=searchName('Shida')>Shida</span>",
+      "<span class='pseudolink' onclick=searchName('Rashil')>Rashil</span>"
+    ]
+  },
+  "Themis": {
+    "name": "Themis",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Themis",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=542",
+    "batch": "Might and Magic",
+    "element": "Light",
+    "home": "La Veda",
+    "ids": [50413, 50414, 50415],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Prodigy Themis", "Unflinching Themis", "Worldly Themis"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Mercy"],
+      "BB": ["Dark Healing", "Demented Cure", "Eclipse Cure"],
+      "SBB": ["Star Galaxy"],
+      "story": [
+        "A sorceress from the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>, known to be a genius from an early age. Perhaps it was her protective upbringing, but she can be quite selfish, though she has the prowess to act differently in front of those she deems worthy. The cavalry leader <span class='pseudolink' onclick=searchName('Knight_Will')>Will</span> was the biggest object of her fancy, and he seemed to understand her. It is said that his brother, <span class='pseudolink' onclick=searchName('Aem')>Aem</span>, despised the sorceress.",
+        "A genius sorceress from the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>, known to have invaded the Bariura Empire by herself to prove her talents. There she was captured by the knight <span class='pseudolink' onclick=searchName('Magress')>Magress</span> and threatened repeatedly, though eventually expelled from the empire in one piece. While she was scared to tears on the inside, she is said to have been kicking and screaming the entire way to the border. Some even say that Magress was so impressed with her bravado that he personally shielded her from his empire's dark magicians.",
+        "A genius sorceress from the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span> who invaded the Bariura Empire by herself. Once home, while researching the spells she had purloined from the empire, she heard that the knight <span class='pseudolink' onclick=searchName('Magress')>Magress</span> had been banished. Rumor had it that he had protected a spy from the dark magicians of his empire and instead lead her away to safety. The complex emotions that rushed through her were enough to send her on her way back to the empire, ignoring the warnings of those around her as the great war began."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Might_and_Magic')>Might and Magic</span>",
+      "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
+      "<span class='pseudolink' onclick=searchName('Ivris')>Ivris</span>",
+      "<span class='pseudolink' onclick=searchName('Aem')>Aem</span>",
+      "<span class='pseudolink' onclick=searchName('Knight_Will')>Will</span>",
+      "<span class='pseudolink' onclick=searchName('Magress')>Magress</span>"
+    ]
+  },
+  "Eric": {
+    "name": "Eric",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Eric",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=545",
+    "batch": "Might and Magic",
+    "element": "Dark",
+    "home": "Bariura",
+    "ids": [60363, 60364, 60365],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Magic Riffs Eric", "Dark Tunes Eric", "Arcane Solo Eric"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Aggression"],
+      "BB": ["Soul Melody", "Eternity Soul", "Heaven's Soul"],
+      "SBB": ["Demons and Angels"],
+      "story": [
+        "A musician who wanders through the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. Few are aware of the fact that he was once a cavalry leader. Noticing his prowess at mesmerizing others, a dark magician granted him the ability to manipulate their souls with his melodies. However, he loathes this power and keeps it and his swordsmanship buried inside him, and he has since distanced himself from the emperor he loved. Modifications to his body make him appear far younger than he actually is.",
+        "A former cavalry leader who wanders through the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> as a musician. An old friend of Magress' father, he has lent the hero advice on numerous occasions when he was blinded by his quest for revenge. <span class='pseudolink' onclick=searchName('Magress')>Magress</span> never noticed, however, for Eric's youthful appearance always fooled him. He even fought alongside the locals in the war against the gods, though his modifications were starting to distort his power and cause it to run wild unbeknownst to him.",
+        "A former cavalry leader who wanders through the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> as a musician. When <span class='pseudolink' onclick=searchName('Magress')>Magress</span> took on the gods, he aided him from the shadows on numerous occasions. The more he used his altered powers, the stronger yet more uncontrollable they became. Though he despised his power, he used it to save others until his performances took on a life of their own. Legend has it his cursed melodies could possess the gods and force them to fight against each other."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Might_and_Magic')>Might and Magic</span>",
+      "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Magress')>Magress</span>"
+    ]
+  }
 };
