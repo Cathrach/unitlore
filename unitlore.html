@@ -217,7 +217,7 @@
     } else {
       for (var i in unitList) {
         for (var j in unitList[i]['names']) {
-          if (unitList[i]['names'][j].toLowerCase().replace(/\W/g, '').search(unit_name.toLowerCase()) != -1) {
+          if (unitList[i]['names'][j].toLowerCase().replace(/\W/g, '').search(unit_name.toLowerCase().replace(/\W/g, '')) != -1) {
             if (outputUnit.indexOf(unitList[i]) === -1) {
               outputUnit.push(unitList[i]);
             }
