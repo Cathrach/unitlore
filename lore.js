@@ -3317,5 +3317,32 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Mega')>Mega</span>",
       "<span class='pseudolink' onclick=searchName('Selena')>Selena</span>"
     ]
-  }
+  },
+  "Darvan": {
+    "name": "Darvan",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Darvan",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=536",
+    "batch": "Might and Magic",
+    "element": "Earth",
+    "home": "Vriksha",
+    "ids": [30353, 30354, 30355],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Iron Shield Darvan", "Steel Shield Darvan", "Impenetrable Shield Darvan"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Creation"],
+      "BB": ["Grand Wave", "Crack Hail", "Terra Flood"],
+      "SBB": ["Universal Decay"],
+      "story": [
+        "A mild-mannered general of the <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>, who spent ages protecting the throne from the calamity of war. An excellent warrior, he was trusted by royalty and vassals alike. Some say that the otherworldly gunslinger <span class='pseudolink' onclick=searchName('Gunner_Douglas')>Douglas</span> was allowed to run wild because of Darvan's protection. He forged his greenish armor out of some materials he found deep in the woods, though even he was unaware of their secret capabilities.",
+        "A mild-mannered general of the <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>, whose bolstered defenses, combined with <span class='pseudolink' onclick=searchName('Gunner_Douglas')>Douglas'</span> pulverizing attacks, drove the gods away time after time. The night before Douglas left to intercept the army of gods by himself, he confessed to Darvan that his armor was from another world. He also informed him that though Darvan could unleash his armor's full potential, controlling it would be a different ordeal altogether.",
+        "A mild-mannered general of the <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>, who was holding down the rearguard when he learned of his companion <span class='pseudolink' onclick=searchName('Gunner_Douglas')>Douglas'</span> demise on the battlefield. Remembering Douglas' last words about the true potential of his armor, he set it free, unleashing its power of Water in a one-man assault against the gods. Though he was able to force them to retreat temporarily, he hasn't been seen since."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Might_and_Magic')>Might and Magic</span>",
+      "<span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>",
+      "<span class='pseudolink' onclick=searchName('Gunner_Douglas')>Douglas</span>"
+    ]
+  },
+  
 };
