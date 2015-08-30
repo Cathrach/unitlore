@@ -3426,5 +3426,107 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
       "<span class='pseudolink' onclick=searchName('Magress')>Magress</span>"
     ]
+  },
+  "Luther": {
+    "name": "Luther",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Luther",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=561",
+    "batch": "God Usurpers",
+    "element": "Fire",
+    "home": "Other (Unspecified)",
+    "ids": [10443, 10444, 10445],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Luther", "Defiant Luther", "Defiant God Luther"],
+      "LS": ["Intense Flash", "Intense Strobe", "Raging Might"],
+      "BB": ["Ablation by Sword", "Gladius Noir", "Fullmetal Cross"],
+      "SBB": ["Inferno Sin"],
+      "story": [
+        "A fire god who tried to rebel against the higher ranking gods and paid for his transgression through a long period of incarceration. Although originally a lower ranking god, he drew the attention of the other gods thanks to his destructive ability on the battlefield. During the war with the humans, he was released in order to serve at the front lines. To him, fighting and destroying were his life, so he is said to have gladly taken the role he was given.",
+        "A fire god who tried to rebel against the higher ranking gods and paid for his transgression through a long period of incarceration. During the great war he continued to battle from the front lines, preferring to attack capital cities with gigantic fortresses and other similar places. Another account states that in order to satisfy his desire to destroy, he chose to fight in places that could take a lot of damage. Mercilessly burning everything that got in his path, he sent a shudder down the spine of every soldier.",
+        "A fire god who tried to rebel against the higher ranking gods and paid for his transgression through a long period of incarceration. After having destroyed numerous cities, he appeared in the Principality of Vriksha, where he confronted the <span class='pseudolink' onclick=searchName('Gunner_Douglas')>owner of a Gatling gun from another world</span>. Unfamiliar with the power of this weapon, Luther struggled with it at first. However, he proceeded to completely melt the bullets directed at him with the fire that enveloped him, rendering them useless. It is said that both the owner of the gun and the weapon itself were struck down in one fell swoop."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('God_Usurpers')>God Usurpers</span>",
+      "<span class='pseudolink' onclick=searchName('Gunner_Douglas')>Douglas</span>"
+    ]
+  },
+  "Phee": {
+    "name": "Phee",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Phee",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=564",
+    "batch": "God Usurpers",
+    "element": "Water",
+    "home": "Other (Unspecified)",
+    "ids": [20433, 20444,, 20445],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Phee", "Tyrant Phee", "Tyrant Goddess Phee"],
+      "LS": ["Monarch's Magic", "High Ruler's Magic", "Supreme Ruler's Magic"],
+      "BB": ["Rogue Flash", "Rogue Save", "Abraxas"],
+      "SBB": ["Tyrannical Prayer"],
+      "story": [
+        "A goddess that was once imprisoned for having committed a grave crime. According to legend, prior to the gods deciding to destroy humans, this god had preached that they were useless long before that. For this reason, she was considered more dangerous than other higher ranking gods, and her cooperation with <span class='pseudolink' onclick=searchName('Nalmika')>Nalmika's</span> transgression became the eventual cause of her imprisonment. During the time of the great war, she was released and given the mission to exterminate mankind, and she acknowledged it immediately, descending with Nalmika.",
+        "A goddess that was once imprisoned for having committed a grave crime. Having descended above ground, even when the gods were being invaded, she saw how the humans kept fighting each other, and re-confirmed her belief that humans were completely useless. Starting by destroying the fishing harbor of the Agni Empire with <span class='pseudolink' onclick=searchName('Nalmika')>Nalmika</span>, they made sure not a single soul could enter the city. After that, they went on a destructive rampage that was carried on in various famous places.",
+        "A goddess who was imprisoned by the gods. When she descended and destroyed numerous towns, she was ambushed in the Agni Empire by the <span class='pseudolink' onclick=searchName('Fire_God_Lava')>Fire God Lava</span>. However, Lava's attacks had no effect on Phee, and was instead put into a corner herself. Sensing her last moment was near, Lava handed over her wings to <span class='pseudolink' onclick=searchName('Vargas')>someone else</span>, inadvertently causing Phee to lose interest in facing her on the battlefield. Once Phee learned that Lava's fighting spirit had awaken once more, she sought her again in hopes of fighting her."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('God_Usurpers')>God Usurpers</span>",
+      "<span class='pseudolink' onclick=searchName('Nalmika')>Nalmika</span>",
+      "<span class='pseudolink' onclick=searchName('Fire_God_Lava')>Lava</span>"
+    ]
+  },
+  "Nalmika": {
+    "name": "Nalmika",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Nalmika",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=567",
+    "batch": "God Usurpers",
+    "element": "Earth",
+    "home": "Other (Unspecified)",
+    "ids": [30423, 30424, 30425],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Nalmika", "Ivy Nalmika", "Ivy Goddess Nalmika"],
+      "LS": ["Epidemic Wave", "Pandemic Spread", "Serious Epidemic"],
+      "BB": ["Brat Strike", "Killer Ball", "Deadly Chamomile"],
+      "SBB": ["Demon Tree Nargima"],
+      "story": [
+        "A goddess that was once imprisoned for having committed a grave crime. This goddess, who took a disliking to the daily conduct of humans, joined forces with the goddess <span class='pseudolink' onclick=searchName('Goddess_Emilia')>Emilia</span> in order to eliminate all humans by using carnivorous plants. She was imprisoned when she tried some of the plants above ground, causing great damage in the process. In the great war, she was promised her freedom if she lent her powers to eliminate humanity, a condition she agreed to happily in order to stand above ground next to her beloved older sister, Phee.",
+        "A goddess that was once imprisoned for having committed a grave crime. Tasked with the destruction of humanity during the great war, she fought as the spokeswoman for the flora that had been ignored and damaged by humans. She found the buildings made by humans 'repulsive' and continued to destroy them. On the other hand, she revived the plant life in the many lands she conquered, making it carnivorous in order for it to be able to defend itself.",
+        "A goddess that was once imprisoned for having committed a grave crime. She planted her carnivorous plants in the lands she had conquered, steadily helping to reduce the human population in those areas and resulting in Atharva Republic entrusting <span class='pseudolink' onclick=searchName('Goddess_Emilia')>Goddess Emilia</span> with her subjugation. However, Nalmika had grown too powerful thanks to all the surrounding land in her control and ultimately made a fool out of Emilia in battle. At that moment, a <span class='pseudolink' onclick=searchName('Thunder_God_Eze')>man</span> screaming in a loud voice defended Emilia from her predicament, and Nalmika ended up leaving the battlefield disinterested in such disruptions."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('God_Usurpers')>God Usurpers</span>",
+      "<span class='pseudolink' onclick=searchName('Tyrant_Goddess_Phee')>Phee</span>",
+      "<span class='pseudolink' onclick=searchName('Goddess_Emilia')>Emilia</span>"
+    ]
+  },
+  "Uda": {
+    "name": "Uda",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Uda",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=570",
+    "batch": "God Usurpers",
+    "element": "Thunder",
+    "home": "Other (Unspecified)",
+    "ids": [40423, 40424, 40425],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Uda", "Crusher Uda", "Crusher God Uda"],
+      "LS": ["Ares' Light", "Ares' Authority", "Ares' Excelsior"],
+      "BB": ["Mad Slayer", "No Mercy", "One on One"],
+      "SBB": ["Last Trade"],
+      "story": [
+        "A god that was once imprisoned for having committed a grave crime. Originally a high ranking god, Uda was expected to support the gods in their realm. However, after he slayed some lower ranking gods with one blow for slandering humans that worshipped them, he was imprisoned. Afterwards, he fought in the front lines during the great war, having been promised his release in return. He accepted this duty without much to say and descended to the battlefield.",
+        "A god that was once imprisoned by the other gods. When he descended to the battlefield, the armed forces he led won a series of battles one after the other. With his treasured sword on one hand, he showed absolutely no mercy to those who surrendered to him, including women and children, slaughtering them all. This made him a horrifying sight for human eyes. It is also said that whenever he found a powerful human on the battlefield, he would challenge that person to one on one combat, though the reason for this remains unknown. Some accounts state that he might've fought weak warriors in order to reconfirm his own power.",
+        "A god that was once imprisoned for having committed a grave crime. Setting many cities ablaze, he invaded the Sama Kingdom. Upon hearing that the <span class='pseudolink' onclick=searchName('Sea_King_Mega')>leader</span> of the Sama Kingdom army was a former pirate, he sought to challenge him one on one, but that man was struck down by someone else right in front of him. Being attacked with pure hatred by a <span class='pseudolink' onclick=searchName('Stya')>female pirate</span> instead, he realized that the male pirate had played right into a trap set by the gods. It is said that after this, Uda left the area with a dissatisfied look on his face."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('God_Usurpers')>God Usurpers</span>",
+      "<span class='pseudolink' onclick=searchName('Sea_King_Mega')>Mega</span>"
+    ]
   }
 };
