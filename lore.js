@@ -3528,5 +3528,5 @@ var raw = {
       "<span class='pseudolink' onclick=searchBatch('Fallen_Gods')>Fallen Gods</span>",
       "<span class='pseudolink' onclick=searchName('Sea_King_Mega')>Mega</span>"
     ]
-  }
+  },
 };
