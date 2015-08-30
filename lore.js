@@ -3431,7 +3431,7 @@ var raw = {
     "name": "Luther",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Luther",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=561",
-    "batch": "God Usurpers",
+    "batch": "Fallen Gods",
     "element": "Fire",
     "home": "Other (Unspecified)",
     "ids": [10443, 10444, 10445],
@@ -3448,7 +3448,7 @@ var raw = {
       ]
     },
     "related": [
-      "<span class='pseudolink' onclick=searchBatch('God_Usurpers')>God Usurpers</span>",
+      "<span class='pseudolink' onclick=searchBatch('Fallen_Gods')>Fallen Gods</span>",
       "<span class='pseudolink' onclick=searchName('Gunner_Douglas')>Douglas</span>"
     ]
   },
@@ -3456,7 +3456,7 @@ var raw = {
     "name": "Phee",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Phee",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=564",
-    "batch": "God Usurpers",
+    "batch": "Fallen Gods",
     "element": "Water",
     "home": "Other (Unspecified)",
     "ids": [20433, 20444,, 20445],
@@ -3473,7 +3473,7 @@ var raw = {
       ]
     },
     "related": [
-      "<span class='pseudolink' onclick=searchBatch('God_Usurpers')>God Usurpers</span>",
+      "<span class='pseudolink' onclick=searchBatch('Fallen_Gods')>Fallen Gods</span>",
       "<span class='pseudolink' onclick=searchName('Nalmika')>Nalmika</span>",
       "<span class='pseudolink' onclick=searchName('Fire_God_Lava')>Lava</span>"
     ]
@@ -3482,7 +3482,7 @@ var raw = {
     "name": "Nalmika",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Nalmika",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=567",
-    "batch": "God Usurpers",
+    "batch": "Fallen Gods",
     "element": "Earth",
     "home": "Other (Unspecified)",
     "ids": [30423, 30424, 30425],
@@ -3499,7 +3499,7 @@ var raw = {
       ]
     },
     "related": [
-      "<span class='pseudolink' onclick=searchBatch('God_Usurpers')>God Usurpers</span>",
+      "<span class='pseudolink' onclick=searchBatch('Fallen_Gods')>Fallen Gods</span>",
       "<span class='pseudolink' onclick=searchName('Tyrant_Goddess_Phee')>Phee</span>",
       "<span class='pseudolink' onclick=searchName('Goddess_Emilia')>Emilia</span>"
     ]
@@ -3508,7 +3508,7 @@ var raw = {
     "name": "Uda",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Uda",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=570",
-    "batch": "God Usurpers",
+    "batch": "Fallen Gods",
     "element": "Thunder",
     "home": "Other (Unspecified)",
     "ids": [40423, 40424, 40425],
@@ -3525,7 +3525,7 @@ var raw = {
       ]
     },
     "related": [
-      "<span class='pseudolink' onclick=searchBatch('God_Usurpers')>God Usurpers</span>",
+      "<span class='pseudolink' onclick=searchBatch('Fallen_Gods')>Fallen Gods</span>",
       "<span class='pseudolink' onclick=searchName('Sea_King_Mega')>Mega</span>"
     ]
   }
