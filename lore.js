@@ -3459,7 +3459,7 @@ var raw = {
     "batch": "Fallen Gods",
     "element": "Water",
     "home": "Other (Unspecified)",
-    "ids": [20433, 20444,, 20445],
+    "ids": [20433, 20444, 20445],
     "lore": {
       "rare": [4, 5, 6],
       "names": ["Phee", "Tyrant Phee", "Tyrant Goddess Phee"],
