@@ -1,4 +1,4 @@
-var raw = {
+var units = {
   "Vargas": {
     "name": "Vargas",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Vargas",
@@ -31,7 +31,7 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
       "<span class='pseudolink' onclick=searchName('Phoenix_Wings_Lava')>Lava</span>",
       "<span class='pseudolink' onclick=searchName('Guardian_Goddess_Tia')>Tia</span>",
-      "<span class='pseudolink' onclick=searchName('Dandelga')>Dandelga</span>"
+      "<span class='pseudolink' onclick=searchSphere('Dandelga')>Dandelga</span>"
     ],
   },
   "Selena": {
@@ -66,7 +66,7 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Lucina')>Lucina</span>",
       "<span class='pseudolink' onclick=searchName('Ulkina')>Ulkina</span>",
       "<span class='pseudolink' onclick=searchName('Arius')>Arius</span>",
-      "<span class='pseudolink' onclick=searchName('Lexida')>Lexida</span>"
+      "<span class='pseudolink' onclick=searchSphere('Lexida')>Lexida</span>"
     ]
   },
   "Lance": {
@@ -99,7 +99,7 @@ var raw = {
       "<span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>",
       "<span class='pseudolink' onclick=searchName('Veltrion')>Veltrion</span>",
       "<span class='pseudolink' onClick=searchName('Rowgen')>Rowgen</span>",
-      "<span class='pseudolink' onClick=searchName('Drevas')>Drevas</span>"
+      "<span class='pseudolink' onClick=searchSphere('Drevas')>Drevas</span>"
     ]
   },
   "Eze": {
@@ -133,7 +133,7 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Emilia')>Emilia</span>",
       "<span class='pseudolink' onclick=searchName('Behemoth')>Behemoth</span>",
       "<span class='pseudolink' onclick=searchName('Kuhla')>Kuhla</span>",
-      "<span class='pseudolink' onclick=searchName('Batootha')>Batootha</span>"
+      "<span class='pseudolink' onclick=searchSphere('Batootha')>Batootha</span>"
     ]
   },
   "Atro": {
@@ -167,7 +167,7 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Zelban')>Zelban</span>",
       "<span class='pseudolink' onclick=searchName('Kuda')>Kuda</span>",
       "<span class='pseudolink' onclick=searchName('Will')>Will</span>",
-      "<span class='pseudolink' onclick=searchName('Urias')>Urias</span>"
+      "<span class='pseudolink' onclick=searchSphere('Urias')>Urias</span>"
     ]
   },
   "Magress": {
@@ -202,7 +202,7 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Bahvel')>Bahvel</span>",
       "<span class='pseudolink' onclick=searchName('Narza')>Narza</span>",
       "<span class='pseudolink' onclick=searchName('Themis')>Themis</span>",
-      "<span class='pseudolink' onclick=searchName('Leomurg')>Leomurg</span>"
+      "<span class='pseudolink' onclick=searchSphere('Leomurg')>Leomurg</span>"
     ]
   },
   "Zegar": {
@@ -3539,7 +3539,7 @@ var raw = {
   	"ids": [50473, 50474, 50475],
   	"lore": {
   		"rare": [4, 5, 6],
-  		"names": ["Zellha", ],
+  		"names": ["Zellha", "Ruin Zellha", "Ruin Goddess Zellha"],
   		"LS": ["Monarch's Magic", "High Ruler's Magic", "Supreme Ruler's Magic"],
   		"BB": ["Destroy me...", "Before I...", "Destroy you..."],
   		"SBB": ["Light of Ruin"],
@@ -3571,7 +3571,7 @@ var raw = {
   		"SBB": ["Morteisma"],
   		"story": [
   			"A god that was once imprisoned for having committed a grave crime. Originally the god in charge of judgment, his sternness was feared even by the other gods themselves. Once he became aware of <span class='pseudolink' onclick=searchName('Zellha')>Zellha's</span> suspicious activities, he tried to stop her himself. However, Zellha had fed false information to the higher ranking gods, claiming that Kajah judged others based on his personal views, and was thus imprisoned unjustly. It is said that if there is one mistake he did make, it was doubting the fairness of his own judgment.",
-  			"A god that was once imprisoned for having committed a grave crime. Originally the god in charge of judgment, he came to be known as an evil god after committing a crime himself. While imprisoned he learned that <span class='pseudolink' onclick=searchName('Zellha')>Zellha</span> had descended to the battlefield, and concerned about the amount of damage that she could cause above ground, he asked a certain bad-mouthed, yet trustworthy, goddess to stop Zellha. Afterwards, during the great war between gods and men, he received orders from the higher ranking gods and followed them to the letter without any complaints or remarks.',
+  			"A god that was once imprisoned for having committed a grave crime. Originally the god in charge of judgment, he came to be known as an evil god after committing a crime himself. While imprisoned he learned that <span class='pseudolink' onclick=searchName('Zellha')>Zellha</span> had descended to the battlefield, and concerned about the amount of damage that she could cause above ground, he asked a certain bad-mouthed, yet trustworthy, goddess to stop Zellha. Afterwards, during the great war between gods and men, he received orders from the higher ranking gods and followed them to the letter without any complaints or remarks.",
   			"A god that was once imprisoned for having committed a grave crime. During the great war against the humans he learned that the goddess <span class='pseudolink' onclick=searchName('Zellha')>Zellha</span> set off to the oppressed Bariura Empire in order to settle a personal grudge. Fearing total chaos and annihilation of the area, Kajah prevented her from entering the empire, leaving him to carry out the same role in her stead. Having exposed himself as the god of judgment, he then had to strictly judge a great number of criminals and sinners mercilessly. He was greatly feared by many."
   		]
   	},
@@ -3581,3 +3581,14 @@ var raw = {
   	]
   }
 };
+
+var spheres = {
+  "Piany Flower": {
+    "id": 48200,
+    "thumbnail": "sphere_thum_5_1.png",
+    "story": "There was once a pixie named Piany who lived deep in the woods of the great forest east of the Vriksha Duchy. Though she never showed herself in front of humans, it is said she did trust a princess who loved nature. However, when a plague threatened to wipe out all of the people that the princess held so dearly, the pixie used forbidden demonic powers in order to help her. She then transformed herself into a flower that keeps all illnesses at bay.",
+    "related": [
+      "edea, who loves this sphere. jk. this is just for testing."
+    ]
+  }
+}

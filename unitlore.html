@@ -117,7 +117,7 @@
             <button class="btn" class="close" data-dismiss="modal">&times;</button>
           </div>
           <div class="modal-body">
-            <img src="#" style="width:60%"/>
+            <img src="#" style="width:80%"/>
           </div>
           <div class="modal-footer">
             <button class="btn" data-dismiss='modal'>Close</button>
@@ -130,13 +130,19 @@
       <span class='input-group-btn'>
         <button class='btn btn-primary' type='button' id='searchBatchBtn'>Search by batch</button>
       </span>
-      <input type='search' placeholder='batch name: e.g. Six_Heroes' class='form-control' id='searchBatchBox'>
+      <input type='search' placeholder='batch name: e.g. Six Heroes' class='form-control' id='searchBatchBox'>
     </div>
     <div class='input-group'>
       <span class='input-group-btn'>
         <button class='btn btn-primary' type='button' id='searchNameBtn'>Search by name</button>
       </span>
       <input type='search' placeholder='name: e.g. Alyut' class='form-control' id='searchNameBox'>
+    </div>
+    <div class='input-group'>
+      <span class='input-group-btn'>
+        <button class='btn btn-primary' type='button' id='searchSphereBtn'>Search sphere (the only sphere here is piany flower)</button>
+      </span>
+      <input type='search' placeholder='sphere: e.g. Piany Flower' class='form-control' id='searchSphereBox'>
     </div>
     <div class='container-fluid'>
       <div class='panel-group' id='unitTable'>
@@ -148,6 +154,8 @@
   <script type='text/javascript'>
 
   var imgPrePath = "http://v2.cdn.android.brave.a-lim.jp/";
+
+  var spherePrePath = "http://v2.cdn.android.brave.a-lim.jp/item/";
 
   function batchSelect(batch) {
     var outputUnit = [];
@@ -231,6 +239,24 @@
     }
   }
 
+  function searchSphere(sphere_name) {
+    var outputSphere = [];
+    var outputHTML = [];
+    if (sphere_name.length <= 2) {
+      $(unitTable).html('<h3><b>More than 2 characters please!</b></h3>');
+    } else {
+      for (var sphere in sphereList) {
+        if (sphereList[sphere]['name'].toLowerCase().replace(/\W/g, '').search(sphere_name.toLowerCase().replace(/\W/g, '')) != -1) {
+          outputSphere.push(sphereList[sphere]);
+        }
+      }
+      for (var i in outputSphere) {
+        outputHTML.push(outputSphere[i].collapsedInfo);
+      }
+      $(unitTable).html(outputHTML.join(' '));
+    }
+  }
+
   $(document).on('click', '#clearFilters', function(e) {
     unitList = [];
     buildList(raw);
@@ -239,7 +265,8 @@
 
   $(document).ready( function(e) {
     unitList = [];
-    buildList(raw);
+    buildList(units);
+    buildSphere(spheres);
 
     $( "#searchBatchBox" ).keypress( function(event) {
       if ( event.keyCode == 13 ) {
@@ -250,6 +277,12 @@
     $( "#searchNameBox" ).keypress( function(event) {
       if ( event.keyCode == 13 ) {
         searchName($('#searchNameBox').val());
+      }
+    })
+
+    $('#searchSphereBox').keypress (function(event) {
+      if (event.keyCode == 13) {
+        searchSphere($('#searchSphereBox').val());
       }
     })
   })
