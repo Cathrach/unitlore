@@ -22,7 +22,7 @@ function buildList(unitData) {
 
     nameSTR += ' ' + unitData[unit]['name']+'</a>: <span onclick=searchBatch("' + unitData[unit]['batch'].replace(/\W/g, '_') + '") class="pseudolink">' + unitData[unit]['batch'] + ' </span><span style="float: right; vertical-align: middle;"><a href="'+unitData[unit]['wiki']+'">Wiki</a> ' + '<a href="'+unitData[unit]['touchandswipe']+'">touchandswipe</a></span></h4></div><div id="unit'+collapseID+'" class="panel-collapse collapse"><div class="panel-body"><div class="container-fluid">';
 
-    var loreTOP = '<div class="row row-eq-height"><div class="col-xs-12 col-sm-12" style="background-color: #0099FF;"><h3 style = "text-align:left; color: white;"><b>Lore</b></h3></div></div>';
+    var loreTOP = '<div class="row row-eq-height"><div class="col-xs-12 col-sm-12" style="background: white; border-top: white; border-left: white; border-right: white; border-bottom: 10px solid black;"><h3 style = "text-align:left;"><b>Lore</b></h3></div></div>';
 
     for (var item in unitData[unit]['lore']['story']) {
       loreTOP += '<div class="row row-eq-height"><div class="col-md-2" style="vertical-align:center;"><b>' + unitData[unit]['lore']['rare'][item] + '<i class="fa fa-star"></i> Lore: ' + unitData[unit]['lore']['names'][item] + '</b></div>';
