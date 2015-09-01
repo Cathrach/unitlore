@@ -3554,5 +3554,30 @@ var raw = {
   		"<span class='pseudolink' onclick=searchName('Kajah')>Kajah</span>",
   		"<span class='pseudolink' onclick=searchName('Shida')>Shida</span>"
   	]
+  },
+  "Kajah": {
+  	"name": "Kajah",
+  	"wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Kajah",
+  	"touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=576",
+  	"batch": "Fallen Gods",
+  	"element": "Dark",
+  	"home": "Other (Unspecified)",
+  	"ids": [60473, 60474, 60475],
+  	"lore": {
+  		"rare": [4, 5, 6],
+  		"names": ["Kajah", "Evil Kajah", "Evil God Kajah"],
+  		"LS": ["Demon Power", "Demon God Power", "Supreme Demon Power"],
+  		"BB": ["Ade", "Due", "Damballa"],
+  		"SBB": ["Morteisma"],
+  		"story": [
+  			"A god that was once imprisoned for having committed a grave crime. Originally the god in charge of judgment, his sternness was feared even by the other gods themselves. Once he became aware of <span class='pseudolink' onclick=searchName('Zellha')>Zellha's</span> suspicious activities, he tried to stop her himself. However, Zellha had fed false information to the higher ranking gods, claiming that Kajah judged others based on his personal views, and was thus imprisoned unjustly. It is said that if there is one mistake he did make, it was doubting the fairness of his own judgment.",
+  			"A god that was once imprisoned for having committed a grave crime. Originally the god in charge of judgment, he came to be known as an evil god after committing a crime himself. While imprisoned he learned that <span class='pseudolink' onclick=searchName('Zellha')>Zellha</span> had descended to the battlefield, and concerned about the amount of damage that she could cause above ground, he asked a certain bad-mouthed, yet trustworthy, goddess to stop Zellha. Afterwards, during the great war between gods and men, he received orders from the higher ranking gods and followed them to the letter without any complaints or remarks.',
+  			"A god that was once imprisoned for having committed a grave crime. During the great war against the humans he learned that the goddess <span class='pseudolink' onclick=searchName('Zellha')>Zellha</span> set off to the oppressed Bariura Empire in order to settle a personal grudge. Fearing total chaos and annihilation of the area, Kajah prevented her from entering the empire, leaving him to carry out the same role in her stead. Having exposed himself as the god of judgment, he then had to strictly judge a great number of criminals and sinners mercilessly. He was greatly feared by many."
+  		]
+  	},
+  	"related": [
+  		"<span class='pseudolink' onclick=searchBatch('Fallen_Gods')>Fallen Gods</span>",
+  		"<span class='pseudolink' onclick=searchName('Zellha')>Zellha</span>"
+  	]
   }
 };
