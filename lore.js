@@ -3529,4 +3529,30 @@ var raw = {
       "<span class='pseudolink' onclick=searchName('Sea_King_Mega')>Mega</span>"
     ]
   },
+  "Zellha": {
+  	"name": "Zellha",
+  	"wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zellha",
+  	"touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=573",
+  	"batch": "Fallen Gods",
+  	"element": "Light",
+  	"home": "Other (Unspecified)",
+  	"ids": [50473, 50474, 50475],
+  	"lore": {
+  		"rare": [4, 5, 6],
+  		"names": ["Zellha", ],
+  		"LS": ["Monarch's Magic", "High Ruler's Magic", "Supreme Ruler's Magic"],
+  		"BB": ["Destroy me...", "Before I...", "Destroy you..."],
+  		"SBB": ["Light of Ruin"],
+  		"story": [
+  			"A goddess that deceived many of the other gods in order to use them. Many gods were tricked by her, including the Judge of Sin <span class='pseudolink' onclick=searchName('Kajah')>Kajah</span>, who, trying to blame her for her transgression, got imprisoned through false charges himself. There are many questions involving Zellha's peculiar actions, but some believe that instead of having an actual purpose behind her conduct, she really just enjoyed deceiving and tricking others in itself. Though her eccentric behavior stands out the most, there is no doubt that her powers were not inferior to those of the higher ranking gods.",
+  			"A goddess that wanted to deceive the other gods in order to use them. On a whim, she made her way to the Bariura Empire where she grew close to a <span class='pseudolink' onclick=searchName('Shida')>dark magician</span>. However, this magician turned the tables on her, using the goddess to gain her knowledge and power. Enraged, Zellha tried to use other higher ranking gods to seek revenge, but contrary to her expectations, the gods didn't budge and were captured instead. After that, regardless of her own intentions, she decided to destroy all humans, taking the initiative by heading towards the battlefield.",
+  			"A goddess that wanted to deceive the other gods in order to use them. With the desire for the destruction of humanity varying from god to god, she headed towards the empire where she herself was tricked by a <span class='pseudolink' onclick=searchName('Shida')>dark magician</span>. However, the one to stop her this time was a god that had already been fooled by her once--<span class='pseudolink' onclick=searchName('Kajah')>Kajah</span>. Fueled by his personal grudge against the goddess, he was able to stop her, making her flee angrily from the scene. 'Thanks to your intrusion, more humans suffered than were necessary.' were the only words she left behind."
+  		]
+  	},
+  	"related": [
+  		"<span class='pseudolink' onclick=searchBatch('Fallen_Gods')>Fallen Gods</span>",
+  		"<span class='pseudolink' onclick=searchName('Kajah')>Kajah</span>",
+  		"<span class='pseudolink' onclick=searchName('Shida')>Shida</span>"
+  	]
+  }
 };
