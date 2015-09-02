@@ -3611,7 +3611,7 @@ var units = {
     "name": "Mariudeth",
     "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Mariudeth",
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=613",
-    "batch": "Legend of Sehre",
+    "batch": "Sphere Legends",
     "element": "Water",
     "home": "Agni",
     "ids": [20453, 20454, 20455],
