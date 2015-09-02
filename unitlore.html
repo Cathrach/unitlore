@@ -73,7 +73,6 @@
           <li><a href='#' class='element'>Thunder</a></li>
           <li><a href='#' class='element'>Light</a></li>
           <li><a href='#' class='element'>Dark</a></li>
-          <li><a href='#' class='element'>Sphere</a></li> <!-- not really an element, I know. -->
         </ul>
       </div>
       <div class='btn-group'>
@@ -203,6 +202,7 @@
   function searchBatch(batch_name) {
     var outputUnit = [];
     var outputHTML = [];
+    batch_name = batch_name.trim();
     if (batch_name.length <= 2) {
       $(unitTable).html('<h3><b>More than 2 characters? Please?</b></h3>');
     } else {
@@ -221,8 +221,13 @@
   function searchName(unit_name) {
     var outputUnit = [];
     var outputHTML = [];
-    if (unit_name.length <= 2) {
-      $(unitTable).html('<h3><b>More than 2 characters? Please?</b></h3>');
+    unit_name = unit_name.trim();
+    if (unit_name.length == 0) {
+      for (var i in unitList) {
+        outputUnit.push(unitList[i]); 
+      }
+    } else if (unit_name.length <= 2) {
+      $(unitTable).html('<h3><b>More than 2 characters please!<b></h3>')
     } else {
       for (var i in unitList) {
         for (var j in unitList[i]['names']) {
@@ -243,7 +248,12 @@
   function searchSphere(sphere_name) {
     var outputSphere = [];
     var outputHTML = [];
-    if (sphere_name.length <= 2) {
+    sphere_name = sphere_name.trim();
+    if (sphere_name.length == 0) {
+      for (var i in sphereList) {
+        outputSphere.push(sphereList[i]);
+      }
+    } else if (sphere_name.length <= 2) {
       $(unitTable).html('<h3><b>More than 2 characters please!</b></h3>');
     } else {
       for (var sphere in sphereList) {
