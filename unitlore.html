@@ -238,11 +238,11 @@
           }
         }
       }
-      for (i = 0; i < outputUnit.length; i++) {
-        outputHTML.push(outputUnit[i].collapsedInfo);
-      }
-      $(unitTable).html('<h3>' + outputHTML.length + ' units found.</h3>' + outputHTML.join(' '));
     }
+    for (i = 0; i < outputUnit.length; i++) {
+      outputHTML.push(outputUnit[i].collapsedInfo);
+    }
+    $(unitTable).html('<h3>' + outputHTML.length + ' units found.</h3>' + outputHTML.join(' '));
   }
 
   function searchSphere(sphere_name) {
@@ -261,11 +261,11 @@
           outputSphere.push(sphereList[sphere]);
         }
       }
-      for (var i in outputSphere) {
-        outputHTML.push(outputSphere[i].collapsedInfo);
-      }
-      $(unitTable).html(outputHTML.join(' '));
     }
+    for (var i in outputSphere) {
+      outputHTML.push(outputSphere[i].collapsedInfo);
+    }
+    $(unitTable).html(outputHTML.join(' '));
   }
 
   $(document).on('click', '#clearFilters', function(e) {
