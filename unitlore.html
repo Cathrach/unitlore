@@ -226,7 +226,7 @@
       for (var i in unitList) {
         outputUnit.push(unitList[i]); 
       }
-    } else if (unit_name.length <= 2) {
+    } else if (unit_name.length == 1 || unit_name.length == 2) {
       $(unitTable).html('<h3><b>More than 2 characters please!<b></h3>')
     } else {
       for (var i in unitList) {
@@ -253,7 +253,7 @@
       for (var i in sphereList) {
         outputSphere.push(sphereList[i]);
       }
-    } else if (sphere_name.length <= 2) {
+    } else if (sphere_name.length == 1 || sphere_name.length == 2) {
       $(unitTable).html('<h3><b>More than 2 characters please!</b></h3>');
     } else {
       for (var sphere in sphereList) {
