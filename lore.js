@@ -3579,6 +3579,165 @@ var units = {
   		"<span class='pseudolink' onclick=searchBatch('Fallen_Gods')>Fallen Gods</span>",
   		"<span class='pseudolink' onclick=searchName('Zellha')>Zellha</span>"
   	]
+  },
+  "Darvanshel": {
+    "name": "Darvanshel",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Darvanshel",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=610",
+    "batch": "Sphere Legends",
+    "element": "Fire",
+    "home": "Sama",
+    "ids": [10463, 10464, 10465],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Bodyguard Darvanshel", "Protector Darvanshel", "Guardian Darvanshel"],
+      "LS": ["Cleansing Breeze", "Divine Gale", "Eternal Sanctuary"],
+      "BB": ["King's Shield", "God's Shield", "God Emperor's Shield"],
+      "SBB": ["Shield Nova"],
+      "story": [
+        "A brave warrior from the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span> who has accumulated many successes on the battlefield. He came to be famous not only for his enemy crushing swordsmanship, but also for the iron wall-like defense he used to protect his station. However, because he was not well educated and was often rude in nature, he came to be quite disliked by the masses. He himself didn't care about his humble upbringing, but meeting Exyl, who would later become his wife, would change his life greatly.",
+        "A brave former general from the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span> praised for his loyal heart and intelligence. After marrying Exyl he decided to cultivate his mind and learn, as he had been uneducated since his childhood. In only a couple of years, he was unrecognizable, having become an expert in various subjects and a civil official in order to work actively in government to keep the country's peace. After becoming a civil official, he figured that there would be constant threats against the king's life, so he always kept a sword close accompanied by a <span class='pseudolink' onclick=searchSphere('Royal_Shield')>giant shield</span>.",
+        "A loyal, intelligent, and highly praised civil official from the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Always sporting a <span class='pseudolink' onclick=searchSphere('Royal_Shield')>giant shield</span>, he was considered a coward by those around him. One day, the king's life was threatened by an assassin, but his life was spared when Darvanshel protected him with his shield. The king then changed his mind about his brave subject, and awarded him a <span class='pseudolink' onclick=searchSphere('Exyl_Shield')>new shield</span>. Having named the shield after his beloved wife, it helped to protect the king from many other calamities, leaving Darvanshel to resort to his swordsmanship only in very rare cases."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sphere_Legends')>Sphere Legends</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=searchSphere('Royal_Shield')>Royal Shield</span>",
+      "<span class='pseudolink' onclick=searchSphere('Exyl_Shield')>Exyl Shield</span>"
+    ]
+  },
+  "Mariudeth": {
+    "name": "Mariudeth",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Mariudeth",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=613",
+    "batch": "Legend of Sehre",
+    "element": "Water",
+    "home": "Agni",
+    "ids": [20453, 20454, 20455],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Dark Axe Mariudeth", "Axe King Mariudeth", "Axe God Mariudeth"],
+      "LS": ["Flashing Blade", "Flashing Edge", ],
+      "BB": ["Dark Impact", "Dark Strike", ],
+      "SBB": [],
+      "story": [
+        "Long before the battle between the humans and the gods, a supreme ruler was able to build his own vast territory in the historical <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. After becoming emperor, he appointed soldiers, wizards, and strategists to his court regardless of their origins. This policy gained the people's favor for the emperor, and became a huge reason behind their support for the empire. However, Mariudeth himself believed in his own strength without the reliance of neither magic nor strategy, but as he tried to tolerate it, his heart started to open more day by day.",
+        "Long before the battle between the humans and the gods, a supreme ruler was able to build his own vast territory in the historical <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. He was known by his comrades as a sociable man, sometimes even found drinking with his soldiers while camping out. However, he had absolutely no mercy for his enemies, ransacking cities which had already surrendered, going on massive killing sprees, and thoughtlessly murdering soldiers who did not wish to fight in order to boost his army's morale. It is said that for this reason, he was feared not only by enemy countries, but by his allies as well.",
+        "Long before the battle between the humans and the gods, a supreme ruler was able to build his own vast territory in the historical <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>. It is said that while wielding a <span class='pseudolink' onclick=searchSphere('Champion_Axe')>giant axe</span> with great ease that normally took the strength of three men to lift, he split in half the giants his enemies had employed as mercenaries while fighting in the frontlines. However, some wizards doubted his abilities, though the supreme ruler paid them no mind and laughed their rumors off heartily."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sphere_Legends')>Sphere Legends</span>",
+      "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
+      "<span class='pseudolink' onclick=searchSphere('Champion_Axe')>Champion Axe</span>"
+    ]
+  },
+  "Zelnite": {
+    "name": "Zelnite",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Zelnite",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=616",
+    "batch": "Sphere Legends",
+    "element": "Earth",
+    "home": "Other (Unspecified)",
+    "ids": [30443, 30444, 30445],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Great Thief Zelnite", "Noble Thief Zelnite", "Thief God Zelnite"],
+      "LS": ["Great Thief's Technique", "Master Thief's Technique", "Master Thief's Secret"],
+      "BB": ["Battle Steel", "Reading Rage", "Cosmo Grip"],
+      "SBB": ["Zelnite's Warning"],
+      "story": [
+        "The wind that slips into the dark night doesn't let its target escape. Hiding himself in the shadows of the world, he slays all evils one by one. One can see the mantle that covers the mysterious thief Zelnite's face flutter in the wind. This is the story of the Chivalrous Thief Zelnite, who stole treasures and riches from the corrupted upper class of Grand Gaia in very flamboyant ways, to give to the poor and to orphanages. (An excerpt from Chapter 1, Section 1 of 'The Adventures of the Chivalrous Thief Zelnite!')",
+        "After slipping through countless traps, the thief Zelnite successfully penetrated the vault where the phantom treasure of the Bariura Empire was being guarded. However, in front of the door that guarded the treasure were two swordsmen as big as the door itself who released an eerie presence. How will he make it out of this one?! Find out next in The Adventures of the Chivalrous Thief Zelnite, Chapter 3! (An excerpt from Chapter 2, Section 12 of 'The Adventures of the Chivalrous Thief Zelnite!')",
+        "After amazingly revealing the secret of the Bariura Empire, the thief Zelnite, who rescued the people, delved into the night with his mantle aflutter once again today. And thus, that is how the Chivalrous Thief Zelnite earned his status and his name. Well then, let's meet again soon in 'The Adventures of the Chivalrous Thief Zelnite and the Princess of the Wind!'(An excerpt from Chapter 3 of 'The Adventures of the Chivalrous Thief Zelnite!')"
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sphere_Legends')>Sphere Legends</span>",
+      "<span class='pseudolink' onclick=searchSphere('Thief_Bracer')>Thief Bracer</span>",
+      "<span class='pseudolink' onclick=searchSphere('Thief_Cloak')>Thief Cloak</span>",
+      "<span class='pseudolink' onclick=searchSphere('Thief_Gloves')>Thief Gloves</span>",
+      "<span class='pseudolink' onclick=searchSphere('Thief_Guards')>Thief Guards</span>",
+      "<span class='pseudolink' onclick=searchSphere('Zelnite_Ring')>Zelnite Ring</span>",
+      "<span class='pseudolink' onclick=searchSphere('Zel_Ring')>Zel Ring</span>"
+    ]
+  },
+  "Exvehl": {
+    "name": "Exvehl",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Exvehl",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=619",
+    "batch": "Sphere Legends",
+    "element": "Thunder",
+    "home": "Other (Unspecified)",
+    "ids": [40443, 40444, 40445],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Thunder Beast Ahvel", "Thunder God Esna", "Beast God Exvehl"],
+      "LS": ["Royal Oracle", "Supreme Oracle", "Divine Oracle"],
+      "BB": ["Cure Levin", "Cure Levin Barrier", "Cure Levin Field"],
+      "SBB": ["Spark End"],
+      "story": [
+        "Appearing in front of those who bear a destiny with a great burden, legends say this phantom beast will gift them with a revelation. Since not many common people can claim to have seen it, many doubt its existence. However, the heroes and great people that have laid down history who have witnessed this creature aren't just a few. The location and time in which it appears are not constant, but there is thunder along with its strong presence. It is said that beings from another world who have witnessed this beast have called it a 'giraffe.'",
+        "Appearing in front of those who bear a destiny with a great burden, legends say this phantom beast will gift them with a revelation. The creature's goals are still unclear, but since it has such an overwhelming presence, many thought that it was a divine servant that relayed the will of the Great God Emperor. However, since it has also appeared in front of heroes who fought the god army, it is now believed that the previous theory was incorrect. Some legends also mention that there were also heroes who sought to capture this beast only to end utterly defeated, but who after repenting for their wrongdoings experienced a massive growth spurt.",
+        "Appearing in front of those who bear a destiny with a great burden, legends say this phantom beast will gift them with a revelation. As violence spread due to the great war between the gods and the humans, it was rumored that this beast began to appear more often than before. It is said that a soldier who received a revelation met this beast when fighting against the god army, watching it destroy the same in a single blow after it impeded its path. Seeing the creature boasting of a power equal to the gods, the soldier came to call it a divine beast."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sphere_Legends')>Sphere Legends</span>",
+      "<span class='pseudolink' onclick=searchSphere('Beast_Armor')>Beast Armor</span>"
+    ]
+  },
+  "Azael": {
+    "name": "Azael",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Azael",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=622",
+    "batch": "Sphere Legends",
+    "element": "Light",
+    "home": "Other (Unspecified)",
+    "ids": [50483, 50484, 50485],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Dark Angel Azael", "Wisdom Angel Azael", "Seraph Azael"],
+      "LS": ["Fallen Emperor's Power", "Fallen God's Power", "Fallen God's Authority"],
+      "BB": ["Ibelize", "Rofocale", "Satanaquia"],
+      "SBB": ["Heaven's Darkness"],
+      "story": [
+        "Long before the battle between the humans and the gods, there was an abominable angel who passed judgment. Not discriminating between gods nor humans, he would appear before sinners with his three faces and pass his sentence. His right face represents crimes, and his left represents a defense. It is said that the last face in the middle passes the final sentence, and if the prosecuted is found guilty, it is judged by a merciless attack. Though fair, judging trespassers without a chance of salvation made him feared by the humans, as well as by the gods. He was called the 'Black Angel.'",
+        "Long before the battle between the humans and the gods, there was an abominable angel who administered judgment. He cared for nothing but his trials, leaving him without feelings nor thoughts, but continued to pass judgment fairly, regardless of whether the prosecuted was human or not. The Great God Emperor acknowledged this god's power, and appointed him to a new role befitting of his abilities. A young servant would inherit this role later on, but this is only a speculation. He also gained the responsibility of judging those angels who had turned against the gods.",
+        "Long before the battle between the humans and the gods, there was a god who administered judgment. As he judged and convicted one being after another, he grew stronger, but simultaneously began to feel confused by his countless thoughts and emotions. Gradually, he began to lose the power to convict others, and is said to have been relieved of his post by the Great God Emperor, though there's no proof to substantiate this. There is yet another tale which explores the possibility that shortly after the dark angel weakened he underwent the sword of judgment himself."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sphere_Legends')>Sphere Legends</span>"
+    ]
+  },
+  "Lilly Matah": {
+    "name": "Lilly Matah",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lilly_Matah",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=625",
+    "batch": "Sphere Legends",
+    "element": "Dark",
+    "home": "Agni",
+    "ids": [60493, 60494, 60495],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Dictator Lilly Matah", "Empress Lilly Matah", "Tyrant Lilly Matah"],
+      "LS": ["Ares' Howl", "Ares' Rage", "Ares' Echo"],
+      "BB": ["Dictator's Child's Play", "Empress' March", "Tyrant's Distraction"],
+      "SBB": ["Grand Matah"],
+      "story": [
+        "Long before the battle between the humans and the gods, there was a fearful empress from the Agni empire whose name was inscribed in history. Although she was a first-class dark sorceress, for some reason she had a battle coliseum built immediately following her coronation. It is believed that this coliseum was used to experiment using human strife to strengthen the dark sorceress. It is said that the faint smile painted on the empress's face as she watched the atrocious battles in the coliseum was considered a thing of beauty by the masses.",
+        "Long before the battle between the humans and the gods, there was a fearful empress from the Agni empire whose name was inscribed in history. After some years had passed, her passion for watching slaves fight each other became aberrant. An example of her abnormal obsession: she created a <span class='pseudolink' onclick=searchSphere('King\'s_Crown')>crown</span> which she made her slaves wear. The crown was able to increase the attack power of the wearer, but was also the result of part of her research. Also, at the same time it strengthened her dark powers more than ever before.",
+        "Long before the battle between the humans and the gods, there was a fearful empress from the Agni empire whose name was inscribed in history. Some years after her enthronement she began invading the neighboring countries. It is rumored that she did so in order to gather more slave fighters, but this cannot be proven as fact. There were some slaves who aimed to take her life, but due to the tremendous dark power she gained through her research, none could approach her. After her death, her daughter would continue this same research, bringing down the fall of the empire with it."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Sphere_Legends')>Sphere Legends</span>",
+      "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
+      "<span class='pseudolink' onclick=searchSphere('Demon_Crown')>Demon Crown</span>",
+      "<span class='pseudolink' onclick=searchSphere('King\'s_Crown')>King's Crown</span>"
+    ]
   }
 };
 
