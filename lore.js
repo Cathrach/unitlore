@@ -3755,7 +3755,7 @@ var units = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Heroes_of_Elgaia')>Heroes of Elgaia</span>",
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
-      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>"
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
       "<span class='pseudolink' onclick=searchName('Lucana')>Lucana</span>",
       "<span class='pseudolink' onclick=searchName('Aneil')>Aneil</span>"
     ]
