@@ -56,12 +56,11 @@ var units = {
       "A swordswoman from the ruined <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>, she later became one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. During a civil war in the Sama Kingdom, she aided the king and as chief of the Savat people, led them to many military victories. The king granted her the title Gilles De Lava, meaning savior of the kingdom. The Savat were pleased, but it's rumored she was always looking for a reason to quit.",
       "A swordswoman from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. She is the savior of her kingdom, and one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. During the great war she refused Sama Kingdom's call and led the Savat people to save the masses. Her sword, <span class='pseudolink' onclick=searchName('Lexida')>Lexida</span>, showed its true power in response to her skill, cutting down the gods with a cold pale blue strike. She gave the people courage and terrified the gods.",
       "A swordswoman from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. She is the savior of her kingdom, and one of the <span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>. The Savat people she led all lost their lives in the great war. As the last one standing, she tried to end her life, but a voice from her sword <span class='pseudolink' onclick=searchName('Lexida')>Lexida</span> halted her. It was the voices of her fallen countrymen. With her allies' souls in her sword, she fought with more strength and beauty than ever before.",
-      "After losing the people she had led onto the battlefield, Selena sought to stop the <span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>. On her way there, she suffered an assault by a <span class='pseudolink' onclick=searchName('Ulkina')>religious fanatic witch</span>, though she was able to escape thanks to the sacrifice her close friend <span class='pseudolink' onclick=searchName('Lucina')>Lucina</span> had made. Selena attained powers greater than those of the gods during this battle, but immediately after a knight appeared before her and spoke. Answering that 'even so, I will never forgive you,' she was struck down by the knight while she stared him down. The people who managed to survive after her death stopped retaliating and went on to seek a new home."
+      "After losing the people she had led onto the battlefield, Selena sought to stop the God Army. On her way there, she suffered an assault by a <span class='pseudolink' onclick=searchName('Ulkina')>religious fanatic witch</span>, though she was able to escape thanks to the sacrifice her close friend <span class='pseudolink' onclick=searchName('Lucina')>Lucina</span> had made. Selena attained powers greater than those of the gods during this battle, but immediately after a knight appeared before her and spoke. Answering that 'even so, I will never forgive you,' she was struck down by the knight while she stared him down. The people who managed to survive after her death stopped retaliating and went on to seek a new home."
       ]
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Six_Heroes')>Six Heroes</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
       "<span class='pseudolink' onclick=searchName('Lucina')>Lucina</span>",
       "<span class='pseudolink' onclick=searchName('Ulkina')>Ulkina</span>",
@@ -229,7 +228,6 @@ var units = {
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Champions_of_Old')>Champions of Old</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
       "<span class='pseudolink' onclick=searchName('Orwen')>Orwen</span>"
     ]
@@ -310,12 +308,11 @@ var units = {
     		"A tactician from the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. He was criticized for never appearing at the front, but he paid no mind to such comments and continued his command. After the war with the gods began, he would annihilate his enemies with his magic. This earned him admiration, but he was ashamed that he had been attacked, and recorded it as his greatest mistake.",
     		"A tactician from the ruined <span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>. His strong eye for strategy not only saw his imminent defeat, but also that there were still some gods willing to save humanity. Due to this foresight he focused on surviving instead of winning. Many soldiers called him weak, but the result was that many people were saved by him.",
     		"A tactician from the ruined Atharva Republic. Just as Lucius was reaching out to help, Weiss enacted his final end strategy. He used himself as a decoy so that others could escape. Despite there being no hope for reinforcements, with renewed morale his men followed his every word. Just as his people had escaped and he and his men were on the verge of defeat, legend has it that he said, 'In the end, I guess we won.'",
-    		"A tactician who succeeded in helping many people to evacuate during the great war with the gods. He served as bait for his own final strategic ploy, facing off against the enemy as a lone sorcerer. He also used the intel he gained from his beloved birds as they spied from the skies, rendering him able to keep up with the <span class='pseudolink' onclick=searchBatch('God_Army')>God Army's</span> movements. Determining his enemy's weak points from the heavens, the god army learned to fear him. His limitless lightning is said to have been able to split the gods in half."
+    		"A tactician who succeeded in helping many people to evacuate during the great war with the gods. He served as bait for his own final strategic ploy, facing off against the enemy as a lone sorcerer. He also used the intel he gained from his beloved birds as they spied from the skies, rendering him able to keep up with the God Army's movements. Determining his enemy's weak points from the heavens, the god army learned to fear him. His limitless lightning is said to have been able to split the gods in half."
     	]
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Champions_of_Old')>Champions of Old</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>"
     ]
   },
@@ -785,12 +782,11 @@ var units = {
         "The imperator of the <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. His skill in the literary and military arts and impartial fairness earned him the trust of many soldiers. He was even more popular than his brother. However, he feared this and hid his face in public with an iron mask to show his loyalty. There are still countless more rumors about his face, however.",
         "The <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army imperator and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. It's said that he stood at the front lines when the gods invaded. As one of the two most popular people in the Empire, there are many plays based on him. However, rumors surround his death, such as he was assassinated by the emperor, who feared him, or that he was killed during a failed coup d'état.",
         "The <span class='pseudolink' onclick=locSelect('Agni')>Agni</span> Imperial Army imperator and brother of the <span class='pseudolink' onclick=searchName('Orwen')>emperor</span>. It's said that he stood at the front lines when the gods invaded. However, just as he was leading the battle, the emperor ordered for his return. Upon his return, he saw his brother preparing to flee before his eyes. Since then, no one has seen him again.",
-        "Younger brother of the <span class='pseudolink' onclick=searchName('Orwen')>Agni Emperor</span>. Once rumors that the emperor had turned his back on his country surfaced, Knight Agni realized that he had lost his path. Having lost their leader, the Imperial Army lost all morale, leading to one defeat after another. When the <span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span> reached the city, it was set on destroying all its inhabitants until a group of knights suddenly appeared and repelled their attacks. Due to the imperial crest the leader of the knights bore on his armor, many speculate that the group was led by Knight Agni. However, no one knows whether it's true or not."
+        "Younger brother of the <span class='pseudolink' onclick=searchName('Orwen')>Agni Emperor</span>. Once rumors that the emperor had turned his back on his country surfaced, Knight Agni realized that he had lost his path. Having lost their leader, the Imperial Army lost all morale, leading to one defeat after another. When the God Army reached the city, it was set on destroying all its inhabitants until a group of knights suddenly appeared and repelled their attacks. Due to the imperial crest the leader of the knights bore on his armor, many speculate that the group was led by Knight Agni. However, no one knows whether it's true or not."
       ]
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
       "<span class='pseudolink' onclick=searchName('Orwen')>Orwen</span>"
     ]
@@ -813,12 +809,11 @@ var units = {
         "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Sergio was isolated as a heretic for secretly training by himself in the Cavalry Corps, whose aim was group combat. However, his skills far surpassed the others, and he was reluctantly made the leader of a commando unit. His own unit feared him, and called him the Ice Knight after the cold way he cuts down his enemies.",
         "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. He was the commander of a Sama Kingdom Cavalry commando unit, but left to face the gods alone when the war began. Some admired him and tried to join, but Sergio refused them. He was always aloof even while being admired by people for his battles with the gods. At some point, he earned the title Ice Ruler.",
         "A knight from the ruined <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Injured in the fight against the gods, he collapsed and was prepared to die. But as the final strike came, his troops rushed forward to protect him. Though he refused to befriend them, many of them admired his indifference. Watching them, Sergio found the strength to swing his sword of ice to protect the people.",
-        "A knight from the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Having attained his powers in order to protect others, Sergio's prowess was acknowledged by the <span class='pseudolink' onclick=searchName('Arius')>prince</span>, who entrusted him with crucial strategic plans. In turn, Sergio also acknowledged the prince's progress, which led them to develop a deep bond of friendship and trust on the battlefield. At the sight of imminent defeat at the hands of the <span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>, Sergio was sent to the battlefield under the prince's command. Thanks to his actions, the Sama Army was able to avoid destruction, though after that small victory Sergio was never heard from again."
+        "A knight from the <span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>. Having attained his powers in order to protect others, Sergio's prowess was acknowledged by the <span class='pseudolink' onclick=searchName('Arius')>prince</span>, who entrusted him with crucial strategic plans. In turn, Sergio also acknowledged the prince's progress, which led them to develop a deep bond of friendship and trust on the battlefield. At the sight of imminent defeat at the hands of the God Army, Sergio was sent to the battlefield under the prince's command. Thanks to his actions, the Sama Army was able to avoid destruction, though after that small victory Sergio was never heard from again."
       ]
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
       "<span class='pseudolink' onclick=searchName('Arius')>Arius</span>"
     ]
@@ -895,12 +890,11 @@ var units = {
         "A pistoleer from another world that appeared on the outskirts of the ruined <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. It's said he was a town sheriff. In Grand Gaia he continued eliminating villains with his other-worldly pistol, defending the justice he believed in. Children imitated him aiming his gun, saying, 'I judge the evil the law can't reach.'",
         "A pistoleer from another world active on the outskirts of the ruined <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>, Heidt defeated villains with his lone pistol, and came to be known as the Holy Marksman. Women loved him, but he refused them, so it was said he likely had a wife back in his home world. He fought hard in the war, yet his death was not recorded. Rumor is that he had returned to his world.",
         "A pistoleer from another world active on the outskirts of the ruined <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. As the war grew in intensity, Heidt disappeared for a period of time. He eventually returned, brandishing a massive gun, and with a confident devil-may-care smile on his face he said, 'Ha ha ha. I was scolded for not having properly finished what I came here to do!' It's said that no one since has been able to match his superior shooting skills.",
-        "A gunner who made his living in the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. After a defeat from the <span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span> seemed imminent during the great war, he wandered the outskirts of town searching for anyone who hadn't been able to evacuate. Those who were rescued by Heidt often wished to fight by his side, helping him to rescue a great number of people. Even after finding out that the people he had saved were convicted criminals, Heidt did not hold it against them. The only thing he ever mentioned about them was written in a letter to his wife, which read that he 'had been pointing his gun towards the wrong enemy the whole time.'"
+        "A gunner who made his living in the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. After a defeat from the God Army seemed imminent during the great war, he wandered the outskirts of town searching for anyone who hadn't been able to evacuate. Those who were rescued by Heidt often wished to fight by his side, helping him to rescue a great number of people. Even after finding out that the people he had saved were convicted criminals, Heidt did not hold it against them. The only thing he ever mentioned about them was written in a letter to his wife, which read that he 'had been pointing his gun towards the wrong enemy the whole time.'"
       ]
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>"
     ]
   },
@@ -922,12 +916,11 @@ var units = {
         "A supervisor of all magicians in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. Deeply trusted by the emperor, he oversaw many experiments throughout the empire. He zealously researched a variety of sorcery, focusing on black magic. He called himself a dark magician. Rumor was he discovered new techniques through human experiments, but he would just smile and neither confirm nor deny this.",
         "A supervisor of all magicians in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. He continued his research and gained the power to manipulate most living things. As his interest turned from the living to the dead, he came to befeared, making himself known as a necromancer. Although unproven, it's said he discovered an even more powerful magic before the war and this may even have been what triggered the gods' anger.",
         "A supervisor of all magicians in the ruined <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>. As his empire faced collapse from the gods' attack, he decided to present the findings of his research. He was now able to sublimate living beings, and though their bodies were destroyed in the process, as his servants their spirits were ferociously powerful. It's rumored that his research produced more additional findings, though none are recorded in any known documents.",
-        "A sorcerer from the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> who could command all magical spells. During the end of the great war with the gods, he disappeared along with his extensive research facility. Records left behind state that afterwards, when the Imperial Army had been surrounded by the <span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>, a being that resembled Shida appeared on the battlefield and destroyed all the enemies present in an instant. However, testimony from a knight who witnessed it all says that Shida murmured 'I have found the materials I need for my new research. I shall be on my way.' and then disappeared into the darkness.",
+        "A sorcerer from the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> who could command all magical spells. During the end of the great war with the gods, he disappeared along with his extensive research facility. Records left behind state that afterwards, when the Imperial Army had been surrounded by the God Army, a being that resembled Shida appeared on the battlefield and destroyed all the enemies present in an instant. However, testimony from a knight who witnessed it all says that Shida murmured 'I have found the materials I need for my new research. I shall be on my way.' and then disappeared into the darkness.",
       ]
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Expendable_Sidekicks')>Expendable Sidekicks</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
       "<span class='pseudolink' onclick=searchName('Zellha')>Zellha</span>"
     ]
@@ -1229,7 +1222,6 @@ var units = {
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Old_Dogs')>Old Dogs</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>",
       "<span class='pseudolink' onclick=searchName('Atro')>Atro</span>",
       "<span class='pseudolink' onclick=searchName('Aem')>Aem</span>",
@@ -1291,7 +1283,6 @@ var units = {
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Elemental_Heroes')>Elemental Heroes</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
       "<span class='pseudolink' onclick=searchName('Vargas')>Vargas</span>",
       "<span class='pseudolink' onclick=searchName('Dandelga')>Dandelga</span>"
@@ -1349,8 +1340,8 @@ var units = {
     },
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Elemental_Heroes')>Elemental Heroes</span>",
-      "<span class='pseudolink' onclick=searchBatch('God_Army')>God Army</span>",
       "<span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>",
+      "<span class='pseudolink' onclick=locSelect('Toltya')>Toltya Dojo</span>",
       "<span class='pseudolink' onclick=searchName('Zeln')>Zeln</span>"
     ]
   },
@@ -1379,6 +1370,7 @@ var units = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Elemental_Heroes')>Elemental Heroes</span>",
       "<span class='pseudolink' onclick=locSelect('Atharva')>Atharva Republic</span>",
+      "<span class='pseudolink' onclick=locSelect('Toltya')>Toltya Dojo</span>",
       "<span class='pseudolink' onclick=searchName('Nemia')>Nemia</span>"
     ]
   },
@@ -2533,6 +2525,7 @@ var units = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Oddball_Powerhouse')>Oddball Powerhouse</span>",
       "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=locSelect('Toltya')>Toltya</span>",
       "<span class='pseudolink' onclick=searchName('Vishra')>Vishra</span>",
       "<span class='pseudolink' onclick=searchName('Lilith')>Lilith</span>"
     ]
@@ -3737,6 +3730,62 @@ var units = {
       "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
       "<span class='pseudolink' onclick=searchSphere('Demon_Crown')>Demon Crown</span>",
       "<span class='pseudolink' onclick=searchSphere('King\'s_Crown')>King's Crown</span>"
+    ]
+  },
+  "Reed": {
+    "name": "Reed",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Reed",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=643",
+    "batch": "Heroes of Elgaia",
+    "element": "Fire",
+    "home": "Agni",
+    "ids": [10293, 10294, 10295],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Sword Emperor Reed", "Sword God Reed", "Scorching Sword Reed"],
+      "LS": ["Authority of Six", "Authority of the Six Gods", "Supremacy of the Six Gods"],
+      "BB": ["Ring Ride Ash", "Sun Raid Glitter", "Von Cool Strider"],
+      "SBB": ["Liberation Saga"],
+      "story": [
+        "A soldier who led many civilians to <span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span> during the last stages of the war with the gods. Originally a member of the Agni Empire's knighthood, his valiant efforts during his battles against the god army were acknowledged by the <span class='pseudolink' onclick=searchName('Agni')>general of the Agni army</span> himself. However, after receiving a letter from his childhood friend <span class='pseudolink' onclick=searchName('Lucana')>Lucana</span>, he left for home in a hurry. After learning about the upcoming great invasion of El Gaia from her, he planned to find refuge for the people of his hometown with the help of his friend <span class='pseudolink' onclick=searchName('Aneil')>Aneil</span>.",
+        "A soldier who led many civilians to <span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span> during the last stages of the war with the gods. It is said that he continuously led the fights against the god army when fleeing with his people towards El Gaia. Because of his positive and indomitable spirit, many people gathered under him relying on his power, including both people from his hometown and many refugees from all other regions. And as if answering his prayers, the gods gifted him with more power to continue protecting the people.",
+        "A soldier who led many civilians to <span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span> during the last stages of the war with the gods. After crossing Lucius's gate and finally reaching the new promised land, he decided to live his life to the fullest in the name of his fallen comrades. Traveling to every region he defeated demons and helped to mine for minerals, contributing greatly to the development of human civilization in Elgaia. Thanks to his great deeds many voiced their wish for him to be crowned as king, but he refused, stubbornly choosing to continue living as a mere adventurer."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Heroes_of_Elgaia')>Heroes of Elgaia</span>",
+      "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>"
+      "<span class='pseudolink' onclick=searchName('Lucana')>Lucana</span>",
+      "<span class='pseudolink' onclick=searchName('Aneil')>Aneil</span>"
+    ]
+  },
+  "Rhein": {
+    "name": "Rhein",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Rhein",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=645",
+    "batch": "Heroes of Elgaia",
+    "element": "Water",
+    "home": "Sama",
+    "ids": [20293, 20294, 20295],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Talon King Rhein", "Talon God Rhein", "Mystical Talon Rhein"],
+      "LS": ["Instant Power", "Instant Herculean Power", "Instant Divine Power"],
+      "BB": ["Deadly Claw", "Clawed Guardian", "Scryed Actis"],
+      "SBB": ["Divine Talon: Demon Barrage"],
+      "story": [
+        "A martial artist who escorted many civilians to Elgaia during the last stages of the war with the gods. After mastering the art of the Toltya Dojo, he fought in the frontlines at the start of the war using swift attacks. However, he was ordered by his dojo to protect the people making their way to Elgaia. Rhein accepted quietly, but it is said that he actually wanted to continue fighting in the frontlines. That is when he first met the soldier leading said group.",
+        "A martial artist who escorted many civilians to El Gaia during the last stages of the war with the gods. Bringing refugees to El Gaia under Reed, he put his swiftness back to use by scouting the land. He escaped from danger countless of times probing for information about the god army's movements. It is also said that he used the secret Toltya techniques he had learned to work as an assassin behind the scenes. Though taciturn, his subtle consideration for others gained him favor with the civilians.",
+        "A martial artist who escorted many civilians to Elgaia during the last stages of the war with the gods. Moments after barely reaching the entrance to Lucius's gate, Rhein sensed an incoming attack from the God Army. Separating from his friends he went after the group meant to ambush them in order to buy time for his friends to cross the gate. It is said that this deed alone was enough to earn him a place in the annals of the Toltya Dojo's history. Finally, there are two legends which tell of Rhein's end: one that claims he exhausted all his power fighting in Grand Gaia, and one that claims that he made it safely to Elgaia."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Heroes_of_Elgaia')>Heroes of Elgaia</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=locSelect('Toltya')>Toltya Dojo</span>",
+      "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
+      "<span class='pseudolink' onclick=searchName('Reed')>Reed</span>"
     ]
   }
 };
