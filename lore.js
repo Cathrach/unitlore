@@ -2525,7 +2525,7 @@ var units = {
     "related": [
       "<span class='pseudolink' onclick=searchBatch('Oddball_Powerhouse')>Oddball Powerhouse</span>",
       "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
-      "<span class='pseudolink' onclick=locSelect('Toltya')>Toltya</span>",
+      "<span class='pseudolink' onclick=locSelect('Toltya')>Toltya Dojo</span>",
       "<span class='pseudolink' onclick=searchName('Vishra')>Vishra</span>",
       "<span class='pseudolink' onclick=searchName('Lilith')>Lilith</span>"
     ]
