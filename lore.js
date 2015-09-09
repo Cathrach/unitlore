@@ -1322,7 +1322,7 @@ var units = {
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=209",
     "batch": "Elemental Heroes",
     "element": "Earth",
-    "home": "Vriksha",
+    "home": ["Vriksha", "Toltya"],
     "ids": [30141, 30142, 30143, 30144, 30145],
     "lore": {
       "rare": [2, 3, 4, 5, 6],
@@ -1351,7 +1351,7 @@ var units = {
     "touchandswipe": "http://touchandswipe.gitub.io/bravefrontier/unitsguidelite?unit=212",
     "batch": "Elemental Heroes",
     "element": "Thunder",
-    "home": "Atharva",
+    "home": ["Atharva", "Toltya"],
     "ids": [40141, 40142, 40143, 40144, 40145],
     "lore": {
       "rare": [2, 3, 4, 5, 6],
@@ -2508,7 +2508,7 @@ var units = {
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=381",
     "batch": "Oddball Powerhouse",
     "element": "Earth",
-    "home": "Sama",
+    "home": ["Sama", "Toltya"],
     "ids": [30283, 30284, 30285],
     "lore": {
       "rare": [4, 5, 6],
@@ -3766,7 +3766,7 @@ var units = {
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=645",
     "batch": "Heroes of Elgaia",
     "element": "Water",
-    "home": "Sama",
+    "home": ["Sama", "Toltya"],
     "ids": [20293, 20294, 20295],
     "lore": {
       "rare": [4, 5, 6],
@@ -3786,6 +3786,34 @@ var units = {
       "<span class='pseudolink' onclick=locSelect('Toltya')>Toltya Dojo</span>",
       "<span class='pseudolink' onclick=locSelect('Elgaia')>Elgaia</span>",
       "<span class='pseudolink' onclick=searchName('Reed')>Reed</span>"
+    ]
+  },
+  "Aneil": {
+    "name": "Aneil",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Aneil",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=647",
+    "batch": "Heroes of Elgaia",
+    "element": "Earth",
+    "home": "home",
+    "ids": [30293, 30294, 30295],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Lawful Warrior Aneil", "Lawful God Aneil", "Supreme Lawmaker Aneil"],
+      "LS": ["Phantom Awakening", "Phantom God Awakening", "Phantom Ruler's Awakening"],
+      "BB": ["Force Ignition", "Elemental Fall", "Fractal Verde"],
+      "SBB": ["Expel from Union"],
+      "story": [
+        "A good friend of <span class='pseudolink' onclick=searchName('Reed')>Reed's</span>, the soldier who led many civilians to El Gaia during the last stages of the war with the gods. He made plans to head for El Gaia to help his childhood friends, Reed & <span class='pseudolink' onclick=searchName('Lucana')>Lucana</span>. It is said that he had a genius-like ability for magic paired with an amazing intellect, but that due to his cowardly personality was never able to release his true potential. However, while protecting the refugees from the god army's attacks he started having a change of heart, and meeting a certain person gave his powers the chance to bloom.",
+        "A good friend of <span class='pseudolink' onclick=searchName('Reed')>Reed's</span>, the soldier who led many civilians to El Gaia during the last stages of the war with the gods. Wishing to protect his comrades and the people with him, while traveling to El Gaia he was advised by <span class='pseudolink' onclick=searchName('Heavy_God_Nevsky')>Heavy God Nevsky</span> to 'trust in the eyes of those who relied on his power'. Heeding this advice, his powers and genius for strategy grew exponentially. It is said that he used his magic to protect the people, while he cooperated with martial artist <span class='pseudolink' onclick=searchName('Rhein')>Rhein</span> to create military strategies to keep the god army at bay.",
+        "A good friend of Reed's, the soldier who led many civilians to Elgaia during the last stages of the war with the gods. Moments after reaching Lucius's gate, Aneil saw that a large squadron of the God Army had been sent to thwart their escape. Claiming that this had been part of his strategy the whole time, he forced Reed and the others to cross the gate while he faced the incoming troops. The last account mentioning Aneil states that he had a faint smile on his face as the ground began to rumble beneath him while his enemies drew closer."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Heroes_of_Elgaia')>Heroes of Elgaia</span>",
+      "<span class='pseudolink' onclick=searchName('Reed')>Reed</span>",
+      "<span class='pseudolink' onclick=searchName('Lucana')>Lucana</span>",
+      "<span class='pseudolink' onclick=searchName('Heavy_God_Nevsky')>Nevsky</span>",
+      "<span class='pseudolink' onclick=searchName('Rhein')>Rhein</span>",
     ]
   }
 };

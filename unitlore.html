@@ -191,9 +191,17 @@
     var outputUnit = [];
     var outputHTML = [];
     for (i = 0; i < unitList.length; i++) {
-      if (unitList[i]['home'].toLowerCase().replace(/\W/g, '') == item.toLowerCase().replace(/_/g, '').replace(/\W/g, '')) {
-        outputUnit.push(unitList[i]);
-      }
+      if (typeof unitList[i]['home'] === 'string' || unitList[i]['home'] instanceof String) {
+        if (unitList[i]['home'].toLowerCase().replace(/\W/g, '') == item.toLowerCase().replace(/_/g, '').replace(/\W/g, '')) {
+          outputUnit.push(unitList[i]);
+        }
+      } else {
+        for (var home in unitList[i]['home']) {
+          if (unitList[i]['home'][home].toLowerCase().replace(/\W/g, '') == item.toLowerCase().replace(/_/g, '').replace(/\W/g, '')) {
+            outputUnit.push(unitList[i]);
+          }
+        }
+      }      
     }
     for (i = 0; i < outputUnit.length; i++) {
       outputHTML.push(outputUnit[i].collapsedInfo);
