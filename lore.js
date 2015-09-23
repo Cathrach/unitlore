@@ -1953,7 +1953,7 @@ var units = {
       ]
     },
     "related": [
-      "<span class='pseudolink' onclick=serachBatch('Bosses')>Bosses</span>",
+      "<span class='pseudolink' onclick=searchBatch('Bosses')>Bosses</span>",
       "<span class='pseudolink' onclick=searchName('Afla_Dilith')>Afla Dilith</span>"
     ]
   },
@@ -3794,7 +3794,7 @@ var units = {
     "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=647",
     "batch": "Heroes of Elgaia",
     "element": "Earth",
-    "home": "home",
+    "home": "Other (Unspecified)",
     "ids": [30293, 30294, 30295],
     "lore": {
       "rare": [4, 5, 6],
@@ -3814,6 +3814,87 @@ var units = {
       "<span class='pseudolink' onclick=searchName('Lucana')>Lucana</span>",
       "<span class='pseudolink' onclick=searchName('Heavy_God_Nevsky')>Nevsky</span>",
       "<span class='pseudolink' onclick=searchName('Rhein')>Rhein</span>",
+    ]
+  },
+  "Lucana": {
+    "name": "Lucana",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Lucana",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=649",
+    "batch": "Heroes of Elgaia",
+    "element": "Thunder",
+    "home": "Other (Unspecified)",
+    "ids": [40293, 40294, 40295],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Fast Princess Lucana", "Fast God Lucana", "Lightning Speed Lucana"],
+      "LS": ["Monarch's Magic", "High Ruler's Magic", "Supreme Ruler's Magic"],
+      "BB": ["Rising Force", "Rising Spirit", "Rising Invocation"],
+      "SBB": ["Liberation"],
+      "story": [
+        "A Summoner who led many civilians to El Gaia during the last stages of the war with the gods. By the time the invasion of the gods had commenced, her name and abilities as a Summoner were already well known, and she received invitations from all countries asking her to join their armies. However, it is said that she turned down all of the invitations in order to protect the hometown where she was born. Shortly, she began to hear the voices of the gods in her dreams, which revealed to her a way to help the humans escape from the invasion. The next day she immediately decided to contact her <span class='pseudolink' onclick=searchName('Reed')>childhood friend</span> fighting far away.",
+        "A Summoner who led many civilians to El Gaia during the last stages of the war with the gods. After receiving an oracle, she honed her skills alongside childhood friends <span class='pseudolink' onclick=searchName('Reed')>Reed</span> and <span class='pseudolink' onclick=searchName('Aneil')>Aneil</span> in order to protect the helpless people of her hometown, who were fleeing towards El Gaia. Wielding the power of Thunder, it is said that she was the fastest in aiding people. Shortly receiving her late comrades with a smile, she proceeded to wave her staff, casting violent Thunder against the god army.",
+        "A Summoner who led many civilians to Elgaia during the last stages of the war with the gods. Believing in the words of the gods, Lucana was able to successfully save many people with her powers. However, she would lose most of her comrades during the process of crossing Lucius's gate, leaving her without much to smile about after making it to the other side. It is said that a soldier was always seen by her side after that, and their story continues to be passed down in Elgaia to this day."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Heroes_of_Elgaia')>Heroes of Elgaia</span>",
+      "<span class='pseudolink' onclick=searchName('Reed')>Reed</span>",
+      "<span class='pseudolink' onclick=searchName('Aneil')>Aneil</span>"
+    ]
+  },
+  "Nevsky": {
+    "name": "Nevsky",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Nevsky",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=651",
+    "batch": "Heroes of Elgaia",
+    "element": "Light",
+    "home": "Other (Unspecified)",
+    "ids": [50323, 50324, 50325],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Heavy Guard Nevsky", "Heavy God Nevsky", "Sacred Armor Nevsky"],
+      "LS": ["Divine Gale", "Eternal Blessing", "Eternal Hymn"],
+      "BB": ["Light Barrier", "Divine Barrier", "Sacred Bastion"],
+      "SBB": ["Imperial Decree Formation"],
+      "story": [
+        "A heavily armored soldier who appears in the tales about the migration of a group of refugees towards El Gaia. His story began when <span class='pseudolink' onclick=searchName('Reed')>Reed</span> and his party helped him out of a predicament he he'd fallen into following an attack from the god army. Though he never swore fealty to Reed, it is said he would appear out of nowhere whenever one of the party members was in danger to rescue them. It has also been told that he'd offer advice at the time of the rescue, but apparently <span class='pseudolink' onclick=searchName('Aneil')>Aneil</span> was the only one to take this advice seriously, while everyone else never really stopped to listen.",
+        "A heavily armored soldier who appears in the tales about the migration of a group of refugees towards El Gaia. Having rescued <span class='pseudolink' onclick=searchName('Reed')>Reed</span> and his party from danger an innumerable amount of times, everyone acknowledged his ability, though his past and identity remained a total mystery since he never took off his helmet in front of others. Due to some reports left over which state that <span class='pseudolink' onclick=searchName('Eru')>Eru</span>, a soldier from the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>, sometimes gazed at Nevsky as if thinking to himself, many believe they hailed from the same country. However, no conclusive evidence of this has been found.",
+        "A heavily armored soldier who appears in the tales about the migration of a group of refugees towards Elgaia. After arriving before Lucius's gate, Nevsky sensed an incoming attack from the God Army. Seeing that another man was attempting to use his own body as a blockade against the attack to buy the refugees more time to escape, Nevsky silently made his way towards him, joining his blockade with his arms stretched out beside him. There are no records left stating what happened to him following this, but the fact that many refugees were able to make it safely to Elgaia may be proof that his attempt to protect them was successful."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Heroes_of_Elgaia')>Heroes of Elgaia</span>",
+      "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Reed')>Reed</span>",
+      "<span class='pseudolink' onclick=searchName('Aneil')>Aneil</span>",
+      "<span class='pseudolink' onclick=searchName('Eru')>Eru</span>"
+    ]
+  },
+  "Eru": {
+    "name": "Eru",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Eru",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=653",
+    "batch": "Heroes of Elgaia",
+    "element": "Dark",
+    "home": "Bariura",
+    "ids": [60293, 60294, 60295],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Dual Blade Eru", "Dual Blade God Eru", "Twin Dragons Eru"],
+      "LS": ["Power of Six", "Power of the Six Gods", "Might of the Six Gods"],
+      "BB": ["Bloody Cross", "Dark Dispair", "Blood-Shaped Arc"],
+      "SBB": ["Phantom Eliminator"],
+      "story": [
+        "A soldier who led the civilians from the Bariura Empire during the last stages of the war with the gods in hopes of finding a new land. Known by everyone in the Bariura Empire, he sought to implement the same migratory movement of the neighboring countries within the empire. However, the nobility of the empire dismissed his idea, and branding him a coward, stripped him of his knighthood. Disappointed in his motherland, he led only a part of the empire in search of a new land with his beloved twin blades in hand.",
+        "A soldier who led the civilians from the Bariura Empire during the last stages of the war with the gods in hopes of finding a new land. Leading the people of the Bariura Empire towards El Gaia in search of refuge, his party merged with <span class='pseudolink' onclick=searchName('Reed')>Reed's</span>. However, arguing over which course to take led them to a confrontation which would end in a duel. The fight is said to have lasted an entire day, though its outcome is undisclosed. In spite of this, it is said that they made an outstanding team on the battlefield, even while quarreling with each other.",
+        "A soldier who led the civilians from the Bariura Empire during the last stages of the war with the gods in hopes of finding a new land. After arriving to Lucius's gate and trying to get the refugees to cross over, some of the people still behind were suddenly attacked by a disciple. When <span class='pseudolink' onclick=searchName('Reed')>Reed</span> and <span class='pseudolink' onclick=searchName('Lucana')>Lucana</span> tried to go help the group under attack, Eru told them that their roles in this mission were not yet over, ultimately going to the group's rescue alone. As he fought off the God Army he is said to have muttered to himself that 'copying that idiot may not be so bad', though his whereabouts following said battle remain unknown."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Heroes_of_Elgaia')>Heroes of Elgaia</span>",
+      "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Reed')>Reed</span>",
+      "<span class='pseudolink' onclick=searchName('Lucana')>Lucana</span>"
     ]
   }
 };
