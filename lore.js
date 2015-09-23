@@ -3885,9 +3885,9 @@ var units = {
       "BB": ["Bloody Cross", "Dark Dispair", "Blood-Shaped Arc"],
       "SBB": ["Phantom Eliminator"],
       "story": [
-        "A soldier who led the civilians from the Bariura Empire during the last stages of the war with the gods in hopes of finding a new land. Known by everyone in the Bariura Empire, he sought to implement the same migratory movement of the neighboring countries within the empire. However, the nobility of the empire dismissed his idea, and branding him a coward, stripped him of his knighthood. Disappointed in his motherland, he led only a part of the empire in search of a new land with his beloved twin blades in hand.",
-        "A soldier who led the civilians from the Bariura Empire during the last stages of the war with the gods in hopes of finding a new land. Leading the people of the Bariura Empire towards El Gaia in search of refuge, his party merged with <span class='pseudolink' onclick=searchName('Reed')>Reed's</span>. However, arguing over which course to take led them to a confrontation which would end in a duel. The fight is said to have lasted an entire day, though its outcome is undisclosed. In spite of this, it is said that they made an outstanding team on the battlefield, even while quarreling with each other.",
-        "A soldier who led the civilians from the Bariura Empire during the last stages of the war with the gods in hopes of finding a new land. After arriving to Lucius's gate and trying to get the refugees to cross over, some of the people still behind were suddenly attacked by a disciple. When <span class='pseudolink' onclick=searchName('Reed')>Reed</span> and <span class='pseudolink' onclick=searchName('Lucana')>Lucana</span> tried to go help the group under attack, Eru told them that their roles in this mission were not yet over, ultimately going to the group's rescue alone. As he fought off the God Army he is said to have muttered to himself that 'copying that idiot may not be so bad', though his whereabouts following said battle remain unknown."
+        "A soldier who led the civilians from the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> during the last stages of the war with the gods in hopes of finding a new land. Known by everyone in the Bariura Empire, he sought to implement the same migratory movement of the neighboring countries within the empire. However, the nobility of the empire dismissed his idea, and branding him a coward, stripped him of his knighthood. Disappointed in his motherland, he led only a part of the empire in search of a new land with his beloved twin blades in hand.",
+        "A soldier who led the civilians from the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> during the last stages of the war with the gods in hopes of finding a new land. Leading the people of the Bariura Empire towards El Gaia in search of refuge, his party merged with <span class='pseudolink' onclick=searchName('Reed')>Reed's</span>. However, arguing over which course to take led them to a confrontation which would end in a duel. The fight is said to have lasted an entire day, though its outcome is undisclosed. In spite of this, it is said that they made an outstanding team on the battlefield, even while quarreling with each other.",
+        "A soldier who led the civilians from the <span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span> during the last stages of the war with the gods in hopes of finding a new land. After arriving to Lucius's gate and trying to get the refugees to cross over, some of the people still behind were suddenly attacked by a disciple. When <span class='pseudolink' onclick=searchName('Reed')>Reed</span> and <span class='pseudolink' onclick=searchName('Lucana')>Lucana</span> tried to go help the group under attack, Eru told them that their roles in this mission were not yet over, ultimately going to the group's rescue alone. As he fought off the God Army he is said to have muttered to himself that 'copying that idiot may not be so bad', though his whereabouts following said battle remain unknown."
       ]
     },
     "related": [
@@ -3895,6 +3895,88 @@ var units = {
       "<span class='pseudolink' onclick=locSelect('Bariura')>Bariura Empire</span>",
       "<span class='pseudolink' onclick=searchName('Reed')>Reed</span>",
       "<span class='pseudolink' onclick=searchName('Lucana')>Lucana</span>"
+    ]
+  },
+  "Orwen": {
+    "name": "Orwen",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Orwen",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=655",
+    "batch": "Bonded by Blood",
+    "element": "Fire",
+    "home": "Agni",
+    "ids": [10493, 10494, 10495],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Emperor Orwen", "God Emperor Orwen", "Divine Emperor Orwen"],
+      "LS": ["Emperor's Command", "God Emperor's Command", "Destruction God's Command"],
+      "BB": ["Flame Dragon's Spark", "Flame Dragon Gleam", "Flame Dragon Flash"],
+      "SBB": ["Flame Dragon Emperor"],
+      "story": [
+        "During the war with the gods, the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span> had incredible power that was controlled by the emperor. He is said to have had great confidence in his own abilities, to make traitors pay by his own hand, and to have always ruled his people with a piercing aura of coercion. Because of this, many of his vassals suffered atrophies from hunching in fear, and would sometimes faint in his presence from nervousness. Also, before his crowning, he recruited many knights to serve under the Imperial Guard with under his leadership. It is said that to this day, they were the strongest and most elite knighthood in history.",
+        "During the war with the gods, the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span> had incredible power that was controlled by the emperor. With the ambitious goal of making the Agni Region the strongest of them all, he trained elite swordsmen such as <span class='pseudolink' onclick=searchName('Fire_Knight_Lava')>Fire Knight Lava</span>, and carried out his own secret projects. At the time, he was often compared to his <span class='pseudolink' onclick=searchName('Magma_Knight_Agni')>little brother</span>, the general of the Agni army, whom he actually didn't care much for. He just took the popularity that came with it and used it to reign more efficiently.",
+        "During the war with the gods, the <span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span> had incredible power that was controlled by the emperor. At the beginning of the great war he headed an ambush on the god army, but towards the end of the war he abandoned his people and tried to escape to another country, causing a confrontation between him and his <span class='pseudolink' onclick=searchName('Magma_Knight_Agni')>younger brother</span>, the general of the Agni army. He soon started to lose posterity, but recent studies show that the power he held later in the war was far more superior than any he had held before. Thus, since there is no contest about the fact that he fled to another country, there is a theory which states that he just didn't want to deal with his pesky subjects, but that he planned to come back after some time."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Bonded_by_Blood')>Bonded by Blood</span>",
+      "<span class='pseudolink' onclick=locSelect('Agni')>Agni Empire</span>",
+      "<span class='pseudolink' onclick=searchName('Magma_Knight_Agni')>Agni</span>",
+      "<span class='pseudolink' onclick=searchName('Fire_Knight_Lava')>Lava</span>"
+    ]
+  },
+  "Arius": {
+    "name": "Arius",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Arius",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=658",
+    "batch": "Bonded by Blood",
+    "element": "Water",
+    "home": "Sama",
+    "ids": [20473, 20474, 20475],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Prince Arius", "Divine Prince Arius", "Ice God Arius"],
+      "LS": ["Pulsating Energy", "Pulsating Retribution", "Love Palpitations"],
+      "BB": ["Noble Sting", "Elegant Sting", "Sacred Sting"],
+      "SBB": ["Bracing Slash"],
+      "story": [
+        "The third prince of the Sama Kingdom, who fought against the god army as the commander of the Sama Navy. Excelling in both swordsmanship and magic, many great things were expected from him in the future. However, due to his overly docile personality it became apparent that he was too quick to agree with other people's suggestions, eventually resulting in great commotion within his naval division. Also, as a passionate supporter of Selena, one of the Six Heroes, he began painting pictures of her without her consent and proceeded to exhibit them publicly. There are rumors which state that he was asked to keep his distance from her after the incident.",
+        "The third prince of the Sama Kingdom, who fought against the god army to protect his people. He continued to repel the god army with his own military prowess, but could not quell the unrest happening within the navy, even as its commander. However, the whole situation changed when he invited War Captain Mega to join the navy. Realizing that the problem was Arius himself, Mega threw it in his face. After hearing what Mega had to say, Arius then resigned as commander and passed the responsibility onto Mega. From then on the prince fought as a soldier on his own. It is said that this proved to be much more effective than his previous efforts.",
+        "The third prince of the Sama Kingdom. He had been fighting as a soldier on his own, but due to War Captain Mega's injury, he was reinstated as commander of the navy in a hurry. Always trying to think as Mega would have, he dealt with his subordinates by listening to their reports and suggestions. With a firm attitude completely different than before, there were many who voiced their desire to make his position official, to which Arius declined politely saying that he could never measure up to 'the real deal'. As soon as Mega had recovered from his injury, Arius returned to the battlefield with new and improved sword fighting skills."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Bonded_by_Blood')>Bonded by Blood</span>",
+      "<span class='pseudolink' onclick=locSelect('Sama')>Sama Kingdom</span>",
+      "<span class='pseudolink' onclick=searchName('Selena')>Selena</span>",
+      "<span class='pseudolink' onclick=searchName('War_Captain_Mega')>Mega</span>"
+    ]
+  },
+  "Faris": {
+    "name": "Faris",
+    "wiki": "https://www.bravefrontierglobal.wikia.com/wiki/Faris",
+    "touchandswipe": "http://touchandswipe.github.io/bravefrontier/unitsguidelite?unit=661",
+    "batch": "Bonded by Blood",
+    "element": "Earth",
+    "home": "Vriksha",
+    "ids": [30463, 30464, 30465],
+    "lore": {
+      "rare": [4, 5, 6],
+      "names": ["Flora Princess Faris", "Flora Queen Faris", "Flora Goddess Faris"],
+      "LS": ["Ares' Light", "Ares' Authority", "Ares' Excelsior"],
+      "BB": ["I'll protect my own self!", "I'll show you my fencing!", "No one else will get hurt!"],
+      "SBB": ["Treasure blade, empower me!"],
+      "story": [
+        "The second princess of the <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span> who fled after encountering an attack from the god army. Completely differing from her reserved elder sister, Princess Lidith, she was known for having a boisterous personality. Faris was willing to fight to the end once the principality started to crumble, but after speaking with her elder sister, she decided to flee with bodyguard <span class='pseudolink' onclick=searchName('Lario')>Lario</span>. Afterwards, Lario suffered an altercation while on duty, which drove them to escape. This only served to further damage her pride, leading her to draw her treasure sword to face off against the gods.",
+        "The extremely proud second princess of the <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span> who was made to flee after the principality was invaded by the god army. At the time of the principality's collapse, she sought to escape with the badly wounded <span class='pseudolink' onclick=searchName('Lario')>Lario</span>, eventually reaching a gigantic forest where they were surrounded by pixies. Having sworn revenge against the god army, she decided to undergo sword training from a <span class='pseudolink' onclick=searchName('Logan')>black armored knight wielding twin swords</span> that had also been wondering the same forest. This helped her to awaken her abilities, while life in the forest put her heart at ease, somehow increasing the power of her precious sword.",
+        "The second princess of the <span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span> who sought to protect the faeries’ grove from the god army. After living in the forest, her heart full of vengeance changed, and she decided to protect the forest instead. However, the forest would also come to suffer an invasion from the god army. Always looking forward, she fought with her treasure sword in hand, releasing the tremendous power she had built up and defeating one god after another. Recent studies remark that the precious sword was once a present to the king of Vriksha from the pixie king for the purpose of protecting the forest. It is believed that once the princess took on that role, its true strength was unleashed."
+      ]
+    },
+    "related": [
+      "<span class='pseudolink' onclick=searchBatch('Bonded_by_Blood')>Bonded by Blood</span>",
+      "<span class='pseudolink' onclick=locSelect('Vriksha')>Principality of Vriksha</span>",
+      "<span class='pseudolink' onclick=searchName('Lidith')>Lidith</span>",
+      "<span class='pseudolink' onclick=searchName('Lario')>Lario</span>",
+      "<span class='pseudolink' onclick=searchName('Logan')>Logan</span>"
     ]
   }
 };
