@@ -2284,17 +2284,20 @@ var units = {
     "batch": "Battle Before the Gods",
     "element": "Fire",
     "home": "La Veda",
-    "ids": [10253, 10254, 10255],
+    "ids": [10253, 10254, 10255, 10256],
     "lore": {
-      "rare": [4, 5, 6],
-      "names": ["Red Axe Michele", "Lotus Axe Michele", "Goddess Axe Michele"],
-      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Creation"],
-      "BB": ["Flame Changer", "Ignite Changer", "Crimson Changer"],
-      "SBB": ["Meggido Cross"],
+      "rare": [4, 5, 6, 7],
+      "names": ["Red Axe Michele", "Lotus Axe Michele", "Goddess Axe Michele", "Wildfire Lotus Michele"],
+      "LS": ["Five Light's Power", "Five Light's Force", "Five Light's Creation", "Five Light's Soul"],
+      "BB": ["Flame Changer", "Ignite Changer", "Crimson Changer", "Howling Flare"],
+      "SBB": ["Meggido Cross", "Meggido Cross Blaze"],
+      "UBB": "Furious Juneau",
+      "ES": "Contemplating the Future",
       "story": [
         "The daughter of a prominent aristocrat from the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. She was unstoppable with her axe, but thanks to her overprotective upbringing she became quite self-centered. However, having recognized this herself as well, she came to extremely dislike getting involved with other people. Then one day she met a certain <span class='pseudolink' onclick=searchName('Duel-SGX')>mechanical figure</span> and her objective changed to battle. She would now face off against an evil force the likes of which had never been seen.",
         "A lotus colored axe wielder and the daughter of a prominent aristocrat from the <span class='pseudolink' onclick=locSelect('La_Veda')>La Veda Republic</span>. Continuing her journey with the <span class='pseudolink' onclick=searchName('Duel-SGX')>mechanical figure</span> from another world, she came to meet many new people. These people were of stronger character than anyone she'd met before, and through interacting with them her abilities grew even stronger. She then encountered the being she had set out to defeat, and, wielding her newfound powers, unleashed everything she had in a blaze of fury.",
-        "A lotus colored axe wielder that battled with the ten-winged tormentor. Right when she and her companions thought they had defeated Melchio, a light from above restored him as if nothing had happened. Though her friends were frozen in despair, she charged straight at the enraged deity after cursing her friends for their cowardice. Seeing her brazen act had a bolstering effect on the rest of her party. Noticing this, she smiled at them before losing consciousness."
+        "A lotus colored axe wielder that battled with the ten-winged tormentor. Right when she and her companions thought they had defeated Melchio, a light from above restored him as if nothing had happened. Though her friends were frozen in despair, she charged straight at the enraged deity after cursing her friends for their cowardice. Seeing her brazen act had a bolstering effect on the rest of her party. Noticing this, she smiled at them before losing consciousness.",
+        "A lotus colored axe wielder that battled with the <span class='pseudolink' onclick=searchName('Melchio')>Ten-Winged Tormentor</span>. Her battle with Melchio would lead her precious friends to sacrifice their lives, but Michele saw something else. She focused her gaze on a gate to another world which had materialized from a vacuum after a gigantic explosion took place. She then grabbed the scraps of her <span class='pseudolink' onclick=searchName('Duel-SGX')>barely mobile friend</span> and crossed the gate, while saying her goodbyes to those friends who were beyond saving. Days later those scraps were the only thing to arrive to her parents' home, though the reason behind this remains unclear."
       ]
     },
     "related": [
@@ -2392,17 +2395,20 @@ var units = {
     "batch": "Battle Before the Gods",
     "element": "Light",
     "home": "Otherworld",
-    "ids": [50273, 50274, 50275],
+    "ids": [50273, 50274, 50275, 50276],
     "lore": {
-      "rare": [4, 5, 6],
-      "names": ["Legionary Melchio", "Centurion Melchio", "Legatus Melchio"],
-      "LS": ["Crash Impulse", "Destructive Allure", ],
-      "BB": ["Shining Force", "Shining Aura", ],
-      "SBB": [],
+      "rare": [4, 5, 6, 7],
+      "names": ["Legionary Melchio", "Centurion Melchio", "Legatus Melchio", "Invictus Xeno Melchio"],
+      "LS": ["Crash Impulse", "Destructive Allure", "Wave of Destruction", "Destructive Threat"],
+      "BB": ["Shining Force", "Shining Aura", "Shining Celica", "Aspros"],
+      "SBB": ["Ultimate Angel", "Belial Close"],
+      "UBB": "Dusk Demon's Advent",
+      "ES": "Soul Blessed by the Gods",
       "story": [
         "Just before the gods attacked, it has been recorded that an angel descended upon the frozen Lake Lordahn in Lizeria. Its beautiful armor and the wings of light coming from its back were fitting for the messenger of the gods. However, without speaking a word he suddenly took up his blue flamed dual-tipped spear and one by one laid waste to the villages around him. Without evading, he took oncoming counterattacks with his armor, trampling down the people as they tried to escape.",
         "A ten-winged figure that appeared in Lizeria, tormenting its people even before the war with the gods had begun. Though his true identity remains unknown, many wonder if he was in fact part of the gods' initial attack given how he shined more with every life he took. After laying waste to a handful of villages, he was overtaken by a <span class='pseudolink' onclick=searchBatch('Battle_Before_the_Gods')>mysterious battalion</span>. However, neither his body let alone his armor were left behind, leaving some to doubt that maybe he was just a product of the people's imagination.",
-        "A ten-winged figure that laid waste to Lizeria. Though <span class='pseudolink' onclick=searchName('Michele')>Michele</span> and her battalion overtook this tormentor, a mysterious light from above shone upon him, reviving him and making him stronger than ever. His evolved power was enough to knock the entire battalion onto the ground in an instant. Michele was the one courageous enough to face him again, attacking him with everything she had. Her actions inspired the rest to rise up and defeat him once and for all... or so they had thought. He still had another trick up his sleeve that could render all their efforts pointless."
+        "A ten-winged figure that laid waste to Lizeria. Though <span class='pseudolink' onclick=searchName('Michele')>Michele</span> and her battalion overtook this tormentor, a mysterious light from above shone upon him, reviving him and making him stronger than ever. His evolved power was enough to knock the entire battalion onto the ground in an instant. Michele was the one courageous enough to face him again, attacking him with everything she had. Her actions inspired the rest to rise up and defeat him once and for all... or so they had thought. He still had another trick up his sleeve that could render all their efforts pointless.",
+        "A ten-winged figure that laid waste to Lizeria. His identity turned out to be one of the 'Six Armors' that had been created by a <span class='pseudolink' onclick=searchName('Reis')>scientist from another world</span>. Having been destroyed by DUEL-GX, another of the Six Armors, its functions came to a complete stop. However, after the people of Grand Gaia were eradicated by the gods, Melchio came back to life as a monstrous being very unlike his original self. He continued to fight the gods until his half-broken armor was completely destroyed, though the reasons behind this course of action remain unknown."
       ]
     },
     "related": [
@@ -2410,6 +2416,7 @@ var units = {
       "<span class='pseudolink' onclick=locSelect('Otherworld')>Otherworld</span>",
       "<span class='pseudolink' onclick=searchName('Michele')>Michele</span>",
       "<span class='pseudolink' onclick=searchName('Reis')>Reis</span>",
+      "<span class='pseudolink' onclick=searchName('Duel-GX')>Duel-GX</span>",
       "<span class='pseudolink' onclick=searchName('White_Armor')>White Armor</span>"
     ]
   },
@@ -3089,9 +3096,9 @@ var units = {
       "BB": ["Cruel Invitation", "Death's Invitation", "Hypnos"],
       "SBB": ["Tartaros"],
       "story": [
-        "One of the 12 Guardians of the Gods, protectors of the land of the gods. Friends with Sodis and his younger brother since childhood, it is theorized that she held a special interest in the older Sodis. Once he was selected to be in the Guardians, she worked towards getting in as well. Though she was known for her ability to manipulate shadows as well as her magnificent lance wielding abilities, she was also very family-oriented and thoughtful, and it's said she was the mother figure of the 12 Guardians.",
-        "One of the 12 Guardians, wielding a lance and the power to manipulate shadows. Thinking there's a chance there was just some misunderstanding, upon hearing of Sodis' betrayal she did her best to calmly assess the situation. However, after seeing Farlon wounded and finding out how many others had defected as well, she came to accept the insurrection was real. Sad that Sodis hadn't requested her council at all, Lunaris was encouraged by Sodis' younger brother and it's said she decided to defeat the traitors as a member of the Guardians.",
-        "One of the 12 Guardians, wielding a lance and the power to manipulate shadows. She chased after the traitor Sodis alongside his brother and her childhood friend, Alyut. She thought for a moment she might try to persuade the man who was so kind to her before, but she determined regardless of how he reacted the gods would never forgive him. As she gathered her magical power and prepared to release one of her hidden shadow techniques, she said, 'If it must be done, then I shall do it', as she realized herself that she would clash swords with Sodis."
+        "One of the 12 Guardians of the Gods, protectors of the land of the gods. Friends with <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span> and his <span class='pseudolink' onclick=searchName('Alyut')>younger brother</span> since childhood, it is theorized that she held a special interest in the older Sodis. Once he was selected to be in the Guardians, she worked towards getting in as well. Though she was known for her ability to manipulate shadows as well as her magnificent lance wielding abilities, she was also very family-oriented and thoughtful, and it's said she was the mother figure of the 12 Guardians.",
+        "One of the 12 Guardians, wielding a lance and the power to manipulate shadows. Thinking there's a chance there was just some misunderstanding, upon hearing of <span class='pseudolink' onclick=searchName('Sodis')>Sodis'</span> betrayal she did her best to calmly assess the situation. However, after seeing <span class='pseudolink' onclick=searchName('Farlon')>Farlon</span> wounded and finding out how many others had defected as well, she came to accept the insurrection was real. Sad that Sodis hadn't requested her council at all, Lunaris was encouraged by <span class='pseudolink' onclick=searchName('Alyut')>Sodis' younger brother</span> and it's said she decided to defeat the traitors as a member of the Guardians.",
+        "One of the 12 Guardians, wielding a lance and the power to manipulate shadows. She chased after the traitor <span class='pseudolink' onclick=searchName('Sodis')>Sodis</span> alongside his brother and her childhood friend, <span class='pseudolink' onclick=searchName('Alyut')>Alyut</span>. She thought for a moment she might try to persuade the man who was so kind to her before, but she determined regardless of how he reacted the gods would never forgive him. As she gathered her magical power and prepared to release one of her hidden shadow techniques, she said, 'If it must be done, then I shall do it', as she realized herself that she would clash swords with Sodis."
       ]
     },
     "related": [
